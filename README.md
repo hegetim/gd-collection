@@ -29,7 +29,8 @@ Refer to `gd_metadata.csv` in the root directory of this repository for title, p
 Harvesting Graphs
 -----------------
 
-The drawings were extracted in a fully automated and unsupervised process using [Graph Harvester]().
+The drawings were extracted in a fully automated and unsupervised process using
+[Graph Harvester](https://github.com/hegetim/graph-harvester-v2).
 Note that Graph Harvester can only handle vector graphics.  In a first evaluation, where we manually
 checked 101 articles picked at random, we found that Graph Harvester managed to extract 48% of all
 drawings in the PDFs and of those 69% were of high quality (i.e. they accurately reproduce the
