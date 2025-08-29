@@ -9,7 +9,7 @@ editions of the proceedings of the Symposium of Graph Drawing (and Network Visua
 Graph Storage Formats
 ---------------------
 
-The collection contains graphs in GEG (GEG Encodes Graphs [^todo]) and GraphViz Dot file formats.
+The collection contains graphs in [GEG]() (GEG Encodes Graphs) and GraphViz Dot file formats.
 Note that while widely used, the dot format extensions for edge geometries (as defined in Appendix F
 of their [User's Manual](https://graphviz.org/pdf/dotguide.pdf)) is rather niche and may not be
 supported by most software.  We recommend using the GEG versions.
