@@ -1,0 +1,1038 @@
+filename,gd_year,title,doi,pages,authors
+GD00_5-18.pdf,GD00,User Preference of Graph Layout Aesthetics: A UML Study,10.1007/3-540-44541-2_2,5-18,Helen C. Purchase; Jo-Anne Allder; David Carrington
+GD00_19-30.pdf,GD00,A User Study in Similarity Measures for Graph Drawing,10.1007/3-540-44541-2_3,19-30,Stina Bridgeman; Roberto Tamassia
+GD00_31-36.pdf,GD00,"Interactive Partitioning (System Demonstration, Short)",10.1007/3-540-44541-2_4,31-36,Neal Lesh; Joe Marks; Maurizio Patrignani
+GD00_37-51.pdf,GD00,An Experimental Comparison of Orthogonal Compaction Algorithms (Extended Abstract),10.1007/3-540-44541-2_5,37-51,Gunnar W. Klau; Karsten Klein; Petra Mutzel
+GD00_52-62.pdf,GD00,GraphXML - An XML-Based Graph Description Format,10.1007/3-540-44541-2_6,52-62,Ivan Herman; M. Scott Marshall
+GD00_63-76.pdf,GD00,On Polar Visibility Representations of Graphs,10.1007/3-540-44541-2_7,63-76,Joan P. Hutchinson
+GD00_77-90.pdf,GD00,A Linear Time Implementation of SPQR-Trees,10.1007/3-540-44541-2_8,77-90,Carsten Gutwenger; Petra Mutzel
+GD00_91-102.pdf,GD00,Labeling Points with Rectangles of Various Shapes,10.1007/3-540-44541-2_9,91-102,Shin-ichi Nakano; Takao Nishizeki; Takeshi Tokuyama; Shuhei Watanabe
+GD00_103-114.pdf,GD00,How to Draw the Minimum Cuts of a Planar Graph (Extended Abstract),10.1007/3-540-44541-2_10,103-114,Ulrik Brandes; Sabine Cornelsen; Dorothea Wagner
+GD00_115-126.pdf,GD00,2D-Structure Drawings of Similar Molecules,10.1007/3-540-44541-2_11,115-126,J. D. Boissonnat; F. Cazals; J. Flötotto
+GD00_127-138.pdf,GD00,Fast Layout Methods for Timetable Graphs,10.1007/3-540-44541-2_12,127-138,Ulrik Brandes; Galina Shubina; Roberto Tamassia; Dorothea Wagner
+GD00_139-149.pdf,GD00,An Algorithmic Framework for Visualizing Statecharts,10.1007/3-540-44541-2_13,139-149,R. Castelló; R. Mili; I. G. Tollis
+GD00_150-163.pdf,GD00,Visualization of the Autonomous Systems Interconnections with HERMES,10.1007/3-540-44541-2_14,150-163,Andrea Carmignani; Giuseppe Di Battista; Walter Didimo; Francesco Matera; Maurizio Pizzonia
+GD00_164-169.pdf,GD00,Drawing Hypergraphs in the Subset Standard (Short Demo Paper),10.1007/3-540-44541-2_15,164-169,François Bertault; Peter Eades
+GD00_171-182.pdf,GD00,A Multilevel Algorithm for Force-Directed Graph Drawing,10.1007/3-540-44541-2_17,171-182,C. Walshaw
+GD00_183-196.pdf,GD00,A Fast Multi-scale Method for Drawing Large Graphs,10.1007/3-540-44541-2_18,183-196,David Harel; Yehuda Koren
+GD00_197-210.pdf,GD00,"FADE: Graph Drawing, Clustering, and Visual Abstraction",10.1007/3-540-44541-2_19,197-210,Aaron Quigley; Peter Eades
+GD00_211-221.pdf,GD00,A Multi-dimensional Approach to Force-Directed Layouts of Large Graphs,10.1007/3-540-44541-2_20,211-221,Pawel Gajer; Michael T. Goodrich; Stephen G. Kobourov
+GD00_222-228.pdf,GD00,GRIP: Graph dRawing with Intelligent Placement,10.1007/3-540-44541-2_21,222-228,Pawel Gajer; Stephen G. Kobourov
+GD00_229-240.pdf,GD00,A Fast Layout Algorithm for k-Level Graphs,10.1007/3-540-44541-2_22,229-240,Christoph Buchheim; Michael Jünger; Sebastian Leipert
+GD00_241-252.pdf,GD00,Graph Layout for Displaying Data Structures,10.1007/3-540-44541-2_23,241-252,Vance Waddle
+GD00_253-258.pdf,GD00,k-Layer Straightline Crossing Minimization by Speeding Up Sifting,10.1007/3-540-44541-2_24,253-258,Wolfgang Günther; Robby Schönfeld; Bernd Becker; Paul Molitor
+GD00_259-271.pdf,GD00,Lower Bounds for the Number of Bends in Three-Dimensional Orthogonal Graph Drawings,10.1007/3-540-44541-2_25,259-271,David R. Wood
+GD00_272-283.pdf,GD00,Orthogonal Drawings of Cycles in 3D Space (Extended Abstract),10.1007/3-540-44541-2_26,272-283,Giuseppe Di Battista; Giuseppe Liotta; Anna Lubiw; Sue Whitesides
+GD00_284-295.pdf,GD00,Three-Dimensional Orthogonal Graph Drawing with Optimal Volume,10.1007/3-540-44541-2_27,284-295,Therese Biedl; Torsten Thiele; David R. Wood
+GD00_296-307.pdf,GD00,A Linear-Time Algorithm for Bend-Optimal Orthogonal Drawings of Biconnected Cubic Plane Graphs (Extended Abstract),10.1007/3-540-44541-2_28,296-307,Shin-ichi Nakano; Makiko Yoshikawa
+GD00_308-320.pdf,GD00,Refinement of Three-Dimensional Orthogonal Graph Drawings,10.1007/3-540-44541-2_29,308-320,Benjamin Y. S. Lynn; Antonios Symvonis; David R. Wood
+GD00_321-327.pdf,GD00,w-Searchlight Obedient Graph Drawings,10.1007/3-540-44541-2_30,321-327,Gill Barequet
+GD00_328-337.pdf,GD00,Unavoidable Configurations in Complete Topological Graphs,10.1007/3-540-44541-2_31,328-337,János Pach; Géza Tóth
+GD00_338-349.pdf,GD00,Minimum Weight Drawings of Maximal Triangulations (Extended Abstract),10.1007/3-540-44541-2_32,338-349,William Lenhart; Giuseppe Liotta
+GD00_350-359.pdf,GD00,A Layout Algorithm for Bar-Visibility Graphs on the Möbius Band,10.1007/3-540-44541-2_33,350-359,Alice M. Dean
+GD00_360-371.pdf,GD00,An Algorithm for Finding Three Dimensional Symmetry in Trees,10.1007/3-540-44541-2_34,360-371,Seok-Hee Hong; Peter Eades
+GD00_372-383.pdf,GD00,On Maximum Symmetric Subgraphs,10.1007/3-540-44541-2_35,372-383,Ho-Lin Chen; Hsueh-I. Lu; Hsu-Chun Yen
+GD00_384-395.pdf,GD00,Clan-Based Incremental Drawing,10.1007/3-540-44541-2_36,384-395,Fwu-Shan Shieh; Carolyn L. McCreary
+GD00_396-406.pdf,GD00,The Marey Graph Animation Tool Demo,10.1007/3-540-44541-2_37,396-406,Carsten Friedrich; Peter Eades
+GD01_15-29.pdf,GD01,A Fixed-Parameter Approach to Two-Layer Planarization,10.1007/3-540-45848-4_1,15-29,V. Dujmović; M. Fellows; M. Hallett; M. Kitching; Giuseppe Liotta; C. McCartin; N. Nishimura; P. Ragde; F. Rosamond; M. Suderman; S. Whitesides; David R. Wood
+GD01_30-44.pdf,GD01,How to Layer a Directed Acyclic Graph,10.1007/3-540-45848-4_2,30-44,Patrick Healy; Nikola S. Nikolov
+GD01_45-58.pdf,GD01,Fast and Simple Horizontal Coordinate Assignment,10.1007/3-540-45848-4_3,45-58,Ulrik Brandes; Boris Köpf
+GD01_59-73.pdf,GD01,Automated Visualization of Process Diagrams,10.1007/3-540-45848-4_4,59-73,Janet M. Six; Ioannis G. Tollis
+GD01_74-88.pdf,GD01,Planarization of Clustered Graphs,10.1007/3-540-45848-4_5,74-88,Giuseppe Di Battista; Walter Didimo; A. Marcandalli
+GD01_89-97.pdf,GD01,An Algorithm for Finding Large Induced Planar Subgraphs,10.1007/3-540-45848-4_6,89-97,Keith Edwards; Graham Farr
+GD01_98-109.pdf,GD01,A Characterization of DFS Cotree Critical Graphs,10.1007/3-540-45848-4_7,98-109,Hubert de Fraysseix; Patrice Ossona de Mendez
+GD01_110-115.pdf,GD01,An Improved Lower Bound for Crossing Numbers,10.1007/3-540-45848-4_8,110-115,Hristo Djidjev; Imrich Vrt’o
+GD01_116-128.pdf,GD01,Crossing-Critical Graphs and Path-Width,10.1007/3-540-45848-4_9,116-128,Petr Hliněný
+GD01_129-137.pdf,GD01,One Sided Crossing Minimization Is NP-Hard for Sparse Graphs,10.1007/3-540-45848-4_10,129-137,Xavier Muñoz; W. Unger; Imrich Vrt’o
+GD01_138-152.pdf,GD01,Fast Compaction for Orthogonal Drawings with Vertices of Prescribed Size,10.1007/3-540-45848-4_11,138-152,Markus Eiglsperger; Michael Kaufmann
+GD01_153-167.pdf,GD01,Labeling Heuristics for Orthogonal Drawings,10.1007/3-540-45848-4_12,153-167,Carla Binucci; Walter Didimo; Giuseppe Liotta; Maddalena Nonato
+GD01_168-175.pdf,GD01,Untangling a Polygon,10.1007/3-540-45848-4_13,168-175,János Pach; Gábor Tardos
+GD01_176-191.pdf,GD01,Drawing with Fat Edges,10.1007/3-540-45848-4_14 ,176-191,Christian A. Duncan; Alon Efrat; Stephen G. Kobourov; Carola Wenk
+GD01_192-202.pdf,GD01,Detecting Symmetries by Branch & Cut,10.1007/3-540-45848-4_15 ,192-202,Christoph Buchheim; Michael Jünger
+GD01_203-218.pdf,GD01,Drawing Graphs Symmetrically in Three Dimensions,10.1007/3-540-45848-4_16,203-218,Seok-Hee Hong
+GD01_219-233.pdf,GD01,User Hints for Directed Graph Drawing,10.1007/3-540-45848-4_17,219-233,Hugo A. D. Nascimento; Peter Eades
+GD01_234-245.pdf,GD01,Graph Drawing in Motion II,10.1007/3-540-45848-4_18,234-245,Carsten Friedrich; Michael E. Houle
+GD01_246-260.pdf,GD01,Online Hierarchical Graph Drawing,10.1007/3-540-45848-4_19,246-260,Stephen C. North; Gordon Woodhull
+GD01_261-274.pdf,GD01,Recognizing String Graphs Is Decidable,10.1007/3-540-45848-4_20,261-274,János Pach; Géza Tóth
+GD01_275-285.pdf,GD01,On Intersection Graphs of Segments with Prescribed Slopes,10.1007/3-540-45848-4_21 ,275-285,Jakub Černý; Daniel Král; Helena Nyklová; Ondřej Pangrác
+GD01_286-300.pdf,GD01,A Short Note on the History of Graph Drawing,10.1007/3-540-45848-4_22,286-300,Eriola Kruja; Joe Marks; Ann Blair; Richard Waters
+GD01_301-310.pdf,GD01,Towards an Aesthetic Invariant for Graph Drawing,10.1007/3-540-45848-4_23,301-310,Jan Adamec; Jaroslav Nešetřil
+GD01_311-325.pdf,GD01,Orthogonal Drawings with Few Layers,10.1007/3-540-45848-4_24,311-325,Therese Biedl; John R. Johansen; Thomas Shermer; David R. Wood
+GD01_326-341.pdf,GD01,Bounded Degree Book Embeddings and Three-Dimensional Orthogonal Graph Drawing,10.1007/3-540-45848-4_25,326-341,David R. Wood
+GD01_342-356.pdf,GD01,Straight-Line Drawings on Restricted Integer Grids in Two and Three Dimensions,10.1007/3-540-45848-4_26 ,342-356,Stefan Felsner; Giuseppe Liotta; Stephen Wismath
+GD01_357-365.pdf,GD01,Low-Distortion Embeddings of Trees,10.1007/3-540-45848-4_27 ,357-365,Robert Babilon; Jiří Matoušek; Jana Maxová; Pavel Valtr
+GD01_366-380.pdf,GD01,Insight into Data through Visualization,10.1007/3-540-45848-4_28,366-380,Eduard Gröller
+GD01_381-391.pdf,GD01,Floor-Planning via Orderly Spanning Trees,10.1007/3-540-45848-4_29,381-391,Liao Chien-Chih; Hsueh I. Lu; Yen Hsu-Chun
+GD01_392-405.pdf,GD01,Disconnected Graph Layout and the Polyomino Packing Approach,10.1007/3-540-45848-4_30,392-405,Karlis Freivalds; Ugur Dogrusoz; Paulis Kikusts
+GD01_406-420.pdf,GD01,Orthogonal Drawings of Plane Graphs without Bends,10.1007/3-540-45848-4_31,406-420,Md. Saidur Rahman; Mahmuda Naznin; Takao Nishizeki
+GD01_421-435.pdf,GD01,Polar Coordinate Drawing of Planar Graphs with Good Angular Resolution,10.1007/3-540-45848-4_32 ,421-435,Christian A. Duncan; Stephen G. Kobourov
+GD01_436-448.pdf,GD01,On Polar Visibility Representations of Graphs,10.1007/3-540-45848-4_33 ,436-448,Joan P. Hutchinson
+GD02_14-24.pdf,GD02,Sketch-Driven Orthogonal Graph Drawing,10.1007/3-540-36151-0_1,14-24,Ulrik Brandes; Markus Eiglsperger; Michael Kaufmann; Dorothea Wagner
+GD02_25-35.pdf,GD02,Maintaining the Mental Map for Circular Drawings,10.1007/3-540-36151-0_2,25-35,Michael Kaufmann; Roland Wiese
+GD02_36-44.pdf,GD02,"Graphs, They Are Changing",10.1007/3-540-36151-0_3,36-44,Stephan Diehl; Carsten Görg
+GD02_45-55.pdf,GD02,Drawing Graphs on Two and Three Lines,10.1007/3-540-36151-0_4,45-55,Sabine Cornelsen; Thomas Schank; Dorothea Wagner
+GD02_56-67.pdf,GD02,Path-Width and Three-Dimensional Straight-Line Grid Drawings of Graphs,10.1007/3-540-36151-0_5,56-67,Vida Dujmović; Pat Morin; David R. Wood
+GD02_68-79.pdf,GD02,Drawing Outer-Planar Graphs O n n in ( log ) Area,10.1007/3-540-36151-0_6,68-79,Therese Biedl
+GD02_80-87.pdf,GD02,Computing Labeled Orthogonal Drawings,10.1007/3-540-36151-0_7,80-87,Carla Binucci; Walter Didimo; Giuseppe Liotta; Maddalena Nonato
+GD02_88-99.pdf,GD02,Computing and Drawing Isomorphic Subgraphs,10.1007/3-540-36151-0_8,88-99,Sabine Bachl; Franz-Josef Brandenburg
+GD02_100-111.pdf,GD02,A Group-Theoretic Method for Drawing Graphs Symmetrically,10.1007/3-540-36151-0_9,100-111,David Abelson; Seok-Hee Hong; Donald E. Taylor
+GD02_112-123.pdf,GD02,A Branch-and-Cut Approach to the Directed Acyclic Graph Layering Problem,10.1007/3-540-36151-0_10,112-123,Patrick Healy; Nikola S. Nikolov
+GD02_124-131.pdf,GD02,Geometric Systems of Disjoint Representatives,10.1007/3-540-36151-0_11,124-131,Jiří Fiala; Jan Kratochvíl; Andrzej Proskurowski
+GD02_132-143.pdf,GD02,An Eﬃcient Fixed Parameter Tractable Algorithm for 1-Sided Crossing Minimization,10.1007/3-540-36151-0_12 ,132-143,Vida Dujmović; Sue Whitesides
+GD02_144-155.pdf,GD02,Simple and Eﬃcient Bilayer Cross Counting,10.1007/3-540-36151-0_13 ,144-155,Wilhelm Barth; Michael Jünger; Petra Mutzel
+GD02_156-163.pdf,GD02,Orthogonal 3D Shapes of Theta Graphs,10.1007/3-540-36151-0_14,156-163,Emilio Di Giacomo; Giuseppe Liotta; Maurizio Patrignani
+GD02_164-176.pdf,GD02,Separating Thickness from Geometric Thickness,10.1007/3-540-36151-0_15,164-176,David Eppstein
+GD02_177-188.pdf,GD02,Book Embeddings and Point-Set Embeddings of Series-Parallel Digraphs,10.1007/3-540-36151-0_16,177-188,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Stephen K. Wismath
+GD02_189-201.pdf,GD02,Compact Encodings of Planar Orthogonal Drawings,10.1007/3-540-36151-0_17,189-201,Amrita Chanda; Ashim Garg
+GD02_202-208.pdf,GD02,Fractional Lengths and Crossing Numbers,10.1007/3-540-36151-0_18,202-208,Ondrej Sýkora; László A. Székely; Imrich Vrt’o
+GD02_209-222.pdf,GD02,Drawing Directed Graphs Using One-Dimensional Optimization,10.1007/3-540-36151-0_19,209-222,Liran Carmel; David Harel; Yehuda Koren
+GD02_223-235.pdf,GD02,Graph Drawing by High-Dimensional Embedding,10.1007/3-540-36151-0_20,223-235,David Harel; Yehuda Koren
+GD02_236-252.pdf,GD02,C Advances in -Planarity Testing of Clustered Graphs,10.1007/3-540-36151-0_21,236-252,Carsten Gutwenger; Michael Jünger; Sebastian Leipert; Petra Mutzel; Merijam Percan; René Weiskircher
+GD02_253-260.pdf,GD02,"HGV: A Library for Hierarchies, Graphs, and Views",10.1007/3-540-36151-0_22,253-260,Marcus Raitner
+GD02_261-272.pdf,GD02,Rectangular Drawings of Planar Graphs,10.1007/3-540-36151-0_23 ,261-272,Md. Saidur Rahman; Takao Nishizeki; Shubhashis Ghosh
+GD02_273-284.pdf,GD02,Extended Rectangular Drawings of Plane Graphs with Designated Corners,10.1007/3-540-36151-0_24,273-284,Kazuyuki Miura; Ayako Miyazawa; Takao Nishizeki
+GD02_285-292.pdf,GD02,RINGS: A Technique for Visualizing Large Hierarchies,10.1007/3-540-36151-0_25,285-292,Soon Tee Teoh; Ma Kwan-Liu
+GD02_293-301.pdf,GD02,Applying Crossing Reduction Strategies to Layered Compound Graphs,10.1007/3-540-36151-0_26,293-301,Michael Forster
+GD02_302-311.pdf,GD02,Crossing Reduction by Windows Optimization,10.1007/3-540-36151-0_27,302-311,Thomas Eschbach; Wolfgang Günther; Rolf Drechsler; Bernd Becker
+GD02_312-328.pdf,GD02,Geometric Graphs with No Self-intersecting Path of Length Three,10.1007/3-540-36151-0_23 ,312-328,Md. Saidur Rahman; Takao Nishizeki; Shubhashis Ghosh
+GD02_329-336.pdf,GD02,Two New Heuristics for Two-Sided Bipartite Graph Drawing,10.1007/3-540-36151-0_29,329-336,Matthew Newton; Ondrej Sýkora; Imrich Vrt’o
+GD02_337-349.pdf,GD02,Straight-Line Drawings of Binary Trees with Linear Area and Arbitrary Aspect Ratio,10.1007/3-540-36151-0_30,337-349,Ashim Garg; Adrian Rusu
+GD02_350-361.pdf,GD02,Some Applications of Orderly Spanning Trees in Graph Drawing,10.1007/3-540-36151-0_31,350-361,Ho-Lin Chen; Chien-Chih Liao; Hsueh-I Lu; Hsu-Chun Yen
+GD02_362-371.pdf,GD02,Improving Walker’s Algorithm to Run in Linear Time,10.1007/3-540-36151-0_32,362-371,Christoph Buchheim; Michael Jünger; Sebastian Leipert
+GD02_372-379.pdf,GD02,Semi-dynamic Orthogonal Drawings of Planar Graphs,10.1007/3-540-36151-0_33,372-379,Walter Bachl
+GD03_16-27.pdf,GD03,Conﬂuent Drawings: Visualizing Non-planar Diagrams in a Planar Way,10.1007/978-3-540-24595-7_1,16-27,Matthew Dickerson; David Eppstein; Michael T. Goodrich; Jeremy Yu Meng
+GD03_28-39.pdf,GD03,An Experimental Study of Crossing Minimization Heuristics,10.1007/978-3-540-24595-7_2,28-39,Carsten Gutwenger; Petra Mutzel
+GD03_40-51.pdf,GD03,Stop Minding Your P’s and Q’s: Implementing a Fast and Simple DFS-Based Planarity Testing and Embedding Algorithm,10.1007/978-3-540-24595-7_3,40-51,John M. Boyer; Pier Francesco Cortese; Maurizio Patrignani; Giuseppe Di Battista
+GD03_52-61.pdf,GD03,k Bounds and Methods for -Planar Crossing Numbers,10.1007/978-3-540-24595-7_4,52-61,Farhad Shahrokhi; Ondrej Sýkora; Laszlo A. Székely; Imrich Vrt’o
+GD03_62-73.pdf,GD03,How Many Ways Can One Draw a Graph?,10.1007/978-3-540-24595-7_5,62-73,János Pach; Géza Tóth
+GD03_74-85.pdf,GD03,Two Results on Intersection Graphs of Polygons,10.1007/978-3-540-24595-7_6,74-85,Jan Kratochvíl; Martin Pergel
+GD03_86-100.pdf,GD03,Stretching of Jordan Arc Contact Systems,10.1007/978-3-540-24595-7_7,86-100,Hubert de Fraysseix; Patrice Ossona de Mendez
+GD03_101-112.pdf,GD03,Noncrossing Hamiltonian Paths in Geometric Graphs,10.1007/978-3-540-24595-7_8,101-112,Jakub Černý; Zdeněk Dvořák; Vít Jelínek; Jan Kára
+GD03_113-125.pdf,GD03,GraphAEL : Graph Animations with Evolving Layouts,10.1007/978-3-540-24595-7_9,113-125,Cesim Erten; Philip J. Harding; Stephen G. Kobourov; Kevin Wampler; Gary Yee
+GD03_126-137.pdf,GD03,Visualizing Related Metabolic Pathways in Two and a Half Dimensions,10.1007/978-3-540-24595-7_10,126-137,Ulrik Brandes; Tim Dwyer; Falk Schreiber
+GD03_138-143.pdf,GD03,GoVisual for CASE Tools Borland Together ControlCenter and Gentleware Poseidon – System Demonstration,10.1007/978-3-540-24595-7_11,138-143,Carsten Gutwenger; Joachim Kupke; Karsten Klein; Sebastian Leipert
+GD03_144-149.pdf,GD03,Area-Eﬃcient Drawings of Outerplanar Graphs,10.1007/978-3-540-24595-7_12 ,144-149,Ashim Garg; Adrian Rusu
+GD03_150-161.pdf,GD03,A Framework for User-Grouped Circular Drawings,10.1007/978-3-540-24595-7_13,150-161,Janet M. Six; Ioannis G. Tollis
+GD03_162-173.pdf,GD03,Fixed-Location Circular-Arc Drawing of Planar Graphs,10.1007/978-3-540-24595-7_14 ,162-173,Alon Efrat; Cesim Erten; Stephen G. Kobourov
+GD03_174-180.pdf,GD03,A More Practical Algorithm for Drawing Binary Trees in Linear Area with Arbitrary Aspect Ratio,10.1007/978-3-540-24595-7_15,174-180,Ashim Garg; Adrian Rusu
+GD03_181-192.pdf,GD03,An Integer Programming Approach to Fuzzy Symmetry Detection,10.1007/978-3-540-24595-7_16,181-192,Christoph Buchheim; Michael Jünger
+GD03_193-204.pdf,GD03,Barycentric Drawings of Periodic Graphs,10.1007/978-3-540-24595-7_17,193-204,Olaf Delgado-Friedrichs
+GD03_205-216.pdf,GD03,Three-Dimensional Grid Drawings with Sub-quadratic Volume,10.1007/978-3-540-24595-7_18,205-216,Vida Dujmović; David R. Wood
+GD03_217-228.pdf,GD03,Laying Out Iterated Line Digraphs Using Queues,10.1007/978-3-540-24595-7_19,217-228,Toru Hasunuma
+GD03_229-240.pdf,GD03,Track Drawings of Graphs with Constant Queue Number,10.1007/978-3-540-24595-7_20,229-240,Emilio Di Giacomo; Henk Meijer
+GD03_241-252.pdf,GD03,3D Visibility Representations of Complete Graphs,10.1007/978-3-540-24595-7_21,241-252,Jan Štola
+GD03_253-261.pdf,GD03,Drawing Series-Parallel Graphs on Restricted Integer 3D Grids,10.1007/978-3-540-24595-7_22,253-261,Emilio Di Giacomo
+GD03_262-273.pdf,GD03,Nearly Optimal Three Dimensional Layout of Hypercube Networks,10.1007/978-3-540-24595-7_23,262-273,Tiziana Calamoneri; Annalisa Massini
+GD03_274-287.pdf,GD03,Graph Embedding with Minimum Depth and Maximum External Face,10.1007/978-3-540-24595-7_24,274-287,Carsten Gutwenger; Petra Mutzel
+GD03_288-297.pdf,GD03,More Eﬃcient Generation of Plane Triangulations,10.1007/978-3-540-24595-7_25,288-297,Shin-ichi Nakano; Takeaki Uno
+GD03_298-309.pdf,GD03,Planar Embeddings of Graphs with Speciﬁed Edge Lengths,10.1007/978-3-540-24595-7_26,298-309,Sergio Cabello; Erik D. Demaine; Günter Rote
+GD03_310-321.pdf,GD03,BGPlay: A System for Visualizing the Interdomain Routing Evolution,10.1007/978-3-540-24595-7_27,310-321,Giuseppe Di Battista; Federico Mariani; Maurizio Patrignani; Maurizio Pizzonia
+GD03_322-328.pdf,GD03,GraphEx: An Improved Graph Translation Service,10.1007/978-3-540-24595-7_28,322-328,Stina Bridgeman
+GD03_329-334.pdf,GD03,"A Constrained, Force-Directed Layout Algorithm for Biological Pathways",10.1007/978-3-540-24595-7_29,329-334,Burkay Genc; Ugur Dogrusoz
+GD03_335-346.pdf,GD03,Intersection-Free Morphing of Planar Graphs,10.1007/978-3-540-24595-7_30,335-346,Cesim Erten; Stephen G. Kobourov; Chandan Pitta
+GD03_347-359.pdf,GD03,Fixed Parameter Algorithms for one-sided crossing minimization Revisited,10.1007/978-3-540-24595-7_31,347-359,Vida Dujmović; Henning Fernau; Michael Kaufmann
+GD03_360-371.pdf,GD03,Experiments with the Fixed-Parameter Approach for Two-Layer Planarization,10.1007/978-3-540-24595-7_32,360-371,Matthew Suderman; Sue Whitesides
+GD03_372-383.pdf,GD03,Characterizing Families of Cuts That Can Be Represented by Axis-Parallel Rectangles,10.1007/978-3-540-24595-7_33,372-383,Ulrik Brandes; Sabine Cornelsen; Dorothea Wagner
+GD03_384-395.pdf,GD03,Convex Drawing for c-Planar Biconnected Clustered Graphs,10.1007/978-3-540-24595-7_34,384-395,Hiroshi Nagamochi; Katsutoshi Kuroya
+GD03_396-401.pdf,GD03,Layout of Directed Hypergraphs with Orthogonal Hyperedges,10.1007/978-3-540-24595-7_35,396-401,Georg Sander
+GD03_402-407.pdf,GD03,No-Bend Orthogonal Drawings of Subdivisions of Planar Triconnected Cubic Graphs,10.1007/978-3-540-24595-7_36,402-407,Md. Saidur Rahman; Noritsugu Egi; Takao Nishizeki
+GD03_408-420.pdf,GD03,Radial Level Planarity Testing and Embedding in Linear Time,10.1007/978-3-540-24595-7_37,408-420,Christian Bachmaier; Franz J. Brandenburg; Michael Forster
+GD03_421-433.pdf,GD03,An Improved Approximation to the One-Sided Bilayer Drawing,10.1007/978-3-540-24595-7_38,421-433,Hiroshi Nagamochi
+GD03_434-439.pdf,GD03,Straight-Line Drawings of 2-Outerplanar Graphs on Two Curves,10.1007/978-3-540-24595-7_39,434-439,Emilio Di Giacomo; Walter Didimo
+GD03_440-451.pdf,GD03,An Energy Model for Visual Graph Clustering,10.1007/978-3-540-24595-7_40,440-451,Andreas Noack
+GD03_452-464.pdf,GD03,Simultaneous Graph Drawing: Layout Algorithms and Visualization Schemes,10.1007/978-3-540-24595-7_41,452-464,Cesim Erten; Stephen G. Kobourov; Vu Le; Armand Navabi
+GD03_465-474.pdf,GD03,Axis-by-Axis Stress Minimization,10.1007/978-3-540-24595-7_42,465-474,Yehuda Koren; David Harel
+GD03_475-480.pdf,GD03,Drawing Graphs with Nonuniform Nodes Using Potential Fields,10.1007/978-3-540-24595-7_43,475-480,Jen-Hui Chuang; Chun-Cheng Lin; Hsu-Chun Yen
+GD03_481-492.pdf,GD03,Drawing Area-Proportional Venn and Euler Diagrams,10.1007/978-3-540-24595-7_44,481-492,Stirling Chow; Frank Ruskey
+GD03_493-505.pdf,GD03,Optimal Pants Decompositions and Shortest Homotopic Cycles on an Orientable Surface,10.1007/978-3-540-24595-7_45,493-505,Éric Colin de Verdière; Francis Lazarus
+GD04_13-23.pdf,GD04,Reconﬁguring Triangulations with Edge Flips and Point Moves,10.1007/978-3-540-31843-9_1 ,13-23,Greg Aloupis; Prosenjit Bose; Pat Morin
+GD04_24-29.pdf,GD04,Drawing Power Law Graphs,10.1007/978-3-540-31843-9_2,24-29,Reid Andersen; Fan Chung; Lincoln Lu
+GD04_30-36.pdf,GD04,Hexagonal Grid Drawings: Algorithms and Lower Bounds,10.1007/978-3-540-31843-9_3,30-36,Shabnam Aziza; Therese Biedl
+GD04_37-47.pdf,GD04,"≤ k Improved Bounds for the Number of ( )-Sets, Convex Quadrilaterals, K and the Rectilinear Crossing Number of",10.1007/978-3-540-31843-9_4,37-47,József Balogh; Gelasio Salazar
+GD04_48-54.pdf,GD04,On the Realizable Weaving Patterns R of Polynomial Curves in,10.1007/978-3-540-31843-9_5,48-54,Saugata Basu; Raghavan Dhandapani; Richard Pollack
+GD04_55-60.pdf,GD04,Drawing the AS Graph in 2.5 Dimensions,10.1007/978-3-540-31843-9_6,55-60,Michael Baur; Ulrik Brandes; Marco Gaertler; Dorothea Wagner
+GD04_61-71.pdf,GD04,Boundary Labeling: Models and Eﬃcient Algorithms for Rectangular Maps,10.1007/978-3-540-31843-9_7,61-71,Michael A. Bekos; Michael Kaufmann; Antonios Symvonis; Alexander Wolff
+GD04_72-82.pdf,GD04,Convex Drawings of 3-Connected Plane Graphs,10.1007/978-3-540-31843-9_8,72-82,Nicolas Bonichon; Stefan Felsner; Mohamed Mosbah
+GD04_83-93.pdf,GD04,Partitions of Complete Geometric Graphs into Plane Trees,10.1007/978-3-540-31843-9_9,83-93,Prosenjit Bose; Ferran Hurtado; Eduardo Rivera-Campo; David R. Wood
+GD04_94-100.pdf,GD04,Additional PC-Tree Planarity Conditions,10.1007/978-3-540-31843-9_10,94-100,John M. Boyer
+GD04_101-111.pdf,GD04,GraphML Transformation,10.1007/978-3-540-31843-9_11,101-111,Ulrik Brandes; Christian Pich
+GD04_112-122.pdf,GD04,Clustering Cycles into Cycles of Clusters,10.1007/978-3-540-31843-9_12,112-122,Pier Francesco Cortese; Giuseppe Di Battista; Maurizio Patrignani; Maurizio Pizzonia
+GD04_123-133.pdf,GD04,Unit Bar-Visibility Layouts of Triangulated Polygons,10.1007/978-3-540-31843-9_13,123-133,Alice M. Dean; Ellen Gethner; Joan P. Hutchinson
+GD04_134-144.pdf,GD04,Really Straight Graph Drawings,10.1007/978-3-540-31843-9_14,134-144,Vida Dujmović; Matthew Suderman; David R. Wood
+GD04_145-155.pdf,GD04,Layouts of Graph Subdivisions,10.1007/978-3-540-31843-9_15,145-155,Vida Dujmović; David R. Wood
+GD04_156-166.pdf,GD04,Label Number Maximization in the Slider Model,10.1007/978-3-540-31843-9_16,156-166,Dietmar Ebner; Gunnar W. Klau; René Weiskircher
+GD04_167-178.pdf,GD04,An Eﬃcient Implementation of Sugiyama’s Algorithm for Layered Graph Drawing,10.1007/978-3-540-31843-9_17,167-178,Markus Eiglsperger; Martin Siebenhaller; Michael Kaufmann
+GD04_179-184.pdf,GD04,Random Geometric Graph Diameter ℓ in the Unit Disk with Metric,10.1007/978-3-540-31843-9_18,179-184,Robert B. Ellis; Jeremy L. Martin; Catherine Yan
+GD04_185-195.pdf,GD04,Algorithms for Drawing Media,10.1007/978-3-540-31843-9_19,185-195,David Eppstein
+GD04_196-206.pdf,GD04,Conﬂuent Layered Drawings,10.1007/978-3-540-31843-9_20,196-206,David Eppstein; Michael T. Goodrich; Jeremy Yu Meng
+GD04_207-217.pdf,GD04,Simultaneous Embedding of Planar Graphs with Few Bends,10.1007/978-3-540-31843-9_21,207-217,Cesim Erten; Stephen G. Kobourov
+GD04_218-228.pdf,GD04,A Fast and Simple Heuristic for Constrained Two-Level Crossing Reduction,10.1007/978-3-540-31843-9_22,218-228,Michael Forster
+GD04_229-239.pdf,GD04,Contact and Intersection Representations,10.1007/978-3-540-31843-9_23,229-239,Hubert de Fraysseix; Patrice Ossona de Mendez
+GD04_240-250.pdf,GD04,Dynamic Graph Drawing of Sequences of Orthogonal and Hierarchical Graphs,10.1007/978-3-540-31843-9_24,240-250,Carsten Görg; Peter Birke; Mathias Pohl; Stephan Diehl
+GD04_251-262.pdf,GD04,Graph Drawing by Stress Majorization,10.1007/978-3-540-31843-9_25,251-262,Emden R. Gansner; Yehuda Koren; Stephen North
+GD04_263-273.pdf,GD04,Computing Radial Drawings on the Minimum Number of Circles,10.1007/978-3-540-31843-9_26,263-273,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Henk Meijer
+GD04_274-284.pdf,GD04,Hamiltonian-with-Handles Graphs k and the -Spine Drawability Problem,10.1007/978-3-540-31843-9_27,274-284,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Matthew Suderman
+GD04_285-296.pdf,GD04,Distributed Graph Layout for Sensor Networks,10.1007/978-3-540-31843-9_28,285-296,Craig Gotsman; Yehuda Koren
+GD04_297-307.pdf,GD04,Drawing Large Graphs with a Potential-Field-Based Multilevel Algorithm,10.1007/978-3-540-31843-9_29,297-307,Stefan Hachul; Michael Jünger
+GD04_308-318.pdf,GD04,Building Blocks of Upward Planar Digraphs,10.1007/978-3-540-31843-9_30,308-318,Patrick Healy; Karol Lynch
+GD04_319-329.pdf,GD04,A Linear Time Algorithm for Constructing Maximally Symmetric Straight-Line Drawings of Planar Graphs,10.1007/978-3-540-31843-9_31,319-329,Seok-Hee Hong; Peter Eades
+GD04_330-340.pdf,GD04,Train Tracks and Conﬂuent Drawings,10.1007/978-3-540-31843-9_32,330-340,Peter Hui; Marcus Schaefer; Daniel Štefankovič
+GD04_341-351.pdf,GD04,The Three Dimensional Logic Engine,10.1007/978-3-540-31843-9_33,341-351,Matthew Kitching; Sue Whitesides
+GD04_352-360.pdf,GD04,Long Alternating Paths in Bicolored Point Sets,10.1007/978-3-540-31843-9_34,352-360,Jan Kynčl; János Pach; Géza Tóth
+GD04_361-371.pdf,GD04,Intersection Reverse Sequences and Geometric Applications,10.1007/978-3-540-31843-9_35,361-371,Adam Marcus; Gábor Tardos
+GD04_372-382.pdf,GD04,New Exact Results and Bounds for Bipartite Crossing Numbers of Meshes,10.1007/978-3-540-31843-9_36,372-382,Matthew C. Newton; Ondrej Sýkora; Martin Užovič; Imrich Vrt’o
+GD04_383-388.pdf,GD04,Drawing Pfaﬃan Graphs,10.1007/978-3-540-31843-9_37,383-388,Serguei Norine
+GD04_389-400.pdf,GD04,3D Visualization of Semantic Metadata Models and Ontologies,10.1007/978-3-540-31843-9_38,389-400,Charalampos Papamanthou; Ioannis G. Tollis; Martin Doerr
+GD04_401-406.pdf,GD04,A Note on the Self-similarity of Some Orthogonal Drawings,10.1007/978-3-540-31843-9_39,401-406,Maurizio Patrignani
+GD04_407-414.pdf,GD04,No-Three-in-Line-in-3D,10.1007/978-3-540-31843-9_40,407-414,Attila Pór; David R. Wood
+GD04_415-425.pdf,GD04,Visual Navigation of Compound Graphs,10.1007/978-3-540-31843-9_41,415-425,Marcus Raitner
+GD04_426-436.pdf,GD04,Layout Volumes of the Hypercube,10.1007/978-3-540-31843-9_42,426-436,Lubomir Torok; Imrich Vrt’o
+GD04_437-442.pdf,GD04,New Theoretical Bounds of Visibility Representation of Plane Graphs,10.1007/978-3-540-31843-9_43,437-442,Huaming Zhang; Xin He
+GD05_15-26.pdf,GD05,Crossings and Permutations,10.1007/11618058_1,15-26,Therese Biedl; Franz J. Brandenburg; Xiaotie Deng
+GD05_27-38.pdf,GD05,Morphing Planar Graphs While Preserving Edge Directions,10.1007/11618058_2,27-38,Therese Biedl; Anna Lubiw; Michael J. Spriggs
+GD05_39-50.pdf,GD05,Dynamic Spectral Layout of Small Worlds,10.1007/11618058_3,39-50,Ulrik Brandes; Daniel Fleischer; Thomas Puppe
+GD05_51-62.pdf,GD05,Exact Crossing Minimization,10.1007/11618058_4,51-62,Christoph Buchheim; Dietmar Ebner; Michael Jünger; Gunnar W. Klau; Petra Mutzel; René Weiskircher
+GD05_63-74.pdf,GD05,On Embedding a Cycle in a Plane Graph,10.1007/11618058_5,63-74,Pier Francesco Cortese; Giuseppe Di Battista; Maurizio Patrignani; Maurizio Pizzonia
+GD05_75-86.pdf,GD05,On Rectilinear Duals for Vertex-Weighted Plane Graphs,10.1007/11618058_6,75-86,Mark de Berg; Elena Mumford; Bettina Speckmann
+GD05_87-96.pdf,GD05,"k Bar -Visibility Graphs: Bounds on the Number of Edges, Chromatic Number, and Thickness",10.1007/11618058_7,87-96,Alice M. Dean; William Evans; Ellen Gethner; Joshua D. Laison; Mohammad Ali Safari; William T. Trotter
+GD05_97-102.pdf,GD05,K Drawing in Three Dimensions with One Bend Per Edge,10.1007/11618058_8,97-102,Olivier Devillers; Hazel Everett; Sylvain Lazard; Maria Pentcheva; Stephen K. Wismath
+GD05_103-114.pdf,GD05,Small Area Drawings of Outerplanar Graphs,10.1007/11618058_9,103-114,Giuseppe Di Battista; Fabrizio Frati
+GD05_115-124.pdf,GD05,Volume Requirements of 3D Upward Drawings,10.1007/11618058_10,115-124,Emilio Di Giacomo; Giuseppe Liotta; Henk Meijer; Stephen K. Wismath
+GD05_125-130.pdf,GD05,How to Embed a Path onto Two Sets of Points,10.1007/11618058_11,125-130,Emilio Di Giacomo; Giuseppe Liotta; Francesco Trotta
+GD05_131-142.pdf,GD05,Upward Spirality and Upward Planarity Testing,10.1007/11618058_12,131-142,Walter Didimo; Francesco Giordano; Giuseppe Liotta
+GD05_143-154.pdf,GD05,Graph Treewidth and Geometric Thickness Parameters,10.1007/11618058_13,143-154,Vida Dujmović; David R. Wood
+GD05_155-166.pdf,GD05,Stress Majorization with Orthogonal Ordering Constraints,10.1007/11618058_14,155-166,Tim Dwyer; Yehuda Koren; Kim Marriott
+GD05_167-178.pdf,GD05,Fast Node Overlap Removal,10.1007/11618058_15,167-178,Tim Dwyer; Kim Marriott; Peter J. Stuckey
+GD05_179-190.pdf,GD05,Delta-Conﬂuent Drawings,10.1007/11618058_16,179-190,David Eppstein; Michael T. Goodrich; Jeremy Yu Meng
+GD05_191-202.pdf,GD05,"Transversal Structures on Triangulations, with Application to Straight-Line Drawing",10.1007/11618058_17,191-202,Éric Fusy
+GD05_203-214.pdf,GD05,A Hybrid Model for Drawing Dynamic and Evolving Graphs,10.1007/11618058_18,203-214,Marco Gaertler; Dorothea Wagner
+GD05_215-224.pdf,GD05,Two Trees Which Are Self–intersecting When Drawn Simultaneously,10.1007/11618058_19,215-224,Markus Geyer; Michael Kaufmann; Imrich Vrťo
+GD05_225-236.pdf,GD05,C-Planarity of Extrovert Clustered Graphs,10.1007/11618058_20,225-236,Michael T. Goodrich; George S. Lueker; Jonathan Z. Sun
+GD05_237-248.pdf,GD05,Non-planar Core Reduction of Graphs,10.1007/11618058_21,237-248,Carsten Gutwenger; Markus Chimani
+GD05_249-264.pdf,GD05,An Experimental Comparison of Fast Algorithms for Drawing General Large Graphs,10.1007/11618058_22,249-264,Stefan Hachul; Michael Jünger
+GD05_265-275.pdf,GD05,Hierarchical Layouts of Directed Graphs in Three Dimensions,10.1007/11618058_23,265-275,Seok-Hee Hong; Nikola S. Nikolov
+GD05_276-287.pdf,GD05,Layout Eﬀects on Sociogram Perception,10.1007/11618058_24,276-287,Weidong Huang; Seok-Hee Hong; Peter Eades
+GD05_288-298.pdf,GD05,On Edges Crossing Few Other Edges in Simple Topological Complete Graphs,10.1007/11618058_25,288-298,Jan Kynčl; Pavel Valtr
+GD05_299-310.pdf,GD05,On Balloon Drawings of Rooted Trees,10.1007/11618058_26,299-310,Chun-Cheng Lin; Hsu-Chun Yen
+GD05_311-322.pdf,GD05,Convex Drawings of Plane Graphs of Minimum Outer Apices,10.1007/11618058_27,311-322,Kazuyuki Miura; Machiko Azuma; Takao Nishizeki
+GD05_323-334.pdf,GD05,Energy-Based Clustering of Graphs with Nonuniform Degrees,10.1007/11618058_28,323-334,Andreas Noack
+GD05_335-347.pdf,GD05,A Mixed-Integer Program for Drawing High-Quality Metro Maps,10.1007/11618058_29,335-347,Martin Nöllenburg; Alexander Wolff
+GD05_348-356.pdf,GD05,Crossing Number of Toroidal Graphs,10.1007/11618058_30,348-356,János Pach; Géza Tóth
+GD05_357-368.pdf,GD05,Drawing Graphs Using Modular Decomposition,10.1007/11618058_31,357-368,Charis Papadopoulos; Constantinos Voglis
+GD05_369-381.pdf,GD05,st Applications of Parameterized -Orientations in Graph Drawing Algorithms,10.1007/11618058_32,369-381,Charalampos Papamanthou; Ioannis G. Tollis
+GD05_382-393.pdf,GD05,Complexity Results for Three-Dimensional Orthogonal Graph Drawing,10.1007/11618058_33,382-393,Maurizio Patrignani
+GD05_394-399.pdf,GD05,On Extending a Partial Straight-Line Drawing,10.1007/11618058_34,394-399,Maurizio Patrignani
+GD05_400-410.pdf,GD05,Odd Crossing Number Is Not Crossing Number,10.1007/11618058_35,400-410,Michael J. Pelsmajer; Marcus Schaefer; Daniel Štefankovič
+GD05_411-422.pdf,GD05,Minimum Depth Graph Embeddings and Quality of the Drawings: An Experimental Analysis,10.1007/11618058_36,411-422,Maurizio Pizzonia
+GD05_423-434.pdf,GD05,No-bend Orthogonal Drawings of Series-Parallel Graphs,10.1007/11618058_37,423-434,Md. Saidur Rahman; Noritsugu Egi; Takao Nishizeki
+GD05_435-447.pdf,GD05,"Parallel-Redrawing Mechanisms, Pseudo-Triangulations and Kinetic Planar Graphs",10.1007/11618058_38,435-447,Ileana Streinu
+GD05_448-459.pdf,GD05,Proper and Planar Drawings of Graphs on Three Layers,10.1007/11618058_39,448-459,Matthew Suderman
+GD05_460-471.pdf,GD05,Incremental Connector Routing,10.1007/11618058_40,460-471,Michael Wybrow; Kim Marriott; Peter J. Stuckey
+GD05_472-481.pdf,GD05,An Application of Well-Orderly Trees in Graph Drawing,10.1007/11618058_41,472-481,Huaming Zhang; Xin He
+GD06_20-31.pdf,GD06,Integrating Edge Routing into Force-Directed Layout,10.1007/978-3-540-70904-6_3,20-31,Tim Dwyer; Kim Marriott; Michael Wybrow
+GD06_32-41.pdf,GD06,Multipole-Based Force Approximation Revisited – A Simple but Fast Implementation Using a Dynamized Enclosing-Circle-Enhanced k-d-Tree,10.1007/978-3-540-70904-6_4,32-41,Ulrich Lauther
+GD06_42-53.pdf,GD06,SSDE: Fast Graph Drawing Using Sampled Spectral Distance Embedding,10.1007/978-3-540-70904-6_5,42-53,Ali Çivril; Malik Magdon-Ismail; Eli Bocek-Rivele
+GD06_54-65.pdf,GD06,Eigensolver Methods for Progressive Multidimensional Scaling of Large Data,10.1007/978-3-540-70904-6_6,54-65,Ulrik Brandes; Christian Pich
+GD06_66-77.pdf,GD06,Angle and Distance Constraints on Tree Drawings,10.1007/978-3-540-70904-6_7,66-77,Ulrik Brandes; Barbara Schlieper
+GD06_78-88.pdf,GD06,Schematisation of Tree Drawings,10.1007/978-3-540-70904-6_8,78-88,Joachim Gudmundsson; Marc van Kreveld; Damian Merrick
+GD06_89-100.pdf,GD06,Trees with Convex Faces and Optimal Angles,10.1007/978-3-540-70904-6_9,89-100,Josiah Carlson; David Eppstein
+GD06_101-106.pdf,GD06,Three-Dimensional Drawings of Bounded Degree Trees,10.1007/978-3-540-70904-6_10,101-106,Fabrizio Frati; Giuseppe Di Battista
+GD06_107-119.pdf,GD06,Simultaneous Graph Embedding with Bends and Circular Arcs,10.1007/978-3-540-70904-6_11,107-119,Justin Cappos; Alejandro Estrella-Balderrama; J. Joseph Fowler; Stephen G. Kobourov
+GD06_120-125.pdf,GD06,Embedding Graphs Simultaneously with Fixed Edges,10.1007/978-3-540-70904-6_12,120-125,Fabrizio Frati
+GD06_126-137.pdf,GD06,Drawing Cubic Graphs with at Most Five Slopes,10.1007/978-3-540-70904-6_13,126-137,Balázs Keszegh; János Pach; Dömötör Pálvölgyi; Géza Tóth
+GD06_138-149.pdf,GD06,Planarity Testing and Optimal Edge Insertion with Embedding Constraints,10.1007/978-3-540-70904-6_14,138-149,Carsten Gutwenger; Karsten Klein; Petra Mutzel
+GD06_150-161.pdf,GD06,Open Rectangle-of-Inﬂuence Drawings of Inner Triangulated Plane Graphs,10.1007/978-3-540-70904-6_15,150-161,Kazuyuki Miura; Tetsuya Matsuno; Takao Nishizeki
+GD06_162-173.pdf,GD06,Planar Decompositions and the Crossing Number of Graphs with an Excluded Minor,10.1007/978-3-540-70904-6_16,162-173,David R. Wood; Jan Arne Telle
+GD06_174-185.pdf,GD06,On the Crossing Number of Almost Planar Graphs,10.1007/978-3-540-70904-6_17,174-185,Petr Hliněný; Gelasio Salazar
+GD06_186-195.pdf,GD06,On the Decay of Crossing Numbers,10.1007/978-3-540-70904-6_18,186-195,Jacob Fox; Csaba D. Tóth
+GD06_196-207.pdf,GD06,How Important Is the “Mental Map”? – An Empirical Investigation of a Dynamic Graph Layout Algorithm,10.1007/978-3-540-70904-6_19,196-207,Helen C. Purchase; Eve Hoggan; Carsten Görg
+GD06_208-219.pdf,GD06,Computing Geometric Minimum-Dilation Graphs Is NP-Hard,10.1007/978-3-540-70904-6_20,208-219,Rolf Klein; Martin Kutz
+GD06_220-231.pdf,GD06,Chordal Graphs as Intersection Graphs of Pseudosegments,10.1007/978-3-540-70904-6_21,220-231,Cornelia Dangelmayr; Stefan Felsner
+GD06_232-245.pdf,GD06,Parameterized -Orientations of Graphs: st Algorithms and Experiments,10.1007/978-3-540-70904-6_22,232-245,Charalampos Papamanthou; Ioannis G. Tollis
+GD06_246-251.pdf,GD06,Straight-Line Drawing of Quadrangulations,10.1007/978-3-540-70904-6_23,246-251,Éric Fusy
+GD06_252-263.pdf,GD06,Visualizing Large and Clustered Networks,10.1007/978-3-540-70904-6_24,252-263,Katharina A. Lehmann; Stephan Kottler
+GD06_264-269.pdf,GD06,Partitioned Drawings,10.1007/978-3-540-70904-6_25,264-269,Martin Siebenhaller
+GD06_270-281.pdf,GD06,Path Simpliﬁcation for Metro Map Layout,10.1007/978-3-540-70904-6_26,270-281,Damian Merrick; Joachim Gudmundsson
+GD06_282-293.pdf,GD06,Minimizing Intra-edge Crossings in Wiring Diagrams and Public Transportation Maps,10.1007/978-3-540-70904-6_27,282-293,Marc Benkert; Martin Nöllenburg; Takeaki Uno; Alexander Wolff
+GD06_294-305.pdf,GD06,Upright-Quad Drawing of st -Planar Learning Spaces,10.1007/978-3-540-70904-6_28,294-305,David Eppstein
+GD06_306-317.pdf,GD06,Choosing Colors for Geometric Graphs Via Color Space Embeddings,10.1007/978-3-540-70904-6_29,306-317,Michael B. Dillencourt; David Eppstein; Michael T. Goodrich
+GD06_318-329.pdf,GD06,Morphing Planar Graphs in Spherical Space,10.1007/978-3-540-70904-6_30,318-329,Stephen G. Kobourov; Matthew Landis
+GD06_330-341.pdf,GD06,-Colored Point-Set Embeddability of k Outerplanar Graphs,10.1007/978-3-540-70904-6_31,330-341,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Henk Meijer; Francesco Trotta; Stephen K. Wismath
+GD06_342-354.pdf,GD06,Thickness of Bar 1-Visibility Graphs,10.1007/978-3-540-70904-6_32,342-354,Stefan Felsner; Mareike Massow
+GD06_355-366.pdf,GD06,A New Approximation Algorithm for Bend Minimization in the Kandinsky Model,10.1007/978-3-540-70904-6_33,355-366,Wilhelm Barth; Petra Mutzel; Canan Yıldız
+GD06_367-378.pdf,GD06,Radial Drawings of Graphs: Geometric Constraints and Trade-Oﬀs,10.1007/978-3-540-70904-6_34,367-378,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta
+GD06_379-391.pdf,GD06,Characterization of Unlabeled Level Planar Trees,10.1007/978-3-540-70904-6_35,379-391,Alejandro Estrella-Balderrama; J. Joseph Fowler; Stephen G. Kobourov
+GD06_392-397.pdf,GD06,Drawing Bipartite Graphs on Two Curves,10.1007/978-3-540-70904-6_36,392-397,Emilio Di Giacomo; Luca Grilli; Giuseppe Liotta
+GD06_398-410.pdf,GD06,Improved Circular Layouts,10.1007/978-3-540-70904-6_37,398-410,Emden R. Gansner; Yehuda Koren
+GD06_411-416.pdf,GD06,Controllable and Progressive Edge Clustering for Large Networks,10.1007/978-3-540-70904-6_38,411-416,Huamin Qu; Hong Zhou; Yingcai Wu
+GD06_417-428.pdf,GD06,Biclique Edge Cover Graphs and Conﬂuent Drawings,10.1007/978-3-540-70904-6_39,417-428,Michael Hirsch; Henk Meijer; David Rappaport
+GD06_429-441.pdf,GD06,Schnyder Woods and Orthogonal Surfaces,10.1007/978-3-540-70904-6_40,429-441,Stefan Felsner; Florian Zickfeld
+GD06_442-451.pdf,GD06,Partitions of Graphs into Trees,10.1007/978-3-540-70904-6_41,442-451,Therese Biedl; Franz J. Brandenburg
+GD07_14-23.pdf,GD07,Crossing Number of Graphs with Rotation Systems,10.1007/978-3-540-77537-9_3,14-23,Michael J. Pelsmajer; Marcus Schaefer; Daniel Štefankovič
+GD07_24-35.pdf,GD07,A Bipartite Strengthening of the Crossing Lemma,10.1007/978-3-540-77537-9_4,24-35,Jacob Fox; János Pach; Csaba D. Tóth
+GD07_36-41.pdf,GD07,Improvement on the Decay of Crossing Numbers,10.1007/978-3-540-77537-9_5,36-41,Jakub Černý; Jan Kynčl; Géza Tóth
+GD07_42-47.pdf,GD07,Crossing Numbers and Parameterized Complexity,10.1007/978-3-540-77537-9_6,42-47,Michael J. Pelsmajer; Marcus Schaefer; Daniel Štefankovič
+GD07_48-60.pdf,GD07,Characterization of Unlabeled Level Planar Graphs,10.1007/978-3-540-77537-9_7,48-60,J. Joseph Fowler; Stephen G. Kobourov
+GD07_61-72.pdf,GD07,Cyclic Level Planarity Testing and Embedding,10.1007/978-3-540-77537-9_8,61-72,Christian Bachmaier; Wolfgang Brunner; Christof König
+GD07_73-79.pdf,GD07,Practical Level Planarity Testing and Layout with Embedding Constraints,10.1007/978-3-540-77537-9_9,73-79,Martin Harrigan; Patrick Healy
+GD07_80-86.pdf,GD07,Minimum Level Nonplanar Patterns for Trees,10.1007/978-3-540-77537-9_10,80-86,J. Joseph Fowler; Stephen G. Kobourov
+GD07_87-98.pdf,GD07,Straight-Line Orthogonal Drawings of Binary and Ternary Trees,10.1007/978-3-540-77537-9_11,87-98,Fabrizio Frati
+GD07_99-111.pdf,GD07,Polynomial Area Bounds for MST Embeddings of Trees,10.1007/978-3-540-77537-9_12,99-111,Michael Kaufmann
+GD07_112-123.pdf,GD07,Moving Vertices to Make Drawings Plane,10.1007/978-3-540-77537-9_13,112-123,Xavier Goaoc; Jan Kratochvíl; Yoshio Okamoto; Chan-Su Shin; Alexander Wolff
+GD07_124-135.pdf,GD07,Point-Set Embedding of Trees with Edge Constraints,10.1007/978-3-540-77537-9_14,124-135,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Henk Meijer; Stephen Wismath
+GD07_136-147.pdf,GD07,Representation of Planar Hypergraphs by Contacts of Triangles,10.1007/978-3-540-77537-9_15,136-147,Hubert de Fraysseix; Patrice Ossona de Mendez; Pierre Rosenstiehl
+GD07_148-169.pdf,GD07,The Complexity of Several Realizability Problems for Abstract Topological Graphs,10.1007/978-3-540-77537-9_16,148-169,Jan Kynčl
+GD07_170-181.pdf,GD07,Eﬃcient Extraction of Multiple Kuratowski Subdivisions,10.1007/978-3-540-77537-9_17,170-181,Markus Chimani; Petra Mutzel; Jens M. Schmidt
+GD07_182-193.pdf,GD07,Cover Contact Graphs,10.1007/978-3-540-77537-9_18,182-193,Nieves Atienza; Natalia de Castro; Carmen Cortés; M. Ángeles Garrido; Clara I. Grima; Gregorio Hernández; Alberto Márquez; Auxiliadora Moreno; Martin Nöllenburg; José Ramon Portillo; Pedro Reyes; Jesús Valenzuela; Maria Trinidad Villar; Alexander Wolff
+GD07_194-205.pdf,GD07,Matched Drawings of Planar Graphs,10.1007/978-3-540-77537-9_19,194-205,Emilio Di Giacomo; Walter Didimo; Marc van Kreveld; Giuseppe Liotta; Bettina Speckmann
+GD07_206-217.pdf,GD07,Maximum Upward Planar Subgraphs of Embedded Planar Digraphs,10.1007/978-3-540-77537-9_20,206-217,Carla Binucci; Walter Didimo; Francesco Giordano
+GD07_218-223.pdf,GD07,Minimizing the Area for Planar Straight-Line Grid Drawings,10.1007/978-3-540-77537-9_21,218-223,Marcus Krug; Dorothea Wagner
+GD07_224-229.pdf,GD07,On Planar Polyline Drawings,10.1007/978-3-540-77537-9_22,224-229,Huaming Zhang; Sadish Sadasivam
+GD07_230-241.pdf,GD07,Constrained Stress Majorization Using Diagonally Scaled Gradient Projection,10.1007/978-3-540-77537-9_23,230-241,Tim Dwyer; Kim Marriott
+GD07_242-253.pdf,GD07,Line Crossing Minimization on Metro Maps,10.1007/978-3-540-77537-9_24,242-253,Michael A. Bekos; Michael Kaufmann; Katerina Potika; Antonios Symvonis
+GD07_254-265.pdf,GD07,Algorithms for Multi-criteria One-Sided Boundary Labeling,10.1007/978-3-540-77537-9_25,254-265,Marc Benkert; Herman Haverkort; Moritz Kroll; Martin Nöllenburg
+GD07_266-278.pdf,GD07,Multi-circular Layout of Micro/Macro Graphs,10.1007/978-3-540-77537-9_26,266-278,Michael Baur; Ulrik Brandes
+GD07_279-290.pdf,GD07,Constrained Simultaneous and Near-Simultaneous Embeddings,10.1007/978-3-540-77537-9_27,279-290,Fabrizio Frati; Michael Kaufmann; Stephen G. Kobourov
+GD07_291-301.pdf,GD07,Simultaneous Geometric Graph Embeddings,10.1007/978-3-540-77537-9_28,291-301,Alejandro Estrella-Balderrama; Elisabeth Gassner; Michael Jünger; Merijam Percan; Marcus Schaefer; Michael Schulz
+GD07_302-313.pdf,GD07,Efﬁcient C-Planarity Testing for Embedded Flat Clustered Graphs with Small Faces,10.1007/978-3-540-77537-9_29,302-313,Giuseppe Di Battista; Fabrizio Frati
+GD07_314-325.pdf,GD07,Clustered Planarity: Small Clusters in Eulerian Graphs,10.1007/978-3-540-77537-9_30,314-325,Eva Jelínková; Jan Kára; Jan Kratochvíl; Martin Pergel; Ondřej Suchý; Tomáš Vyskočil
+GD07_326-337.pdf,GD07,Drawing Colored Graphs with Constrained Vertex Positions and Few Bends per Edge,10.1007/978-3-540-77537-9_31,326-337,Emilio Di Giacomo; Giuseppe Liotta; Francesco Trotta
+GD07_338-349.pdf,GD07,Colorability in Orthogonal Graph Drawing,10.1007/978-3-540-77537-9_32,338-349,Jan Štola
+GD07_350-355.pdf,GD07,A Note on Minimum-Area Straight-Line Drawings of Planar Graphs,10.1007/978-3-540-77537-9_33,350-355,Fabrizio Frati; Maurizio Patrignani
+GD07_356-362.pdf,GD07,Universal Sets of Points for 1-Bend n Drawings of Planar Graphs with Vertices n,10.1007/978-3-540-77537-9_34,356-362,Hazel Everett; Sylvain Lazard; Giuseppe Liotta; Stephen Wismath
+GD07_363-375.pdf,GD07,LunarVis – Analytic Visualizations of Large Graphs,10.1007/978-3-540-77537-9_35,363-375,Robert Görke; Marco Gaertler; Dorothea Wagner
+GD07_376-387.pdf,GD07,Visualizing Internet Evolution on the Autonomous Systems Level,10.1007/978-3-540-77537-9_36,376-387,Krists Boitmanis; Ulrik Brandes; Christian Pich
+GD07_388-399.pdf,GD07,Treemaps for Directed Acyclic Graphs,10.1007/978-3-540-77537-9_37,388-399,Vassilis Tsiaras; Sofia Triantafilou; Ioannis G. Tollis
+GD07_400-405.pdf,GD07,Drawing Graphs with GLEE,10.1007/978-3-540-77537-9_38,400-405,Lev Nachmanson; George Robertson; Bongshin Lee
+GD08_26-37.pdf,GD08,Succinct Greedy Graph Drawing in the Hyperbolic Plane,10.1007/978-3-642-00219-9_3,26-37,David Eppstein; Michael T. Goodrich
+GD08_38-49.pdf,GD08,An Algorithm to Construct Greedy Drawings of Triangulations,10.1007/978-3-642-00219-9_4,38-49,Patrizio Angelini; Fabrizio Frati; Luca Grilli
+GD08_50-61.pdf,GD08,Crossing and Weighted Crossing Number of Near-Planar Graphs,10.1007/978-3-642-00219-9_5,50-61,Sergio Cabello; Bojan Mohar
+GD08_62-72.pdf,GD08,Cubic Graphs Have Bounded Slope Parameter,10.1007/978-3-642-00219-9_6,62-72,Balázs Keszegh; János Pach; Dömötör Pálvölgyi; Géza Tóth
+GD08_73-78.pdf,GD08,Unimaximal Sequences of Pairs in Rectangle Visibility Drawing,10.1007/978-3-642-00219-9_7,73-78,Jan Štola
+GD08_79-89.pdf,GD08,Visibility Representations of Four-Connected Plane Graphs with Near Optimal Heights,10.1007/978-3-642-00219-9_8,79-89,Chieh-Yu Chen; Ya-Fei Hung; Hsueh-I Lu
+GD08_90-101.pdf,GD08,The Topology of Bendless Three-Dimensional Orthogonal Graph Drawing,10.1007/978-3-642-00219-9_9,90-101,David Eppstein
+GD08_102-113.pdf,GD08,Rapid Multipole Graph Drawing on the GPU,10.1007/978-3-642-00219-9_10,102-113,Apeksha Godiyal; Jared Hoberock; Michael Garland; John C. Hart
+GD08_114-125.pdf,GD08,Clustered Planarity: Clusters with Few Outgoing Edges,10.1007/978-3-642-00219-9_11,114-125,Vít Jelínek; Ondřej Suchý; Marek Tesař; Tomáš Vyskočil
+GD08_126-132.pdf,GD08,Computing Maximum C-Planar Subgraphs,10.1007/978-3-642-00219-9_12,126-132,Markus Chimani; Carsten Gutwenger; Mathias Jansen; Karsten Klein; Petra Mutzel
+GD08_133-144.pdf,GD08,Clustered Planarity: Embedded Clustered Graphs with Two-Component Clusters,10.1007/978-3-642-00219-9_13,133-144,Vít Jelínek; Eva Jelínková; Jan Kratochvíl; Bernard Lidický
+GD08_145-156.pdf,GD08,Visual Analysis of One-to-Many Matched Graphs,10.1007/978-3-642-00219-9_14,145-156,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Pietro Palladino
+GD08_157-168.pdf,GD08,Topological Morphing of Planar Graphs,10.1007/978-3-642-00219-9_15,157-168,Patrizio Angelini; Pier Francesco Cortese; Giuseppe Di Battista; Maurizio Patrignani
+GD08_169-180.pdf,GD08,An SPQR-Tree Approach to Decide Special Cases of Simultaneous Embedding with Fixed Edges,10.1007/978-3-642-00219-9_16,169-180,J. Joseph Fowler; Carsten Gutwenger; Michael Jünger; Petra Mutzel; Michael Schulz
+GD08_181-192.pdf,GD08,"Graph Simultaneous Embedding Tool, GraphSET",10.1007/978-3-642-00219-9_17,181-192,Alejandro Estrella-Balderrama; J. Joseph Fowler; Stephen G. Kobourov
+GD08_193-204.pdf,GD08,Hamiltonian Alternating Paths on Bicolored Double-Chains,10.1007/978-3-642-00219-9_18,193-204,Josef Cibulka; Jan Kynčl; Viola Mészáros; Rudolf Stolař; Pavel Valtr
+GD08_205-217.pdf,GD08,The Binary Stress Model for Graph Drawing,10.1007/978-3-642-00219-9_19,205-217,Yehuda Koren; Ali Çivril
+GD08_218-229.pdf,GD08,Efﬁcient Node Overlap Removal Using a Proximity Stress Model,10.1007/978-3-642-00219-9_20,218-229,Emden R. Gansner; Yifan Hu
+GD08_230-241.pdf,GD08,An Experimental Study on Distance-Based Graph Drawing,10.1007/978-3-642-00219-9_21,230-241,Ulrik Brandes; Christian Pich
+GD08_242-253.pdf,GD08,Topology Preserving Constrained Graph Layout,10.1007/978-3-642-00219-9_22,242-253,Tim Dwyer; Kim Marriott; Michael Wybrow
+GD08_254-265.pdf,GD08,Embeddability Problems for Upward Planar Digraphs,10.1007/978-3-642-00219-9_23,254-265,Francesco Giordano; Giuseppe Liotta; Sue H. Whitesides
+GD08_266-277.pdf,GD08,A Fully Dynamic Algorithm to Test the Upward Planarity of Single-Source Embedded Digraphs,10.1007/978-3-642-00219-9_24,266-277,Aimal Rextin; Patrick Healy
+GD08_278-289.pdf,GD08,On the Hardness of Orthogonal-Order Preserving Graph Drawing,10.1007/978-3-642-00219-9_25,278-289,Ulrik Brandes; Barbara Pampel
+GD08_290-295.pdf,GD08,Generalizing the Shift Method for Rectangular Shaped Vertices with Visibility Constraints,10.1007/978-3-642-00219-9_26,290-295,Seok-Hee Hong; Martin Mader
+GD08_296-307.pdf,GD08,Placing Text Boxes on Graphs,10.1007/978-3-642-00219-9_27,296-307,Sjoerd van Hagen; Marc van Kreveld
+GD08_308-313.pdf,GD08,Removing Node Overlaps Using Multi-sphere Scheme,10.1007/978-3-642-00219-9_28,308-313,Takashi Imamichi; Yohei Arahori; Jaeseong Gim; Seok-Hee Hong; Hiroshi Nagamochi
+GD08_314-324.pdf,GD08,Minimal Obstructions for 1-Immersions and Hardness of 1-Planarity Testing,10.1007/978-3-642-00219-9_29,314-324,Vladimir P. Korzhik; Bojan Mohar
+GD08_325-330.pdf,GD08,Connected Rectilinear Graphs on Point Sets,10.1007/978-3-642-00219-9_30,325-330,Maarten Löffler; Elena Mumford
+GD08_331-335.pdf,GD08,3-Regular Non 3-Edge-Colorable Graphs with Polyhedral Embeddings in Orientable Surfaces,10.1007/978-3-642-00219-9_31,331-335,Martin Kochol
+GD08_336-347.pdf,GD08,Drawing (Complete) Binary Tanglegrams,10.1007/978-3-642-00219-9_32,336-347,Kevin Buchin; Maike Buchin; Jaroslaw Byrka; Martin Nöllenburg; Yoshio Okamoto; Rodrigo I. Silveira; Alexander Wolff
+GD08_348-359.pdf,GD08,Two Polynomial Time Algorithms for the Metro-line Crossing Minimization Problem,10.1007/978-3-642-00219-9_33,348-359,Evmorfia Argyriou; Michael A. Bekos; Michael Kaufmann; Antonios Symvonis
+GD08_360-371.pdf,GD08,Cyclic Leveling of Directed Graphs,10.1007/978-3-642-00219-9_34,360-371,Christian Bachmaier; Franz J. Brandenburg; Wolfgang Brunner; Gergö Lovász
+GD08_372-383.pdf,GD08,Constrained Point-Set Embeddability of Planar Graphs,10.1007/978-3-642-00219-9_35,372-383,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Henk Meijer; Stephen Wismath
+GD08_384-395.pdf,GD08,Tree Drawings on the Hexagonal Grid,10.1007/978-3-642-00219-9_36,384-395,Christian Bachmaier; Franz J. Brandenburg; Wolfgang Brunner; Andreas Hofmeier; Marco Matzeder; Thomas Unfried
+GD08_396-401.pdf,GD08,Isometric Diamond Subgraphs,10.1007/978-3-642-00219-9_37,396-401,David Eppstein
+GD08_402-407.pdf,GD08,Non-convex Representations of Graphs,10.1007/978-3-642-00219-9_38,402-407,Giuseppe Di Battista; Fabrizio Frati; Maurizio Patrignani
+GD08_408-419.pdf,GD08,Subdivision Drawings of Hypergraphs,10.1007/978-3-642-00219-9_39,408-419,Michael Kaufmann; Marc van Kreveld; Bettina Speckmann
+GD08_420-431.pdf,GD08,Minimum Segment Drawings of Series-Parallel Graphs with the Maximum Degree Three,10.1007/978-3-642-00219-9_40,420-431,Md. Abul Hassan Samee; Md. Jawaherul Alam; Muhammad Abdullah Adnan; Md. Saidur Rahman
+GD08_432-443.pdf,GD08,Dunnart: A Constraint-Based Network Diagram Authoring Tool,10.1007/978-3-642-00219-9_41,432-443,Tim Dwyer; Kim Marriott; Michael Wybrow
+GD09_14-25.pdf,GD09,Drawing Hamiltonian Cycles with No Large Angles,10.1007/978-3-642-11805-0_3,14-25,Adrian Dumitrescu; János Pach; Géza Tóth
+GD09_26-31.pdf,GD09,"Area, Curve Complexity, and Crossing Resolution of Non-planar Graph Drawings",10.1007/978-3-642-11805-0_4,26-31,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Henk Meijer
+GD09_32-43.pdf,GD09,On the Perspectives Opened by Right Angle Crossing Drawings,10.1007/978-3-642-11805-0_5,32-43,Patrizio Angelini; Luca Cittadini; Giuseppe Di Battista; Walter Didimo; Fabrizio Frati; Michael Kaufmann; Antonios Symvonis
+GD09_44-55.pdf,GD09,Drawing 3-Polytopes with Good Vertex Resolution,10.1007/978-3-642-11805-0_6,44-55,André Schulz
+GD09_56-67.pdf,GD09,Planar Drawings of Higher-Genus Graphs,10.1007/978-3-642-11805-0_7,56-67,Christian A. Duncan; Michael T. Goodrich; Stephen G. Kobourov
+GD09_68-79.pdf,GD09,Splitting Clusters to Get C-Planarity,10.1007/978-3-642-11805-0_8,68-79,Patrizio Angelini; Fabrizio Frati; Maurizio Patrignani
+GD09_80-91.pdf,GD09,On the Characterization of Level Planar Trees by Minimal Patterns,10.1007/978-3-642-11805-0_9,80-91,Alejandro Estrella-Balderrama; J. Joseph Fowler; Stephen G. Kobourov
+GD09_92-104.pdf,GD09,Characterization of Unlabeled Radial Level Planar Graphs,10.1007/978-3-642-11805-0_10,92-104,J. Joseph Fowler
+GD09_105-117.pdf,GD09,Upward Planarization Layout,10.1007/978-3-642-11805-0_11,105-117,Markus Chimani; Carsten Gutwenger; Petra Mutzel; Hoi-Ming Wong
+GD09_118-129.pdf,GD09,More Flexible Radial Layout,10.1007/978-3-642-11805-0_12,118-129,Ulrik Brandes; Christian Pich
+GD09_130-145.pdf,GD09,WiGis: A Framework for Scalable Web-Based Interactive Graph Visualizations,10.1007/978-3-642-11805-0_13,130-145,Brynjar Gretarsson; Svetlin Bostandjiev; John O’Donovan; Tobias Höllerer
+GD09_146-157.pdf,GD09,Port Constraints in Hierarchical Layout of Data Flow Diagrams,10.1007/978-3-642-11805-0_14,146-157,Miro Spönemann; Hauke Fuhrmann; Reinhard von Hanxleden; Petra Mutzel
+GD09_158-169.pdf,GD09,Fast Edge-Routing for Large Graphs,10.1007/978-3-642-11805-0_15,158-169,Tim Dwyer; Lev Nachmanson
+GD09_170-181.pdf,GD09,Leftist Canonical Ordering,10.1007/978-3-642-11805-0_16,170-181,Melanie Badent; Michael Baur; Ulrik Brandes; Sabine Cornelsen
+GD09_182-193.pdf,GD09,Succinct Greedy Drawings Do Not Always Exist,10.1007/978-3-642-11805-0_17,182-193,Patrizio Angelini; Giuseppe Di Battista; Fabrizio Frati
+GD09_194-205.pdf,GD09,Geometric Simultaneous Embeddings of a Graph and a Matching,10.1007/978-3-642-11805-0_18,194-205,Sergio Cabello; Marc van Kreveld; Giuseppe Liotta; Henk Meijer; Bettina Speckmann; Kevin Verbeek
+GD09_206-211.pdf,GD09,Algebraic Methods for Counting Euclidean Embeddings of Rigid Graphs,10.1007/978-3-642-11805-0_19,206-211,Ioannis Z. Emiris; Elias P. Tsigaridas; Antonios E. Varvitsiotis
+GD09_212-217.pdf,GD09,Removing Independently Even Crossings,10.1007/978-3-642-11805-0_20,212-217,Michael J. Pelsmajer; Marcus Schaefer; Daniel Štefankovič
+GD09_218-229.pdf,GD09,Manhattan-Geodesic Embedding of Planar Graphs,10.1007/978-3-642-11805-0_21,218-229,Bastian Katz; Marcus Krug; Ignaz Rutter; Alexander Wolff
+GD09_230-242.pdf,GD09,Orthogonal Connector Routing,10.1007/978-3-642-11805-0_22,230-242,Michael Wybrow; Kim Marriott; Peter J. Stuckey
+GD09_243-254.pdf,GD09,On Rectilinear Drawing of Graphs,10.1007/978-3-642-11805-0_23,243-254,Peter Eades; Seok-Hee Hong; Sheung-Hung Poon
+GD09_255-266.pdf,GD09,Semi-bipartite Graph Visualization for Gene Ontology Networks,10.1007/978-3-642-11805-0_24,255-266,Kai Xu; Rohan Williams; Seok-Hee Hong; Qing Liu; Ji Zhang
+GD09_267-278.pdf,GD09,On Open Problems in Biological Network Visualization,10.1007/978-3-642-11805-0_25,267-278,Mario Albrecht; Andreas Kerren; Karsten Klein; Oliver Kohlbacher; Petra Mutzel; Wolfgang Paul; Falk Schreiber; Michael Wybrow
+GD09_279-290.pdf,GD09,A Novel Grid-Based Visualization Approach for Metabolic Networks with Advanced Focus&Context View,10.1007/978-3-642-11805-0_26,279-290,Markus Rohrschneider; Christian Heine; André Reichenbach; Andreas Kerren; Gerik Scheuermann
+GD09_291-302.pdf,GD09,Small Drawings of Series-Parallel Graphs and Other Subclasses of Planar Graphs,10.1007/978-3-642-11805-0_27,291-302,Therese Biedl
+GD09_303-314.pdf,GD09,Drawing Trees in a Streaming Model,10.1007/978-3-642-11805-0_28,303-314,Carla Binucci; Ulrik Brandes; Giuseppe Di Battista; Walter Didimo; Marco Gaertler; Pietro Palladino; Maurizio Patrignani; Antonios Symvonis; Katharina Zweig
+GD09_315-326.pdf,GD09,The Planar Slope Number of Planar Partial 3-Trees of Bounded Degree,10.1007/978-3-642-11805-0_29,315-326,Vít Jelínek; Eva Jelínková; Jan Kratochvíl; Bernard Lidický; Marek Tesař; Tomáš Vyskočil
+GD09_327-333.pdf,GD09,Drawing Planar 3-Trees with Given Face-Areas,10.1007/978-3-642-11805-0_30,327-333,Therese Biedl; Lesvia Elena Ruiz Velázquez
+GD09_334-344.pdf,GD09,3D Visibility Representations by Regular Polygons,10.1007/978-3-642-11805-0_31,334-344,Jan Štola
+GD09_345-355.pdf,GD09,Complexity of Some Geometric and Topological Problems,10.1007/978-3-642-11805-0_32,345-355,Marcus Schaefer
+GD09_356-367.pdf,GD09,On Planar Supports for Hypergraphs,10.1007/978-3-642-11805-0_33,356-367,Kevin Buchin; Marc van Kreveld; Henk Meijer; Bettina Speckmann; Kevin Verbeek
+GD09_368-379.pdf,GD09,DAGmaps and -Visibility Representations of ε DAGs,10.1007/978-3-642-11805-0_34,368-379,Vassilis Tsiaras; Ioannis G. Tollis
+GD09_380-391.pdf,GD09,Drawing Directed Graphs Clockwise,10.1007/978-3-642-11805-0_35,380-391,Christian Pich
+GD09_392-403.pdf,GD09,An Improved Algorithm for the Metro-line Crossing Minimization Problem,10.1007/978-3-642-11805-0_36,392-403,Martin Nöllenburg
+GD09_404-415.pdf,GD09,Layout with Circular and Other Non-linear Constraints Using Procrustes Projection,10.1007/978-3-642-11805-0_37,404-415,Tim Dwyer; George Robertson
+GD10_13-24.pdf,GD10,On the Size of Graphs That Admit Polyline Drawings with Few Bends and Crossing Angles,10.1007/978-3-642-18469-7_1,13-24,Eyal Ackerman; Radoslav Fulek; Csaba D. Tóth
+GD10_25-36.pdf,GD10,Monotone Drawings of Graphs,10.1007/978-3-642-18469-7_2,25-36,Patrizio Angelini; Enrico Colasante; Giuseppe Di Battista; Fabrizio Frati; Maurizio Patrignani
+GD10_37-49.pdf,GD10,Upward Geometric Graph Embeddings into Point Sets,10.1007/978-3-642-18469-7_3,37-49,Patrizio Angelini; Fabrizio Frati; Markus Geyer; Michael Kaufmann; Tamara Mchedlidze; Antonios Symvonis
+GD10_50-61.pdf,GD10,On a Tree and a Path with No Geometric Simultaneous Embedding,10.1007/978-3-642-18469-7_4,50-61,Patrizio Angelini; Markus Geyer; Michael Kaufmann; Daniel Neuwirth
+GD10_62-73.pdf,GD10,Diﬀerence Map Readability for Dynamic Graphs,10.1007/978-3-642-18469-7_5,62-73,Daniel Archambault; Helen C. Purchase; Bruno Pinaud
+GD10_74-79.pdf,GD10,Maximizing the Total Resolution of Graphs,10.1007/978-3-642-18469-7_6,74-79,Evmorfia N. Argyriou; Michael A. Bekos; Antonios Symvonis
+GD10_80-91.pdf,GD10,Plane Drawings of Queue and Deque Graphs,10.1007/978-3-642-18469-7_7,80-91,Christopher Auer; Christian Bachmaier; Franz Josef Brandenburg; Wolfgang Brunner; Andreas Gleißner
+GD10_92-103.pdf,GD10,An Experimental Evaluation of Multilevel Layout Methods,10.1007/978-3-642-18469-7_8,92-103,Gereon Bartel; Carsten Gutwenger; Karsten Klein; Petra Mutzel
+GD10_104-116.pdf,GD10,Orthogonal Graph Drawing with Flexibility Constraints,10.1007/978-3-642-18469-7_9,104-116,Thomas Bläsius; Marcus Krug; Ignaz Rutter; Dorothea Wagner
+GD10_117-128.pdf,GD10,k − k Drawing Ordered ( 1)–Ary Trees on –Grids,10.1007/978-3-642-18469-7_10,117-128,Wolfgang Brunner; Marco Matzeder
+GD10_129-140.pdf,GD10,Optimizing Regular Edge Labelings,10.1007/978-3-642-18469-7_11,129-140,Kevin Buchin; Bettina Speckmann; Sander Verdonschot
+GD10_141-152.pdf,GD10,Drawing Graphs in the Plane with a Prescribed Outer Face and Polynomial Area,10.1007/978-3-642-18469-7_12,141-152,Erin W. Chambers; David Eppstein; Michael T. Goodrich; Maarten Löffler
+GD10_153-164.pdf,GD10,Crossing Minimization and Layouts of Directed Hypergraphs with Port Constraints,10.1007/978-3-642-18469-7_13,153-164,Markus Chimani; Carsten Gutwenger; Petra Mutzel; Miro Spönemann; Hoi-Ming Wong
+GD10_165-176.pdf,GD10,Drawing Graphs on a Smartphone,10.1007/978-3-642-18469-7_14,165-176,Giordano Da Lozzo; Giuseppe Di Battista; Francesco Ingrassia
+GD10_177-188.pdf,GD10,Topology-Driven Force-Directed Algorithms,10.1007/978-3-642-18469-7_15,177-188,Walter Didimo; Giuseppe Liotta; Salvatore A. Romeo
+GD10_189-194.pdf,GD10,On Graphs Supported by Line Sets,10.1007/978-3-642-18469-7_16,189-194,Vida Dujmović; William Evans; Stephen Kobourov; Giuseppe Liotta; Christophe Weibel; Stephen Wismath
+GD10_195-206.pdf,GD10,Drawing Trees with Perfect Angular Resolution and Polynomial Area,10.1007/978-3-642-18469-7_17,195-206,Christian A. Duncan; David Eppstein; Michael T. Goodrich; Stephen G. Kobourov; Martin Nöllenburg
+GD10_207-219.pdf,GD10,Lombardi Drawings of Graphs,10.1007/978-3-642-18469-7_18,207-219,Christian A. Duncan; David Eppstein; Michael T. Goodrich; Stephen G. Kobourov; Martin Nöllenburg
+GD10_220-231.pdf,GD10,Optimal 3D Angular Resolution for Low-Degree Graphs,10.1007/978-3-642-18469-7_19,220-231,David Eppstein; Maarten Löffler; Elena Mumford; Martin Nöllenburg
+GD10_232-237.pdf,GD10,Improved Lower Bounds on the Area Requirements of Series-Parallel Graphs,10.1007/978-3-642-18469-7_20,232-237,Fabrizio Frati
+GD10_238-249.pdf,GD10,A Computational Approach to Conway’s Thrackle Conjecture,10.1007/978-3-642-18469-7_21,238-249,Radoslav Fulek; János Pach
+GD10_250-261.pdf,GD10,Optimal -Level Planarization and Crossing k Minimization,10.1007/978-3-642-18469-7_22,250-261,Graeme Gange; Peter J. Stuckey; Kim Marriott
+GD10_262-273.pdf,GD10,On Touching Triangle Graphs,10.1007/978-3-642-18469-7_23,262-273,Emden R. Gansner; Yifan Hu; Stephen G. Kobourov
+GD10_274-285.pdf,GD10,Triangle Contact Representations and Duality,10.1007/978-3-642-18469-7_24,274-285,Daniel Gonçalves; Benjamin Lévêque; Alexandre Pinlou
+GD10_286-298.pdf,GD10,On Maximum Diﬀerential Graph Coloring,10.1007/978-3-642-18469-7_25,286-298,Yifan Hu; Stephen Kobourov; Sankar Veeramoni
+GD10_299-304.pdf,GD10,Dot Product Representations of Planar Graphs,10.1007/978-3-642-18469-7_26,299-304,Ross J. Kang; Tobias Müller
+GD10_305-316.pdf,GD10,Drawing Planar Graphs of Bounded Degree with Few Slopes,10.1007/978-3-642-18469-7_27,305-316,Balázs Keszegh; János Pach; Dömötör Pálvölgyi
+GD10_317-328.pdf,GD10,Complexity of Finding Non-Planar Rectilinear Drawings of Graphs,10.1007/978-3-642-18469-7_28,317-328,Ján Maňuch; Murray Patterson; Sheung-Hung Poon; Chris Thachuk
+GD10_329-340.pdf,GD10,Point-Set Embeddings of Plane 3-Trees,10.1007/978-3-642-18469-7_29,329-340,Rahnuma Islam Nishat; Debajyoti Mondal; Md. Saidur Rahman
+GD10_341-352.pdf,GD10,Improving Layered Graph Layouts with Edge Bundling,10.1007/978-3-642-18469-7_30,341-352,Sergey Pupyrev; Lev Nachmanson; Michael Kaufmann
+GD10_353-364.pdf,GD10,Conﬂuent Drawing Algorithms Using Rectangular Dualization,10.1007/978-3-642-18469-7_31,353-364,Gianluca Quercini; Massimo Ancona
+GD10_365-376.pdf,GD10,How to Draw a Tait-Colorable Graph,10.1007/978-3-642-18469-7_32,365-376,David A. Richter
+GD10_377-382.pdf,GD10,Universal Pointsets for 2-Coloured Trees,10.1007/978-3-642-18469-7_33,377-382,Mereke van Garderen; Giuseppe Liotta; Henk Meijer
+GD10_383-388.pdf,GD10,The Quality Ratio of RAC Drawings and Planar Drawings of Planar Graphs,10.1007/978-3-642-18469-7_34,383-388,Marc van Kreveld
+GD10_389-400.pdf,GD10,Convex Polygon Intersection Graphs,10.1007/978-3-642-18469-7_35,389-400,Erik Jan van Leeuwen; Jan van Leeuwen
+GD11_14-25.pdf,GD11,Conﬂuent Hasse Diagrams,10.1007/978-3-642-25878-7_2,14-25,David Eppstein; Joseph A. Simons
+GD11_26-37.pdf,GD11,Planar Open Rectangle-of-Inﬂuence Drawings with Non-aligned Frames,10.1007/978-3-642-25878-7_3,26-37,Soroush Alamdari; Therese Biedl
+GD11_38-50.pdf,GD11,Proportional Contact Representations of Planar Graphs,10.1007/978-3-642-25878-7_4,38-50,Muhammad Jawaherul Alam; Therese Biedl; Stefan Felsner; Michael Kaufmann; Stephen G. Kobourov
+GD11_51-63.pdf,GD11,R R Embedding Plane 3-Trees in and,10.1007/978-3-642-25878-7_5,51-63,Stephane Durocher; Debajyoti Mondal; Rahnuma Islam Nishat; Md. Saidur Rahman; Sue Whitesides
+GD11_64-75.pdf,GD11,Orthogeodesic Point-Set Embedding of Trees,10.1007/978-3-642-25878-7_6,64-75,Emilio Di Giacomo; Fabrizio Frati; Radoslav Fulek; Luca Grilli; Marcus Krug
+GD11_76-86.pdf,GD11,On Point-Sets That Support Planar Graphs,10.1007/978-3-642-25878-7_7,76-86,Vida Dujmovic; William Evans; Sylvain Lazard; William Lenhart; Giuseppe Liotta; David Rappaport; Stephen Wismath
+GD11_87-97.pdf,GD11,Small Point Sets for Simply-Nested Planar Graphs,10.1007/978-3-642-25878-7_8,87-97,Patrizio Angelini; Giuseppe Di Battista; Michael Kaufmann; Tamara Mchedlidze; Vincenzo Roselli; Claudio Squarcella
+GD11_99-110.pdf,GD11,Advances in the Planarization Method: Eﬀective Multiple Edge Insertions,10.1007/978-3-642-25878-7_10,99-110,Markus Chimani; Carsten Gutwenger
+GD11_111-122.pdf,GD11,A Quantitative Comparison of Stress-Minimization Approaches for Oﬄine Dynamic Graph Drawing,10.1007/978-3-642-25878-7_11,111-122,Ulrik Brandes; Martin Mader
+GD11_123-134.pdf,GD11,Accelerated Bend Minimization,10.1007/978-3-642-25878-7_12,123-134,Sabine Cornelsen; Andreas Karrenbauer
+GD11_135-147.pdf,GD11,"TGI-EB: A New Framework for Edge Bundling Integrating Topology, Geometry and Importance",10.1007/978-3-642-25878-7_13,135-147,Quan Nguyen; Seok-Hee Hong; Peter Eades
+GD11_148-159.pdf,GD11,Edge Routing with Ordered Bundles,10.1007/978-3-642-25878-7_14,148-159,Sergey Pupyrev; Lev Nachmanson; Sergey Bereg; Alexander E. Holroyd
+GD11_160-165.pdf,GD11,1 Right Angle Crossing Graphs and -Planarity,10.1007/978-3-642-25878-7_15,160-165,Peter Eades; Giuseppe Liotta
+GD11_166-177.pdf,GD11,Pinning Balloons with Perfect Angles and Optimal Area,10.1007/978-3-642-25878-7_16,166-177,Immanuel Halupczok; André Schulz
+GD11_178-190.pdf,GD11,Approximate Proximity Drawings,10.1007/978-3-642-25878-7_17,178-190,William Evans; Emden R. Gansner; Michael Kaufmann; Giuseppe Liotta; Henk Meijer; Andreas Spillner
+GD11_191-202.pdf,GD11,Generalizing Geometric Graphs,10.1007/978-3-642-25878-7_18,191-202,Edith Brunel; Andreas Gemsa; Marcus Krug; Ignaz Rutter; Dorothea Wagner
+GD11_203-214.pdf,GD11,How to Visualize the K-Root Name Server (Demo),10.1007/978-3-642-25878-7_19,203-214,Giuseppe Di Battista; Claudio Squarcella; Wolfgang Nagele
+GD11_215-226.pdf,GD11,Optimizing a Radial Layout of Bipartite Graphs for a Tool Visualizing Security Alerts,10.1007/978-3-642-25878-7_20,215-226,Maxime Dumas; Michael J. McGuffin; Jean-Marc Robert; Marie-Claire Willig
+GD11_227-237.pdf,GD11,"Visual Community Detection: An Evaluation of 2D, 3D Perspective and 3D Stereoscopic Displays",10.1007/978-3-642-25878-7_21,227-237,Nicolas Greffard; Fabien Picarougne; Pascale Kuntz
+GD11_238-249.pdf,GD11,Evaluating Partially Drawn Links for Directed Graph Edges,10.1007/978-3-642-25878-7_22,238-249,Michael Burch; Corinna Vehlow; Natalia Konevtsova; Daniel Weiskopf
+GD11_254-265.pdf,GD11,Overloaded Orthogonal Drawings,10.1007/978-3-642-25878-7_24,254-265,Evgenios M. Kornaropoulos; Ioannis G. Tollis
+GD11_266-277.pdf,GD11,Drawing Cubic Graphs with the Four Basic Slopes,10.1007/978-3-642-25878-7_25,266-277,Padmini Mukkamala; Dömötör Pálvölgyi
+GD11_278-289.pdf,GD11,k -Quasi-Planar Graphs,10.1007/978-3-642-25878-7_26,278-289,Andrew Suk
+GD11_290-301.pdf,GD11,Monotone Crossing Number,10.1007/978-3-642-25878-7_27,290-301,János Pach; Géza Tóth
+GD11_302-307.pdf,GD11,Upper Bound Constructions for Untangling Planar Geometric Graphs,10.1007/978-3-642-25878-7_28,302-307,Javier Cano; Csaba D. Tóth; Jorge Urrutia
+GD11_308-319.pdf,GD11,Triangulations with Circular Arcs,10.1007/978-3-642-25878-7_29,308-319,Oswin Aichholzer; Wolfgang Aigner; Franz Aurenhammer; Kateřina Čech Dobiášová; Bert Jüttler; Günter Rote
+GD11_320-331.pdf,GD11,Planar and Poly-arc Lombardi Drawings,10.1007/978-3-642-25878-7_30,320-331,Christian A. Duncan; David Eppstein; Michael T. Goodrich; Stephen G. Kobourov; Maarten Löffler
+GD11_332-343.pdf,GD11,Force-Directed Lombardi-Style Graph Drawing,10.1007/978-3-642-25878-7_31,332-343,Roman Chernobelskiy; Kathryn I. Cunningham; Michael T. Goodrich; Stephen G. Kobourov; Lowell Trott
+GD11_344-354.pdf,GD11,Every Graph Admits an Unambiguous Bold Drawing,10.1007/978-3-642-25878-7_32,344-354,János Pach
+GD11_355-366.pdf,GD11,Adjacent Crossings Do Matter,10.1007/978-3-642-25878-7_33,355-366,Radoslav Fulek; Michael J. Pelsmajer; Marcus Schaefer; Daniel Štefankovič
+GD11_367-378.pdf,GD11,Low Distortion Delaunay Embedding of Trees in Hyperbolic Plane,10.1007/978-3-642-25878-7_34,367-378,Rik Sarkar
+GD11_379-390.pdf,GD11,Hardness of Approximate Compaction for Nonplanar Orthogonal Graph Drawings,10.1007/978-3-642-25878-7_35,379-390,Michael J. Bannister; David Eppstein
+GD11_391-402.pdf,GD11,Monotone Drawings of Graphs with Fixed Embedding,10.1007/978-3-642-25878-7_36,391-402,Patrizio Angelini; Walter Didimo; Stephen Kobourov; Tamara Mchedlidze; Vincenzo Roselli; Antonios Symvonis; Stephen Wismath
+GD11_403-414.pdf,GD11,On the Page Number of Upward Planar Directed Acyclic Graphs,10.1007/978-3-642-25878-7_37,403-414,Fabrizio Frati; Radoslav Fulek; Andres J. Ruiz-Vargas
+GD11_415-426.pdf,GD11,Upward Point Set Embeddability P for Convex Point Sets Is in,10.1007/978-3-642-25878-7_38,415-426,Michael Kaufmann; Tamara Mchedlidze; Antonios Symvonis
+GD11_427-438.pdf,GD11,Classiﬁcation of Planar Upward Embedding,10.1007/978-3-642-25878-7_39,427-438,Christopher Auer; Christian Bachmaier; Franz Josef Brandenburg; Andreas Gleißner
+GD11_439-444.pdf,GD11,Upward Planarity Testing of Embedded Mixed Graphs,10.1007/978-3-642-25878-7_40,439-444,Carla Binucci; Walter Didimo
+GD12_34-45.pdf,GD12,Counting Plane Graphs: Cross-Graph Charging Schemes,10.1007/978-3-642-36763-2_3,34-45,Micha Sharir; Adam Sheffer
+GD12_46-57.pdf,GD12,Disconnectivity and Relative Positions in Simultaneous Embeddings,10.1007/978-3-642-36763-2_4,46-57,Thomas Bläsius; Ignaz Rutter
+GD12_58-69.pdf,GD12,Graph Drawing in the Cloud: Privately Visualizing Relational Data Using Small Working Storage,10.1007/978-3-642-36763-2_5,58-69,Michael T. Goodrich; Olga Ohrimenko; Roberto Tamassia
+GD12_70-81.pdf,GD12,Graph Drawing by Classical Multidimensional Scaling: New Perspectives,10.1007/978-3-642-36763-2_6,70-81,Mirza Klimenta; Ulrik Brandes
+GD12_82-93.pdf,GD12,Progress on Partial Edge Drawings,10.1007/978-3-642-36763-2_7,82-93,Till Bruckdorfer; Sabine Cornelsen; Carsten Gutwenger; Michael Kaufmann; Fabrizio Montecchiani; Martin Nöllenburg; Alexander Wolff
+GD12_94-104.pdf,GD12,2 Implementing a Partitioned -Page Book Embedding Testing Algorithm,10.1007/978-3-642-36763-2_8,94-104,Patrizio Angelini; Marco Di Bartolomeo; Giuseppe Di Battista
+GD12_105-116.pdf,GD12,Shrinking the Search Space for Clustered Planarity,10.1007/978-3-642-36763-2_9,105-116,Markus Chimani; Karsten Klein
+GD12_117-128.pdf,GD12,Open Rectangle-of-Inﬂuence Drawings of Non-triangulated Planar Graphs,10.1007/978-3-642-36763-2_10,117-128,Soroush Alamdari; Therese Biedl
+GD12_129-140.pdf,GD12,The Approximate Rectangle of Inﬂuence Drawability Problem,10.1007/978-3-642-36763-2_11,129-140,Emilio Di Giacomo; Giuseppe Liotta; Henk Meijer
+GD12_141-152.pdf,GD12,Planar Lombardi Drawings for Subcubic Graphs,10.1007/978-3-642-36763-2_12,141-152,David Eppstein
+GD12_153-164.pdf,GD12,Circle-Representations of Simple 4-Regular Planar Graphs,10.1007/978-3-642-36763-2_13,153-164,Michael A. Bekos; Chrysanthi N. Raftopoulou
+GD12_165-176.pdf,GD12,Smooth Orthogonal Layouts,10.1007/978-3-642-36763-2_14,165-176,Michael A. Bekos; Michael Kaufmann; Stephen G. Kobourov; Antonios Symvonis
+GD12_177-188.pdf,GD12,Toward a Theory of Planarity: Hanani-Tutte and Planarity Variants,10.1007/978-3-642-36763-2_15,177-188,Marcus Schaefer
+GD12_189-201.pdf,GD12,Planar Graphs as VPG-Graphs,10.1007/978-3-642-36763-2_16,189-201,Steven Chaplick; Torsten Ueckerdt
+GD12_202-213.pdf,GD12,On Representing Graphs by Touching Cuboids,10.1007/978-3-642-36763-2_17,202-213,David Bremner; William Evans; Fabrizio Frati; Laurie Heyer; Stephen G. Kobourov; William J. Lenhart; Giuseppe Liotta; David Rappaport; Sue H. Whitesides
+GD12_214-225.pdf,GD12,Touching Triangle Representations for 3-Connected Planar Graphs,10.1007/978-3-642-36763-2_18,214-225,Stephen G. Kobourov; Debajyoti Mondal; Rahnuma Islam Nishat
+GD12_226-238.pdf,GD12,Proportional Contact Representations of 4-Connected Planar Graphs,10.1007/978-3-642-36763-2_19,226-238,Md. Jawaherul Alam; Stephen G. Kobourov
+GD12_239-250.pdf,GD12,Edge-Weighted Contact Representations of Planar Graphs,10.1007/978-3-642-36763-2_20,239-250,Martin Nöllenburg; Roman Prutkin; Ignaz Rutter
+GD12_251-262.pdf,GD12,Column-Based Graph Layouts,10.1007/978-3-642-36763-2_21,251-262,Gregor Betz; Christoph Doll; Andreas Gemsa; Ignaz Rutter; Dorothea Wagner
+GD12_263-274.pdf,GD12,Upward Planarity Testing via SAT,10.1007/978-3-642-36763-2_22,263-274,Markus Chimani; Robert Zeranski
+GD12_275-286.pdf,GD12,Self-approaching Graphs,10.1007/978-3-642-36763-2_23,275-286,Soroush Alamdari; Timothy M. Chan; Elyot Grant; Anna Lubiw; Vinayak Pathak
+GD12_287-293.pdf,GD12,C Homotopic -Oriented Routing,10.1007/978-3-642-36763-2_24,287-293,Kevin Verbeek
+GD12_294-305.pdf,GD12,Kinetic and Stationary Point-Set Embeddability for Plane Graphs,10.1007/978-3-642-36763-2_25,294-305,Zahed Rahmati; Sue H. Whitesides; Valerie King
+GD12_306-317.pdf,GD12,Point-Set Embeddability of 2-Colored Trees,10.1007/978-3-642-36763-2_26,306-317,Fabrizio Frati; Marc Glisse; William J. Lenhart; Giuseppe Liotta; Tamara Mchedlidze; Rahnuma Islam Nishat
+GD12_318-329.pdf,GD12,Covering Paths for Planar Point Sets,10.1007/978-3-642-36763-2_27,318-329,Adrian Dumitrescu; Csaba D. Tóth
+GD12_330-341.pdf,GD12,Grid Drawings and the Chromatic Number,10.1007/978-3-642-36763-2_28,330-341,Martin Balko
+GD12_342-353.pdf,GD12,On the Density of Maximal 1-Planar Graphs,10.1007/978-3-642-36763-2_29,342-353,Franz J. Brandenburg; David Eppstein; Andreas Gleißner; Michael T. Goodrich; Kathrin Hanauer; Josef Reislhuber
+GD12_354-360.pdf,GD12,Testing Maximal 1-Planarity of Graphs with a Rotation System in Linear Time,10.1007/978-3-642-36763-2_30,354-360,Peter Eades; Seok-Hee Hong; Naoki Katoh; Giuseppe Liotta; Pascal Schweitzer; Yusuke Suzuki
+GD12_361-366.pdf,GD12,Tangles and Degenerate Tangles,10.1007/978-3-642-36763-2_31,361-366,Andres J. Ruiz-Vargas
+GD12_367-378.pdf,GD12,Density Theorems for Intersection Graphs t of -Monotone Curves,10.1007/978-3-642-36763-2_32,367-378,Andrew Suk
+GD12_379-390.pdf,GD12,The Visible Perimeter of an Arrangement of Disks,10.1007/978-3-642-36763-2_33,379-390,Gabriel Nivasch; János Pach; Gábor Tardos
+GD12_391-402.pdf,GD12,"Canonical Ordering for Triangulations on the Cylinder, with Applications to Periodic Straight-Line Drawings",10.1007/978-3-642-36763-2_34,391-402,Luca Castelli Aleardi; Olivier Devillers; Éric Fusy
+GD12_403-414.pdf,GD12,Planar Preprocessing for Spring Embedders,10.1007/978-3-642-36763-2_35,403-414,J. Joseph Fowler; Stephen G. Kobourov
+GD12_415-428.pdf,GD12,StreamEB : Stream Edge Bundling,10.1007/978-3-642-36763-2_36,415-428,Quan Nguyen; Peter Eades; Seok-Hee Hong
+GD12_429-440.pdf,GD12,Force-Directed Graph Drawing Using Social Gravity and Scaling,10.1007/978-3-642-36763-2_37,429-440,Michael J. Bannister; David Eppstein; Michael T. Goodrich; Lowell Trott
+GD12_441-453.pdf,GD12,Drawing Clustered Graphs as Topographic Maps,10.1007/978-3-642-36763-2_38,441-453,Martin Gronemann; Michael Jünger
+GD12_454-465.pdf,GD12,Visualizing Streaming Text Data with Dynamic Graphs and Maps,10.1007/978-3-642-36763-2_39,454-465,Emden R. Gansner; Yifan Hu; Stephen North
+GD12_466-477.pdf,GD12,On the Usability of Lombardi Graph Drawings,10.1007/978-3-642-36763-2_40,466-477,Helen C. Purchase; John Hamer; Martin Nöllenburg; Stephen G. Kobourov
+GD12_478-489.pdf,GD12,Drawing Metro Maps Using B´ezier Curves,10.1007/978-3-642-36763-2_41,478-489,Martin Fink; Herman Haverkort; Martin Nöllenburg; Maxwell Roberts; Julian Schuhmann; Alexander Wolff
+GD12_490-501.pdf,GD12,Mental Map Preservation Helps User Orientation in Dynamic Graphs,10.1007/978-3-642-36763-2_42,490-501,Daniel Archambault; Helen C. Purchase
+GD12_502-513.pdf,GD12,"Clustering, Visualizing, and Navigating for Large Dynamic Graphs",10.1007/978-3-642-36763-2_43,502-513,Arnaud Sallaberry; Chris Muelder; Kwan-Liu Ma
+GD12_514-525.pdf,GD12,DAGView: An Approach for Visualizing Large Graphs,10.1007/978-3-642-36763-2_44,514-525,Evgenios M. Kornaropoulos; Ioannis G. Tollis
+GD12_526-531.pdf,GD12,Time-Space Maps from Triangulations,10.1007/978-3-642-36763-2_45,526-531,Sandra Bies; Marc van Kreveld
+GD12_532-543.pdf,GD12,k Graph Drawing in Ti Z,10.1007/978-3-642-36763-2_46,532-543,Till Tantau
+GD12_544-555.pdf,GD12,Optical Graph Recognition,10.1007/978-3-642-36763-2_47,544-555,Christopher Auer; Christian Bachmaier; Franz J. Brandenburg; Andreas Gleißner; Josef Reislhuber
+GD12_556-567.pdf,GD12,Interactive Random Graph Generation with Evolutionary Algorithms,10.1007/978-3-642-36763-2_48,556-567,Benjamin Bach; Andre Spritzer; Evelyne Lutton; Jean-Daniel Fekete
+GD13_20-31.pdf,GD13,On the Upward Planarity of Mixed Plane Graphs,10.1007/978-3-319-03841-4_1,20-31,Fabrizio Frati; Michael Kaufmann; János Pach; Csaba D. Tóth; David R. Wood
+GD13_32-43.pdf,GD13,Upward Planarity Testing: A Computational Study,10.1007/978-3-319-03841-4_2,32-43,Markus Chimani; Robert Zeranski
+GD13_44-55.pdf,GD13,Characterizing Planarity by the Splittable Deque,10.1007/978-3-319-03841-4_3,44-55,Christopher Auer; Franz J. Brandenburg; Andreas Gleißner; Kathrin Hanauer
+GD13_56-67.pdf,GD13,Strip Planarity Testing,10.1007/978-3-319-03841-4_4,56-67,Patrizio Angelini; Giordano Da Lozzo; Giuseppe Di Battista; Fabrizio Frati
+GD13_68-79.pdf,GD13,Morphing Planar Graph Drawings Efﬁciently,10.1007/978-3-319-03841-4_5,68-79,Patrizio Angelini; Fabrizio Frati; Maurizio Patrignani; Vincenzo Roselli
+GD13_80-89.pdf,GD13,"Graph Drawing through the Lens of a Framework for Analyzing Visualization Methods (Invited Talk, Extended Abstract)",10.1007/978-3-319-03841-4_6,80-89,Tamara Munzner
+GD13_90-101.pdf,GD13,A Linear-Time Algorithm for Testing Outer-1-Planarity,10.1007/978-3-319-03841-4_7,90-101,Seok-Hee Hong; Peter Eades; Naoki Katoh; Giuseppe Liotta; Pascal Schweitzer; Yusuke Suzuki
+GD13_102-113.pdf,GD13,Straight-Line Grid Drawings of 3-Connected 1-Planar Graphs,10.1007/978-3-319-03841-4_8,102-113,Md. Jawaherul Alam; Franz J. Brandenburg; Stephen G. Kobourov
+GD13_114-125.pdf,GD13,New Bounds on the Maximum Number of Edges k in -Quasi-Planar Graphs,10.1007/978-3-319-03841-4_9,114-125,Andrew Suk; Bartosz Walczak
+GD13_126-137.pdf,GD13,Recognizing Outer 1-Planar Graphs in Linear Time,10.1007/978-3-319-03841-4_10,126-137,Christopher Auer; Christian Bachmaier; Franz J. Brandenburg; Andreas Gleißner; Kathrin Hanauer; Daniel Neuwirth; Josef Reislhuber
+GD13_138-149.pdf,GD13,Straight Line Triangle Representations,10.1007/978-3-319-03841-4_11,138-149,Nieke Aerts; Stefan Felsner
+GD13_150-161.pdf,GD13,Extending Partial Representations of Circle Graphs,10.1007/978-3-319-03841-4_12,150-161,Steven Chaplick; Radoslav Fulek; Pavel Klavík
+GD13_162-173.pdf,GD13,✛ On Balanced -Contact Representations,10.1007/978-3-319-03841-4_13,162-173,Stephane Durocher; Debajyoti Mondal
+GD13_174-179.pdf,GD13,Strongly-Connected Outerplanar Graphs with Proper Touching Triangle Representations,10.1007/978-3-319-03841-4_14,174-179,J. Joseph Fowler
+GD13_180-191.pdf,GD13,Achieving Good Angular Resolution in 3D Arc Diagrams,10.1007/978-3-319-03841-4_15,180-191,Michael T. Goodrich; Paweł Pszona
+GD13_192-203.pdf,GD13,A Duality Transform for Constructing Small Grid Embeddings of 3D Polytopes,10.1007/978-3-319-03841-4_16,192-203,Alexander Igamberdiev; André Schulz
+GD13_204-214.pdf,GD13,Z Block Additivity of -Embeddings,10.1007/978-3-319-03841-4_17,204-214,Marcus Schaefer; Daniel Štefankovič
+GD13_215-226.pdf,GD13,Exploiting Air-Pressure to Map Floorplans on Point Sets,10.1007/978-3-319-03841-4_18,215-226,Stefan Felsner
+GD13_227-238.pdf,GD13,Superpatterns and Universal Point Sets,10.1007/978-3-319-03841-4_19,227-238,Michael J. Bannister; Zhanpeng Cheng; William E. Devanny; David Eppstein
+GD13_239-250.pdf,GD13,"Simultaneous Embedding: Edge Orderings, Relative Positions, Cutvertices",10.1007/978-3-319-03841-4_20,239-250,Thomas Bläsius; Annette Karrer; Ignaz Rutter
+GD13_251-262.pdf,GD13,Sketched Graph Drawing: A Lesson in Empirical Studies,10.1007/978-3-319-03841-4_21,251-262,Helen C. Purchase
+GD13_263-274.pdf,GD13,Many-to-One Boundary Labeling with Backbones,10.1007/978-3-319-03841-4_22,263-274,Michael A. Bekos; Sabine Cornelsen; Martin Fink; Seok-Hee Hong; Michael Kaufmann; Martin Nöllenburg; Ignaz Rutter; Antonios Symvonis
+GD13_275-286.pdf,GD13,Streamed Graph Drawing and the File Maintenance Problem,10.1007/978-3-319-03841-4_23,275-286,Michael T. Goodrich; Paweł Pszona
+GD13_287-298.pdf,GD13,COAST: A Convex Optimization Approach to Stress-Based Embedding,10.1007/978-3-319-03841-4_24,287-298,Emden R. Gansner; Yifan Hu; Shankar Krishnan
+GD13_299-310.pdf,GD13,Colored Spanning Graphs for Set Visualization,10.1007/978-3-319-03841-4_25,299-310,Ferran Hurtado; Matias Korman; Marc J. van Kreveld; Maarten Löffler; Vera Sacristán Adinolfi; Rodrigo I. Silveira; Bettina Speckmann
+GD13_311-322.pdf,GD13,Drawing Non-Planar Graphs with Crossing-Free Subgraphs,10.1007/978-3-319-03841-4_26,311-322,Patrizio Angelini; Carla Binucci; Giordano Da Lozzo; Walter Didimo; Luca Grilli; Fabrizio Montecchiani; Maurizio Patrignani; Ioannis G. Tollis
+GD13_323-334.pdf,GD13,Exploring Complex Drawings via Edge Stratiﬁcation,10.1007/978-3-319-03841-4_27,323-334,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Fabrizio Montecchiani; Ioannis G. Tollis
+GD13_335-346.pdf,GD13,Drawing Planar Graphs with a Prescribed Inner Face,10.1007/978-3-319-03841-4_28,335-346,Tamara Mchedlidze; Martin Nöllenburg; Ignaz Rutter
+GD13_347-358.pdf,GD13,"Metro-Line Crossing Minimization: Hardness, Approximations, and Tractable Cases",10.1007/978-3-319-03841-4_29,347-358,Martin Fink; Sergey Pupyrev
+GD13_359-370.pdf,GD13,Fixed Parameter Tractability of Crossing Minimization of Almost-Trees,10.1007/978-3-319-03841-4_30,359-370,Michael J. Bannister; David Eppstein; Joseph A. Simons
+GD13_371-382.pdf,GD13,Strict Conﬂuent Drawing,10.1007/978-3-319-03841-4_31,371-382,David Eppstein; Danny Holten; Maarten Löffler; Martin Nöllenburg; Bettina Speckmann; Kevin Verbeek
+GD13_383-394.pdf,GD13,ℓ A Ramsey-Type Result for Geometric -Hypergraphs,10.1007/978-3-319-03841-4_32,383-394,Dhruv Mubayi; Andrew Suk
+GD13_395-406.pdf,GD13,Minimum Length Embedding of Planar Graphs at Fixed Vertex Locations,10.1007/978-3-319-03841-4_33,395-406,Timothy M. Chan; Hella-Franziska Hoffmann; Stephen Kiazyk; Anna Lubiw
+GD13_407-418.pdf,GD13,Stub Bundling and Conﬂuent Spirals for Geographic Networks,10.1007/978-3-319-03841-4_34,407-418,Arlind Nocaj; Ulrik Brandes
+GD13_419-430.pdf,GD13,On Orthogonally Convex Drawings of Plane Graphs (Extended Abstract),10.1007/978-3-319-03841-4_35,419-430,Yi-Jun Chang; Hsu-Chun Yen
+GD13_431-442.pdf,GD13,Planar and Plane Slope Number of Partial 2-Trees,10.1007/978-3-319-03841-4_36,431-442,William Lenhart; Giuseppe Liotta; Debajyoti Mondal; Rahnuma Islam Nishat
+GD13_443-454.pdf,GD13,Slanted Orthogonal Drawings,10.1007/978-3-319-03841-4_37,443-454,Michael A. Bekos; Michael Kaufmann; Robert Krug; Stefan Näher; Vincenzo Roselli
+GD13_455-466.pdf,GD13,"Drawing Arrangement Graphs in Small Grids, or How to Play Planarity",10.1007/978-3-319-03841-4_38,455-466,David Eppstein
+GD13_467-478.pdf,GD13,Incremental Grid-Like Layout Using Soft and Hard Constraints,10.1007/978-3-319-03841-4_39,467-478,Steve Kieffer; Tim Dwyer; Kim Marriott; Michael Wybrow
+GD13_479-490.pdf,GD13,"Using ILP/SAT to Determine Pathwidth, Visibility Representations, and other Grid-Based Graph Drawings",10.1007/978-3-319-03841-4_40,479-490,Therese Biedl; Thomas Bläsius; Benjamin Niedermann; Martin Nöllenburg; Roman Prutkin; Ignaz Rutter
+GD13_491-502.pdf,GD13,Untangling Two Systems of Noncrossing Curves,10.1007/978-3-319-03841-4_41,491-502,Jiří Matoušek; Eric Sedgwick; Martin Tancer; Uli Wagner
+GD13_503-514.pdf,GD13,Drawing Permutations with Few Corners,10.1007/978-3-319-03841-4_42,503-514,Sergey Bereg; Alexander E. Holroyd; Lev Nachmanson; Sergey Pupyrev
+GD13_515-526.pdf,GD13,Dynamic Traceroute Visualization at Multiple Abstraction Levels,10.1007/978-3-319-03841-4_43,515-526,Massimo Candela; Marco Di Bartolomeo; Giuseppe Di Battista; Claudio Squarcella
+GD14_19-30.pdf,GD14,Planar Induced Subgraphs of Sparse Graphs,10.1007/978-3-662-45803-7_1,19-30,Glencora Borradaile; David Eppstein; Pingan Zhu
+GD14_31-42.pdf,GD14,"Picking Planar Edges; or, Drawing a Graph with a Planar Subgraph",10.1007/978-3-662-45803-7_2,31-42,Marcus Schaefer
+GD14_43-57.pdf,GD14,Drawing Partially Embedded and Simultaneously Planar Graphs,10.1007/978-3-662-45803-7_3,43-57,Timothy M. Chan; Fabrizio Frati; Carsten Gutwenger; Anna Lubiw; Petra Mutzel; Marcus Schaefer
+GD14_58-69.pdf,GD14,Drawing Simultaneously Embedded Graphs with Few Bends,10.1007/978-3-662-45803-7_4,58-69,Luca Grilli; Seok-Hee Hong; Jan Kratochvíl; Ignaz Rutter
+GD14_70-81.pdf,GD14,Planar and Quasi Planar Simultaneous Geometric Embedding,10.1007/978-3-662-45803-7_5,70-81,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Henk Meijer; Stephen Wismath
+GD14_82-93.pdf,GD14,Simultaneous Embeddability of Two Partitions,10.1007/978-3-662-45803-7_6,82-93,Jan Christoph Athenstädt; Tanja Hartmann; Martin Nöllenburg
+GD14_94-106.pdf,GD14,Luatodonotes: Boundary Labeling for Annotations in Texts,10.1007/978-3-662-45803-7_7,94-106,Philipp Kindermann; Fabian Lipp; Alexander Wolff
+GD14_107-118.pdf,GD14,A Coloring Algorithm for Disambiguating Graph and Map Drawings,10.1007/978-3-662-45803-7_8,107-118,Yifan Hu; Lei Shi
+GD14_119-130.pdf,GD14,Untangling Hairballs,10.1007/978-3-662-45803-7_9,119-130,Arlind Nocaj; Mark Ortmann; Ulrik Brandes
+GD14_131-142.pdf,GD14,GION: Interactively Untangling Large Graphs on Wall-Sized Displays,10.1007/978-3-662-45803-7_10,131-142,Michael R. Marner; Ross T. Smith; Bruce H. Thomas; Karsten Klein; Peter Eades; Seok-Hee Hong
+GD14_143-154.pdf,GD14,Balanced Circle Packings for Planar Graphs,10.1007/978-3-662-45803-7_11,143-154,Md. Jawaherul Alam; David Eppstein; Michael T. Goodrich; Stephen G. Kobourov; Sergey Pupyrev
+GD14_155-166.pdf,GD14,Unit Contact Representations of Grid Subgraphs with Regular Polytopes in 2D and 3D,10.1007/978-3-662-45803-7_12,155-166,Linda Kleist; Benjamin Rahman
+GD14_167-179.pdf,GD14,"The Galois Complexity of Graph Drawing: Why Numerical Solutions Are Ubiquitous for Force-Directed, Spectral, and Circle Packing Drawings",10.1007/978-3-662-45803-7_13,167-179,Michael J. Bannister; William E. Devanny; David Eppstein; Michael T. Goodrich
+GD14_180-191.pdf,GD14,st Bitonic -orderings of Biconnected Planar Graphs,10.1007/978-3-662-45803-7_14,180-191,Martin Gronemann
+GD14_192-203.pdf,GD14,Drawing Outer -planar Graphs with Few Slopes 1,10.1007/978-3-662-45803-7_15,192-203,Emilio Di Giacomo; Giuseppe Liotta; Fabrizio Montecchiani
+GD14_204-215.pdf,GD14,Fan-Planar Graphs: Combinatorial Properties and Complexity Results,10.1007/978-3-662-45803-7_16,204-215,Carla Binucci; Emilio Di Giacomo; Walter Didimo; Fabrizio Montecchiani; Maurizio Patrignani; Ioannis G. Tollis
+GD14_216-227.pdf,GD14,On the Recognition of Fan-Planar and Maximal Outer-Fan-Planar Graphs,10.1007/978-3-662-45803-7_17,216-227,Michael A. Bekos; Sabine Cornelsen; Luca Grilli; Seok-Hee Hong; Michael Kaufmann
+GD14_228-239.pdf,GD14,Crossing Minimization for 1-page and 2-page Drawings of Graphs with Bounded Treewidth,10.1007/978-3-662-45803-7_18,228-239,Michael J. Bannister; David Eppstein
+GD14_240-251.pdf,GD14,A Crossing Lemma for the Pair-Crossing Number,10.1007/978-3-662-45803-7_19,240-251,Eyal Ackerman; Marcus Schaefer
+GD14_252-263.pdf,GD14,Are Crossings Important for Drawing Large Graphs?,10.1007/978-3-662-45803-7_20,252-263,Stephen G. Kobourov; Sergey Pupyrev; Bahador Saket
+GD14_264-276.pdf,GD14,The Importance of Being Proper,10.1007/978-3-662-45803-7_21,264-276,Patrizio Angelini; Giordano Da Lozzo; Giuseppe Di Battista; Fabrizio Frati; Vincenzo Roselli
+GD14_277-289.pdf,GD14,Column Planarity and Partial Simultaneous Geometric Embedding,10.1007/978-3-662-45803-7_22,277-289,William Evans; Vincent Kusters; Maria Saumell; Bettina Speckmann
+GD14_290-301.pdf,GD14,Flat Foldings of Plane Graphs with Prescribed Angles and Edge Lengths,10.1007/978-3-662-45803-7_23,290-301,Zachary Abel; Erik D. Demaine; Martin L. Demaine; David Eppstein; Anna Lubiw; Ryuhei Uehara
+GD14_302-311.pdf,GD14,Disjoint Edges in Topological Graphs and the Tangled-Thrackle Conjecture,10.1007/978-3-662-45803-7_24,302-311,Andres J. Ruiz-Vargas; Andrew Suk; Csaba D. Tóth
+GD14_312-323.pdf,GD14,Morphing Schnyder Drawings of Planar Triangulations,10.1007/978-3-662-45803-7_25,312-323,Fidel Barrera-Cruz; Penny Haxell; Anna Lubiw
+GD14_324-336.pdf,GD14,Trade-Oﬀs in Planar Polyline Drawings,10.1007/978-3-662-45803-7_26,324-336,Stephane Durocher; Debajyoti Mondal
+GD14_337-348.pdf,GD14,Stress-Minimizing Orthogonal Layout of Data Flow Diagrams with Ports,10.1007/978-3-662-45803-7_27,337-348,Ulf Rüegg; Steve Kieffer; Tim Dwyer; Kim Marriott; Michael Wybrow
+GD14_349-360.pdf,GD14,Planar Octilinear Drawings with One Bend Per Edge,10.1007/978-3-662-45803-7_28,349-360,Michael A. Bekos; Martin Gronemann; Michael Kaufmann; Robert Krug
+GD14_361-372.pdf,GD14,On the Complexity of HV-rectilinear Planarity Testing,10.1007/978-3-662-45803-7_29,361-372,Walter Didimo; Giuseppe Liotta; Maurizio Patrignani
+GD14_373-384.pdf,GD14,Embedding Four-Directional Paths on Convex Point Sets,10.1007/978-3-662-45803-7_30,373-384,Oswin Aichholzer; Thomas Hackl; Sarah Lutteropp; Tamara Mchedlidze; Birgit Vogtenhuber
+GD14_385-397.pdf,GD14,Drawing Graphs within Restricted Area,10.1007/978-3-662-45803-7_31,385-397,Maximilian Aulbach; Martin Fink; Julian Schuhmann; Alexander Wolff
+GD14_398-409.pdf,GD14,Height-Preserving Transformations of Planar Graph Drawings,10.1007/978-3-662-45803-7_32,398-409,Therese Biedl
+GD14_410-421.pdf,GD14,Drawing Planar Graphs with Reduced Height,10.1007/978-3-662-45803-7_33,410-421,Stephane Durocher; Debajyoti Mondal
+GD14_422-433.pdf,GD14,Anchored Drawings of Planar Graphs,10.1007/978-3-662-45803-7_34,422-433,Patrizio Angelini; Giordano Da Lozzo; Marco Di Bartolomeo; Giuseppe Di Battista; Seok-Hee Hong; Maurizio Patrignani; Vincenzo Roselli
+GD14_434-445.pdf,GD14,Advances on Testing C-Planarity of Embedded Flat Clustered Graphs,10.1007/978-3-662-45803-7_35,434-445,Markus Chimani; Giuseppe Di Battista; Fabrizio Frati; Karsten Klein
+GD14_446-457.pdf,GD14,Clustered Planarity Testing Revisited,10.1007/978-3-662-45803-7_36,446-457,Radoslav Fulek; Jan Kynčl; Igor Malinović; Dömötör Pálvölgyi
+GD14_458-469.pdf,GD14,A New Perspective on Clustered Planarity as a Combinatorial Embedding Problem,10.1007/978-3-662-45803-7_37,458-469,Thomas Bläsius; Ignaz Rutter
+GD14_470-481.pdf,GD14,MapSets: Visualizing Embedded and Clustered Graphs,10.1007/978-3-662-45803-7_38,470-481,Alon Efrat; Yifan Hu; Stephen G. Kobourov; Sergey Pupyrev
+GD14_482-493.pdf,GD14,Increasing-Chord Graphs On Point Sets,10.1007/978-3-662-45803-7_39,482-493,Hooman Reisi Dehkordi; Fabrizio Frati; Joachim Gudmundsson
+GD14_494-505.pdf,GD14,On Self-Approaching and Increasing-Chord Drawings of 3-Connected Planar Graphs,10.1007/978-3-662-45803-7_40,494-505,Martin Nöllenburg; Roman Prutkin; Ignaz Rutter
+GD14_506-518.pdf,GD14,On Monotone Drawings of Trees,10.1007/978-3-662-45803-7_41,506-518,Philipp Kindermann; André Schulz; Joachim Spoerhase; Alexander Wolff
+GD15_20-32.pdf,GD15,GraphMaps: Browsing Large Graphs as Interactive Maps,10.1007/978-3-319-27261-0_1,20-32,Lev Nachmanson; Roman Prutkin; Bongshin Lee; Nathalie Henry Riche; Alexander E. Holroyd; Xiaoji Chen
+GD15_33-46.pdf,GD15,An Incremental Layout Method for Visualizing Online Dynamic Graphs,10.1007/978-3-319-27261-0_2,33-46,Tarik Crnovrsanin; Jacqueline Chu; Kwan-Liu Ma
+GD15_47-60.pdf,GD15,Drawing Large Graphs by Multilevel Maxent-Stress Optimization,10.1007/978-3-319-27261-0_3,47-60,Henning Meyerhenke; Martin Nöllenburg; Christian Schulz
+GD15_61-68.pdf,GD15,A Million Edge Drawing for a Fistful of Dollars,10.1007/978-3-319-27261-0_4,61-68,Alessio Arleo; Walter Didimo; Giuseppe Liotta; Fabrizio Montecchiani
+GD15_69-76.pdf,GD15,Faster Force-Directed Graph Drawing with the Well-Separated Pair Decomposition,10.1007/978-3-319-27261-0_5,69-76,Fabian Lipp; Alexander Wolff; Johannes Zink
+GD15_78-89.pdf,GD15,The Degenerate Crossing Number and Higher-Genus Embeddings,10.1007/978-3-319-27261-0_6,78-89,Marcus Schaefer; Daniel Štefankovič
+GD15_90-101.pdf,GD15,On Degree Properties of Crossing-Critical Families of Graphs,10.1007/978-3-319-27261-0_7,90-101,Drago Bokal; Mojca Bračič; Marek Derňár; Petr Hliněný
+GD15_102-113.pdf,GD15,"Genus, Treewidth, and Local Crossing Number",10.1007/978-3-319-27261-0_8,102-113,Vida Dujmović; David Eppstein; David R. Wood
+GD15_114-125.pdf,GD15,Hanani-Tutte for Radial Planarity,10.1007/978-3-319-27261-0_9,114-125,Radoslav Fulek; Michael Pelsmajer; Marcus Schaefer
+GD15_127-138.pdf,GD15,Drawing Planar Cubic 3-Connected Graphs with Few Segments: Algorithms and Experiments,10.1007/978-3-319-27261-0_10,127-138,Alexander Igamberdiev; Wouter Meulemans; André Schulz
+GD15_139-152.pdf,GD15,The Book Embedding Problem from a SAT-Solving Perspective,10.1007/978-3-319-27261-0_11,139-152,Michael A. Bekos; Michael Kaufmann; Christian Zielke
+GD15_153-164.pdf,GD15,Size- and Port-Aware Horizontal Node Coordinate Assignment,10.1007/978-3-319-27261-0_12,153-164,Ulf Rüegg; Christoph Daniel Schulze; John Julian Carstens; Reinhard von Hanxleden
+GD15_166-178.pdf,GD15,Small-Area Orthogonal Drawings of 3-Connected Graphs,10.1007/978-3-319-27261-0_13,166-178,Therese Biedl; Jens M. Schmidt
+GD15_179-192.pdf,GD15,Simultaneous Embeddings with Few Bends and Crossings,10.1007/978-3-319-27261-0_14,179-192,Fabrizio Frati; Michael Hoffmann; Vincent Kusters
+GD15_193-204.pdf,GD15,Rook-Drawing for Plane Graphs,10.1007/978-3-319-27261-0_15,193-204,David Auber; Nicolas Bonichon; Paul Dorbec; Claire Pennarun
+GD15_205-211.pdf,GD15,On Minimizing Crossings in Storyline Visualizations,10.1007/978-3-319-27261-0_16,205-211,Irina Kostitsyna; Martin Nöllenburg; Valentin Polishchuk; André Schulz; Darren Strash
+GD15_212-217.pdf,GD15,Maximizing the Degree of (Geometric) t Thickness- Regular Graphs,10.1007/978-3-319-27261-0_17,212-217,Christian A. Duncan
+GD15_219-228.pdf,GD15,On the Zarankiewicz Problem for Intersection Hypergraphs,10.1007/978-3-319-27261-0_18,219-228,Nabil H. Mustafa; János Pach
+GD15_229-242.pdf,GD15,Intersection-Link Representations of Graphs,10.1007/978-3-319-27261-0_19,229-242,Patrizio Angelini; Giordano Da Lozzo; Giuseppe Di Battista; Fabrizio Frati; Maurizio Patrignani; Ignaz Rutter
+GD15_243-256.pdf,GD15,Combinatorial Properties of Triangle-Free Rectangle Arrangements and the Squarability Problem,10.1007/978-3-319-27261-0_20,243-256,Jonathan Klawitter; Martin Nöllenburg; Torsten Ueckerdt
+GD15_258-270.pdf,GD15,Displaying User Behavior in the Collaborative Graph Visualization System OnGraX,10.1007/978-3-319-27261-0_21,258-270,Björn Zimmer; Andreas Kerren
+GD15_271-282.pdf,GD15,Conﬂuent Orthogonal Drawings of Syntax Diagrams,10.1007/978-3-319-27261-0_22,271-282,Michael J. Bannister; David A. Brown; David Eppstein
+GD15_283-289.pdf,GD15,Kojaph : Visual Deﬁnition and Exploration of Patterns in Graph Databases,10.1007/978-3-319-27261-0_23,283-289,Walter Didimo; Francesco Giacchè; Fabrizio Montecchiani
+GD15_291-304.pdf,GD15,2-Layer Fan-Planarity: From Caterpillar to Stegosaurus,10.1007/978-3-319-27261-0_24,291-304,Carla Binucci; Markus Chimani; Walter Didimo; Martin Gronemann; Karsten Klein; Jan Kratochvíl; Fabrizio Montecchiani; Ioannis G. Tollis
+GD15_305-318.pdf,GD15,Recognizing and Drawing IC-Planar Graphs,10.1007/978-3-319-27261-0_25,305-318,Franz J. Brandenburg; Walter Didimo; William S. Evans; Philipp Kindermann; Giuseppe Liotta; Fabrizio Montecchiani
+GD15_319-330.pdf,GD15,Simple Realizability of Complete Abstract Topological Graphs Simpliﬁed,10.1007/978-3-319-27261-0_26,319-330,Jan Kynčl
+GD15_331-342.pdf,GD15,The Utility of Untangling,10.1007/978-3-319-27261-0_27,331-342,Vida Dujmović
+GD15_344-356.pdf,GD15,Representing Directed Trees as Straight Skeletons,10.1007/978-3-319-27261-0_28,344-356,Oswin Aichholzer; Therese Biedl; Thomas Hackl; Martin Held; Stefan Huber; Peter Palfrader; Birgit Vogtenhuber
+GD15_357-368.pdf,GD15,Drawing Graphs with Vertices and Edges in Convex Position,10.1007/978-3-319-27261-0_29,357-368,Ignacio García-Marco; Kolja Knauer
+GD15_369-381.pdf,GD15,Drawing Graphs Using a Small Number of Obstacles,10.1007/978-3-319-27261-0_30,369-381,Martin Balko; Josef Cibulka; Pavel Valtr
+GD15_382-388.pdf,GD15,Vertical Visibility Among Parallel Polygons in Three Dimensions,10.1007/978-3-319-27261-0_31,382-388,Radoslav Fulek; Rados Radoicic
+GD15_390-401.pdf,GD15,Alternating Paths and Cycles of Minimum Length,10.1007/978-3-319-27261-0_32,390-401,William S. Evans; Giuseppe Liotta; Henk Meijer; Stephen Wismath
+GD15_402-415.pdf,GD15,On Embeddability of Buses in Point Sets,10.1007/978-3-319-27261-0_33,402-415,Till Bruckdorfer; Michael Kaufmann; Stephen G. Kobourov; Sergey Pupyrev
+GD15_416-429.pdf,GD15,A Universal Point Set for 2-Outerplanar Graphs,10.1007/978-3-319-27261-0_34,416-429,Patrizio Angelini; Till Bruckdorfer; Michael Kaufmann; Tamara Mchedlidze
+GD15_430-436.pdf,GD15,Linear-Size Universal Point Sets for One-Bend Drawings,10.1007/978-3-319-27261-0_35,430-436,Maarten Löffler; Csaba D. Tóth
+GD15_438-451.pdf,GD15,Recognizing Weighted Disk Contact Graphs,10.1007/978-3-319-27261-0_36,438-451,Boris Klemz; Martin Nöllenburg; Roman Prutkin
+GD15_452-464.pdf,GD15,Realization of Simply Connected Polygonal Linkages and Recognition of Unit Disk Contact Trees,10.1007/978-3-319-27261-0_37,452-464,Clinton Bowen; Stephane Durocher; Maarten Löffler; Anika Rounds; André Schulz; Csaba D. Tóth
+GD15_465-476.pdf,GD15,Towards Characterizing Graphs with a Sliceable Rectangular Dual,10.1007/978-3-319-27261-0_38,465-476,Vincent Kusters; Bettina Speckmann
+GD15_477-491.pdf,GD15,Pixel and Voxel Representations of Graphs,10.1007/978-3-319-27261-0_39,477-491,Md. Jawaherul Alam; Thomas Bläsius; Ignaz Rutter; Torsten Ueckerdt; Alexander Wolff
+GD15_493-505.pdf,GD15,A Tale of Two Communities: Assessing Homophily in Node-Link Diagrams,10.1007/978-3-319-27261-0_40,493-505,Wouter Meulemans; André Schulz
+GD15_506-518.pdf,GD15,Shape-Based Quality Metrics for Large Graph Visualization,10.1007/978-3-319-27261-0_41,506-518,Peter Eades; Seok-Hee Hong; Karsten Klein; An Nguyen
+GD15_519-531.pdf,GD15,On the Readability of Boundary Labeling,10.1007/978-3-319-27261-0_42,519-531,Lukas Barth; Andreas Gemsa; Benjamin Niedermann; Martin Nöllenburg
+GD16_22-36.pdf,GD16,A Distributed Multilevel Force-Directed Algorithm,10.1007/978-3-319-50106-2_1,22-36,Alessio Arleo; Walter Didimo; Giuseppe Liotta; Fabrizio Montecchiani
+GD16_37-51.pdf,GD16,A Sparse Stress Model,10.1007/978-3-319-50106-2_2,37-51,Mark Ortmann; Mirza Klimenta; Ulrik Brandes
+GD16_52-62.pdf,GD16,Node Overlap Removal by Growing a Tree,10.1007/978-3-319-50106-2_3,52-62,Lev Nachmanson; Arlind Nocaj; Sergey Bereg; Leishi Zhang; Alexander Holroyd
+GD16_63-70.pdf,GD16,Placing Arrows in Directed Graph Drawings,10.1007/978-3-319-50106-2_4,63-70,Carla Binucci; Markus Chimani; Walter Didimo; Giuseppe Liotta; Fabrizio Montecchiani
+GD16_71-83.pdf,GD16,Peacock Bundles: Bundle Coloring for Graphs with Globality-Locality Trade-Oﬀ,10.1007/978-3-319-50106-2_5,71-83,Jaakko Peltonen; Ziyuan Lin
+GD16_85-98.pdf,GD16,Twins in Subdivision Drawings of Hypergraphs,10.1007/978-3-319-50106-2_6,85-98,René van Bevern; Iyad Kanj; Christian Komusiewicz; Rolf Niedermeier; Manuel Sorge
+GD16_99-111.pdf,GD16,Multi-colored Spanning Graphs,10.1007/978-3-319-50106-2_7,99-111,Hugo A. Akitaya; Maarten Löffler; Csaba D. Tóth
+GD16_112-124.pdf,GD16,C-Planarity of Embedded Cyclic c-Graphs,10.1007/978-3-319-50106-2_8,112-124,Radoslav Fulek
+GD16_125-138.pdf,GD16,Computing NodeTrix Representations of Clustered Graphs,10.1007/978-3-319-50106-2_9,125-138,Giordano Da Lozzo; Giuseppe Di Battista; Fabrizio Frati; Maurizio Patrignani
+GD16_140-147.pdf,GD16,1-Bend Upward Planar Drawings of SP-Digraphs,10.1007/978-3-319-50106-2_10,140-147,Emilio Di Giacomo; Giuseppe Liotta; Fabrizio Montecchiani
+GD16_148-160.pdf,GD16,Non-aligned Drawings of Planar Graphs,10.1007/978-3-319-50106-2_11,148-160,Therese Biedl; Claire Pennarun
+GD16_161-168.pdf,GD16,Snapping Graph Drawings to the Grid Optimally,10.1007/978-3-319-50106-2_12,161-168,Andre Löffler; Thomas C. van Dijk; Alexander Wolff
+GD16_169-182.pdf,GD16,Drawing Planar Graphs with Many Collinear Vertices,10.1007/978-3-319-50106-2_13,169-182,Giordano Da Lozzo; Vida Dujmović; Fabrizio Frati; Tamara Mchedlidze; Vincenzo Roselli
+GD16_183-197.pdf,GD16,Drawing Graphs on Few Lines and Few Planes,10.1007/978-3-319-50106-2_14,183-197,Steven Chaplick; Krzysztof Fleszar; Fabian Lipp; Alexander Ravsky; Oleg Verbitsky; Alexander Wolff
+GD16_199-211.pdf,GD16,Algorithms for Visualizing Phylogenetic Networks,10.1007/978-3-319-50106-2_15,199-211,Ioannis G. Tollis; Konstantinos G. Kakoulis
+GD16_212-224.pdf,GD16,A Generalization of the Directed Graph Layering Problem,10.1007/978-3-319-50106-2_16,212-224,Ulf Rüegg; Thorsten Ehlers; Miro Spönemann; Reinhard von Hanxleden
+GD16_225-237.pdf,GD16,Compact Layered Drawings of General Directed Graphs,10.1007/978-3-319-50106-2_17,225-237,Adalat Jabrayilov; Sven Mallach; Petra Mutzel; Ulf Rüegg; Reinhard von Hanxleden
+GD16_238-251.pdf,GD16,st Bitonic -orderings for Upward Planar Graphs,10.1007/978-3-319-50106-2_18,238-251,Martin Gronemann
+GD16_252-264.pdf,GD16,Low Ply Drawings of Trees,10.1007/978-3-319-50106-2_19,252-264,Patrizio Angelini; Michael A. Bekos; Till Bruckdorfer; Jaroslav Hančl; Michael Kaufmann; Stephen Kobourov; Antonios Symvonis; Pavel Valtr
+GD16_266-280.pdf,GD16,Visibility Representations of Boxes in 2.5 Dimensions,10.1007/978-3-319-50106-2_20,266-280,Alessio Arleo; Carla Binucci; Emilio Di Giacomo; William S. Evans; Luca Grilli; Giuseppe Liotta; Henk Meijer; Fabrizio Montecchiani; Sue Whitesides; Stephen Wismath
+GD16_281-294.pdf,GD16,The Partial Visibility Representation Extension Problem,10.1007/978-3-319-50106-2_21,281-294,Steven Chaplick; Grzegorz Guśpiel; Grzegorz Gutowski; Tomasz Krawczyk; Giuseppe Liotta
+GD16_295-309.pdf,GD16,Ortho-Polygon Visibility Representations of Embedded Graphs,10.1007/978-3-319-50106-2_22,295-309,Emilio Di Giacomo; Walter Didimo; William S. Evans; Giuseppe Liotta; Henk Meijer; Fabrizio Montecchiani; Stephen K. Wismath
+GD16_310-323.pdf,GD16,Obstructing Visibilities with One Obstacle,10.1007/978-3-319-50106-2_23,310-323,Steven Chaplick; Fabian Lipp; Ji-won Park; Alexander Wolff
+GD16_325-334.pdf,GD16,On the Size of Planarly Connected Crossing Graphs,10.1007/978-3-319-50106-2_24,325-334,Eyal Ackerman; Balázs Keszegh; Mate Vizer
+GD16_335-348.pdf,GD16,Re-embedding a 1-Plane Graph into a Straight-Line Drawing in Linear Time,10.1007/978-3-319-50106-2_25,335-348,Seok-Hee Hong; Hiroshi Nagamochi
+GD16_349-357.pdf,GD16,1-Bend RAC Drawings of 1-Planar Graphs,10.1007/978-3-319-50106-2_26,349-357,Walter Didimo; Giuseppe Liotta; Saeed Mehrabi; Fabrizio Montecchiani
+GD16_358-370.pdf,GD16,On the Density of Non-simple 3-Planar Graphs,10.1007/978-3-319-50106-2_27,358-370,Michael A. Bekos; Michael Kaufmann; Chrysanthi N. Raftopoulou
+GD16_371-378.pdf,GD16,A Note on the Practicality of Maximal Planar Subgraph Algorithms,10.1007/978-3-319-50106-2_28,371-378,Markus Chimani; Karsten Klein; Tilo Wiedera
+GD16_380-394.pdf,GD16,Crossing Minimization in Storyline Visualization,10.1007/978-3-319-50106-2_29,380-394,Martin Gronemann; Michael Jünger; Frauke Liers; Francesco Mambelli
+GD16_395-411.pdf,GD16,Block Crossings in Storyline Visualizations,10.1007/978-3-319-50106-2_30,395-411,Thomas C. van Dijk; Martin Fink; Norbert Fischer; Fabian Lipp; Peter Markfelder; Alexander Ravsky; Subhash Suri; Alexander Wolff
+GD16_412-425.pdf,GD16,The Bundled Crossing Number,10.1007/978-3-319-50106-2_31,412-425,Md. Jawaherul Alam; Martin Fink; Sergey Pupyrev
+GD16_426-439.pdf,GD16,Approximating the Rectilinear Crossing Number,10.1007/978-3-319-50106-2_32,426-439,Jacob Fox; János Pach; Andrew Suk
+GD16_440-451.pdf,GD16,The Crossing Number of the Cone of a Graph,10.1007/978-3-319-50106-2_33,440-451,Carlos A. Alfaro; Alan Arroyo; Marek Derňár; Bojan Mohar
+GD16_453-465.pdf,GD16,Topological Drawings of Complete Bipartite Graphs,10.1007/978-3-319-50106-2_34,453-465,Jean Cardinal; Stefan Felsner
+GD16_466-479.pdf,GD16,A Direct Proof of the Strong Hanani–Tutte Theorem on the Projective Plane,10.1007/978-3-319-50106-2_35,466-479,Éric Colin de Verdière; Vojtěch Kaluža; Pavel Paták; Zuzana Patáková; Martin Tancer
+GD16_480-493.pdf,GD16,Hanani-Tutte for Radial Planarity II,10.1007/978-3-319-50106-2_36,480-493,Radoslav Fulek; Michael Pelsmajer; Marcus Schaefer
+GD16_494-507.pdf,GD16,Beyond Level Planarity,10.1007/978-3-319-50106-2_37,494-507,Patrizio Angelini; Giordano Da Lozzo; Giuseppe Di Battista; Fabrizio Frati; Maurizio Patrignani; Ignaz Rutter
+GD16_509-520.pdf,GD16,Track Layout Is Hard,10.1007/978-3-319-50106-2_38,509-520,Michael J. Bannister; William E. Devanny; Vida Dujmović; David Eppstein; David R. Wood
+GD16_521-528.pdf,GD16,Stack and Queue Layouts via Layered Separators,10.1007/978-3-319-50106-2_39,521-528,Vida Dujmović; Fabrizio Frati
+GD16_529-541.pdf,GD16,Gabriel Triangulations and Angle-Monotone Graphs: Local Routing and Recognition,10.1007/978-3-319-50106-2_40,529-541,Nicolas Bonichon; Prosenjit Bose; Paz Carmi; Irina Kostitsyna; Anna Lubiw; Sander Verdonschot
+GD16_542-555.pdf,GD16,Simultaneous Orthogonal Planarity,10.1007/978-3-319-50106-2_41,542-555,Patrizio Angelini; Steven Chaplick; Sabine Cornelsen; Giordano Da Lozzo; Giuseppe Di Battista; Peter Eades; Philipp Kindermann; Jan Kratochvíl; Fabian Lipp; Ignaz Rutter
+GD16_556-563.pdf,GD16,Monotone Simultaneous Embeddings d of Paths in Dimensions,10.1007/978-3-319-50106-2_42,556-563,David Bremner; Olivier Devillers; Marc Glisse; Sylvain Lazard; Giuseppe Liotta; Tamara Mchedlidze; Sue Whitesides; Stephen Wismath
+GD16_565-579.pdf,GD16,Evaluation of Two Interaction Techniques for Visualization of Dynamic Graphs,10.1007/978-3-319-50106-2_43,565-579,Paolo Federico; Silvia Miksch
+GD16_580-594.pdf,GD16,Oﬄine Drawing of Dynamic Trees: Algorithmics and Document Integration,10.1007/978-3-319-50106-2_44,580-594,Malte Skambath; Till Tantau
+GD17_21-34.pdf,GD17,Aligned Drawings of Planar Graphs,10.1007/978-3-319-73915-1_1,21-34,Tamara Mchedlidze; Marcel Radermacher; Ignaz Rutter
+GD17_35-41.pdf,GD17,On the Edge-Length Ratio of Outerplanar Graphs,10.1007/978-3-319-73915-1_2,35-41,Sylvain Lazard; William Lenhart; Giuseppe Liotta
+GD17_42-55.pdf,GD17,On Vertex- and Empty-Ply Proximity Drawings,10.1007/978-3-319-73915-1_3,42-55,Patrizio Angelini; Steven Chaplick; Felice De Luca; Jiří Fiala; Jaroslav Hančl; Niklas Heinsohn; Michael Kaufmann; Stephen Kobourov; Jan Kratochvíl; Pavel Valtr
+GD17_56-69.pdf,GD17,An Interactive Tool to Explore and Improve the Ply Number of Drawings,10.1007/978-3-319-73915-1_4,56-69,Niklas Heinsohn; Michael Kaufmann
+GD17_70-82.pdf,GD17,Experimental Analysis of the Accessibility of Drawings with Few Segments,10.1007/978-3-319-73915-1_5,70-82,Philipp Kindermann; Wouter Meulemans; André Schulz
+GD17_84-97.pdf,GD17,Obstacle Numbers of Planar Graphs,10.1007/978-3-319-73915-1_6,84-97,John Gimbel; Patrice Ossona de Mendez; Pavel Valtr
+GD17_98-104.pdf,GD17,Grid-Obstacle Representations with Connections to Staircase Guarding,10.1007/978-3-319-73915-1_7,98-104,Therese Biedl; Saeed Mehrabi
+GD17_105-118.pdf,GD17,Reconstructing Generalized Staircase Polygons with Uniform Step Length,10.1007/978-3-319-73915-1_8,105-118,Nodari Sitchinava; Darren Strash
+GD17_119-126.pdf,GD17,3D Visibility Representations of 1-planar Graphs,10.1007/978-3-319-73915-1_9,119-126,Patrizio Angelini; Michael A. Bekos; Michael Kaufmann; Fabrizio Montecchiani
+GD17_128-141.pdf,GD17,Lombardi Drawings of Knots and Links,10.1007/978-3-319-73915-1_10,128-141,Philipp Kindermann; Stephen Kobourov; Maarten Löffler; Martin Nöllenburg; André Schulz; Birgit Vogtenhuber
+GD17_142-154.pdf,GD17,Arrangements of Pseudocircles: Triangles and Drawings,10.1007/978-3-319-73915-1_11,142-154,Stefan Felsner; Manfred Scheucher
+GD17_155-167.pdf,GD17,"Drawing Bobbin Lace Graphs, or, Fundamental Cycles for a Subclass of Periodic Graphs",10.1007/978-3-319-73915-1_12,155-167,Therese Biedl; Veronika Irvine
+GD17_168-174.pdf,GD17,Many Touchings Force Many Crossings,10.1007/978-3-319-73915-1_13,168-174,János Pach; Géza Tóth
+GD17_175-181.pdf,GD17,Thrackles: An Improved Upper Bound,10.1007/978-3-319-73915-1_14,175-181,Radoslav Fulek; János Pach
+GD17_183-197.pdf,GD17,"On Smooth Orthogonal and Octilinear Drawings: Relations, Complexity and Kandinsky Drawings",10.1007/978-3-319-73915-1_15,183-197,Michael A. Bekos; Henry Förster; Michael Kaufmann
+GD17_198-210.pdf,GD17,EPG-representations with Small Grid-Size,10.1007/978-3-319-73915-1_16,198-210,Therese Biedl; Martin Derka; Vida Dujmović; Pat Morin
+GD17_211-223.pdf,GD17,Mixed Linear Layouts of Planar Graphs,10.1007/978-3-319-73915-1_17,211-223,Sergey Pupyrev
+GD17_224-237.pdf,GD17,Upward Partitioned Book Embeddings,10.1007/978-3-319-73915-1_18,224-237,Hugo A. Akitaya; Erik D. Demaine; Adam Hesterberg; Quanquan C. Liu
+GD17_238-252.pdf,GD17,Experimental Evaluation of Book Drawing Algorithms,10.1007/978-3-319-73915-1_19,238-252,Jonathan Klawitter; Tamara Mchedlidze; Martin Nöllenburg
+GD17_254-268.pdf,GD17,Visual Similarity Perception of Directed Acyclic Graphs: A Study on Inﬂuencing Factors,10.1007/978-3-319-73915-1_20,254-268,K. Ballweg; M. Pohl; G. Wallner; T. von Landesberger
+GD17_269-284.pdf,GD17,GiViP : A Visual Proﬁler for Distributed Graph Processing Systems,10.1007/978-3-319-73915-1_21,269-284,Alessio Arleo; Walter Didimo; Giuseppe Liotta; Fabrizio Montecchiani
+GD17_285-299.pdf,GD17,Drawing Big Graphs Using Spectral Sparsiﬁcation,10.1007/978-3-319-73915-1_22,285-299,Peter Eades; Quan Nguyen; Seok-Hee Hong
+GD17_300-315.pdf,GD17,Revisited Experimental Comparison of Node-Link and Matrix Representations,10.1007/978-3-319-73915-1_23,300-315,Mershack Okoe; Radu Jianu; Stephen Kobourov
+GD17_317-329.pdf,GD17,Improved Bounds for Drawing Trees on Fixed Points with L-Shaped Edges,10.1007/978-3-319-73915-1_24,317-329,Therese Biedl; Timothy M. Chan; Martin Derka; Kshitij Jain; Anna Lubiw
+GD17_330-337.pdf,GD17,On Upward Drawings of Trees on a Given Grid,10.1007/978-3-319-73915-1_25,330-337,Therese Biedl; Debajyoti Mondal
+GD17_338-345.pdf,GD17,Simple Compact Monotone Tree Drawings,10.1007/978-3-319-73915-1_26,338-345,Anargyros Oikonomou; Antonios Symvonis
+GD17_346-359.pdf,GD17,Visualizing Co-phylogenetic Reconciliations,10.1007/978-3-319-73915-1_27,346-359,Tiziana Calamoneri; Valentino Di Donato; Diego Mariottini; Maurizio Patrignani
+GD17_361-374.pdf,GD17,Anisotropic Radial Layout for Visualizing Centrality and Structure in Graphs,10.1007/978-3-319-73915-1_28,361-374,Mukund Raj; Ross T. Whitaker
+GD17_375-388.pdf,GD17,Computing Storyline Visualizations with Few Block Crossings,10.1007/978-3-319-73915-1_29,375-388,Thomas C. van Dijk; Fabian Lipp; Peter Markfelder; Alexander Wolff
+GD17_389-403.pdf,GD17,MLSEB: Edge Bundling Using Moving Least Squares Approximation,10.1007/978-3-319-73915-1_30,389-403,Jieting Wu; Jianping Zeng; Feiyu Zhu; Hongfeng Yu
+GD17_404-419.pdf,GD17,Drawing Dynamic Graphs Without Timeslices,10.1007/978-3-319-73915-1_31,404-419,Paolo Simonetto; Daniel Archambault; Stephen Kobourov
+GD17_421-433.pdf,GD17,Colored Point-Set Embeddings of Acyclic Graphs,10.1007/978-3-319-73915-1_32,421-433,Emilio Di Giacomo; Leszek Gasieniec; Giuseppe Liotta; Alfredo Navarra
+GD17_434-447.pdf,GD17,Planar Drawings of Fixed-Mobile Bigraphs,10.1007/978-3-319-73915-1_33,434-447,Michael A. Bekos; Felice De Luca; Walter Didimo; Tamara Mchedlidze; Martin Nöllenburg; Antonios Symvonis; Ioannis G. Tollis
+GD17_448-461.pdf,GD17,"Ordered Level Planarity, Geodesic Planarity and Bi-Monotonicity",10.1007/978-3-319-73915-1_34,448-461,Boris Klemz; Günter Rote
+GD17_462-469.pdf,GD17,Non-crossing Paths with Geographic Constraints,10.1007/978-3-319-73915-1_35,462-469,Rodrigo I. Silveira; Bettina Speckmann; Kevin Verbeek
+GD17_471-484.pdf,GD17,Planar L-Drawings of Directed Graphs,10.1007/978-3-319-73915-1_36,471-484,Steven Chaplick; Markus Chimani; Sabine Cornelsen; Giordano Da Lozzo; Martin Nöllenburg; Maurizio Patrignani; Ioannis G. Tollis; Alexander Wolff
+GD17_485-497.pdf,GD17,NodeTrix Planarity Testing with Small Clusters,10.1007/978-3-319-73915-1_37,485-497,Emilio Di Giacomo; Giuseppe Liotta; Maurizio Patrignani; Alessandra Tappini
+GD17_498-511.pdf,GD17,The Painter’s Problem: Covering a Grid with Colored Connected Polygons,10.1007/978-3-319-73915-1_38,498-511,Arthur van Goethem; Irina Kostitsyna; Marc van Kreveld; Wouter Meulemans; Max Sondag; Jules Wulms
+GD17_512-519.pdf,GD17,"Triangle-Free Penny Graphs: Degeneracy, Choosability, and Edge Count",10.1007/978-3-319-73915-1_39,512-519,David Eppstein
+GD17_521-534.pdf,GD17,1-Fan-Bundle-Planar Drawings of Graphs,10.1007/978-3-319-73915-1_40,521-534,Patrizio Angelini; Michael A. Bekos; Michael Kaufmann; Philipp Kindermann; Thomas Schneck
+GD17_535-549.pdf,GD17,Gap-Planar Graphs,10.1007/978-3-319-73915-1_41,535-549,Sang Won Bae; Jean-Francois Baffier; Jinhee Chun; Peter Eades; Kord Eickmeyer; Luca Grilli; Seok-Hee Hong; Matias Korman; Fabrizio Montecchiani; Ignaz Rutter; Csaba D. Tóth
+GD17_550-563.pdf,GD17,Beyond Outerplanarity,10.1007/978-3-319-73915-1_42,550-563,Steven Chaplick; Myroslav Kryven; Giuseppe Liotta; Andre Löffler; Alexander Wolff
+GD17_564-576.pdf,GD17,The Eﬀect of Planarization on Width,10.1007/978-3-319-73915-1_43,564-576,David Eppstein
+GD18_37-52.pdf,GD18,Clustered Planarity = Flat Clustered Planarity,10.1007/978-3-030-04414-5_2,37-52,Pier Francesco Cortese; Maurizio Patrignani
+GD18_53-66.pdf,GD18,Level Planarity: Transitivity vs. Even Crossings,10.1007/978-3-030-04414-5_3,53-66,Guido Brückner; Ignaz Rutter; Peter Stumpf
+GD18_67-80.pdf,GD18,Short Plane Supports for Spatial Hypergraphs,10.1007/978-3-030-04414-5_4,67-80,Thom Castermans; Mereke van Garderen; Wouter Meulemans; Martin Nöllenburg; Xiaoru Yuan
+GD18_81-88.pdf,GD18,Turning Cliques into Paths to Achieve Planarity,10.1007/978-3-030-04414-5_5,81-88,Patrizio Angelini; Peter Eades; Seok-Hee Hong; Karsten Klein; Stephen Kobourov; Giuseppe Liotta; Alfredo Navarra; Alessandra Tappini
+GD18_90-104.pdf,GD18,Universal Slope Sets for Upward Planar Drawings,10.1007/978-3-030-04414-5_6,90-104,Michael A. Bekos; Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Fabrizio Montecchiani
+GD18_105-118.pdf,GD18,Upward Planar Morphs,10.1007/978-3-030-04414-5_7,105-118,Giordano Da Lozzo; Giuseppe Di Battista; Fabrizio Frati; Maurizio Patrignani; Vincenzo Roselli
+GD18_119-132.pdf,GD18,Visualizing the Template of a Chaotic Attractor,10.1007/978-3-030-04414-5_8,119-132,Maya Olszewski; Jeff Meder; Emmanuel Kieffer; Raphaël Bleuse; Martin Rosalie; Grégoire Danoy; Pascal Bouvry
+GD18_134-147.pdf,GD18,On RAC Drawings of Graphs with One Bend per Edge,10.1007/978-3-030-04414-5_9,134-147,Patrizio Angelini; Michael A. Bekos; Henry Förster; Michael Kaufmann
+GD18_148-162.pdf,GD18,Compact Drawings of 1-Planar Graphs with Right-Angle Crossings and Few Bends,10.1007/978-3-030-04414-5_10,148-162,Steven Chaplick; Fabian Lipp; Alexander Wolff; Johannes Zink
+GD18_163-177.pdf,GD18,"Drawing Subcubic 1-Planar Graphs with Few Bends, Few Slopes, and Large Angles",10.1007/978-3-030-04414-5_11,163-177,Philipp Kindermann; Fabrizio Montecchiani; Lena Schlipf; André Schulz
+GD18_179-194.pdf,GD18,Aesthetic Discrimination of Graph Layouts,10.1007/978-3-030-04414-5_12,179-194,Moritz Klammler; Tamara Mchedlidze; Alexey Pak
+GD18_196-208.pdf,GD18,A Flow Formulation for Horizontal Coordinate Assignment with Prescribed Width,10.1007/978-3-030-04414-5_13,196-208,Michael Jünger; Petra Mutzel; Christiane Spisla
+GD18_209-221.pdf,GD18,The Queue-Number of Posets of Bounded Width or Height,10.1007/978-3-030-04414-5_14,209-221,Kolja Knauer; Piotr Micek; Torsten Ueckerdt
+GD18_222-235.pdf,GD18,Queue Layouts of Planar 3-Trees,10.1007/978-3-030-04414-5_15,222-235,Jawaherul Md. Alam; Michael A. Bekos; Martin Gronemann; Michael Kaufmann; Sergey Pupyrev
+GD18_237-249.pdf,GD18,Crossing Minimization in Perturbed Drawings,10.1007/978-3-030-04414-5_16,237-249,Radoslav Fulek; Csaba D. Tóth
+GD18_250-262.pdf,GD18,The Number of Crossings in Multigraphs with No Empty Lens,10.1007/978-3-030-04414-5_17,250-262,Michael Kaufmann; János Pach; Géza Tóth; Torsten Ueckerdt
+GD18_263-276.pdf,GD18,Crossing Numbers and Stress of Random Graphs,10.1007/978-3-030-04414-5_18,263-276,Markus Chimani; Hanna Döring; Matthias Reitzner
+GD18_278-292.pdf,GD18,A Heuristic Approach Towards Drawings of Graphs with High Crossing Resolution,10.1007/978-3-030-04414-5_19,278-292,Michael A. Bekos; Henry Förster; Christian Geckeler; Lukas Holländer; Michael Kaufmann; Amadäus M. Spallek; Jan Splett
+GD18_293-306.pdf,GD18,A Greedy Heuristic for Crossing-Angle Maximization,10.1007/978-3-030-04414-5_20,293-306,Almut Demel; Dominik Dürrschnabel; Tamara Mchedlidze; Marcel Radermacher; Lasse Wulf
+GD18_308-321.pdf,GD18,Recognition and Drawing of Stick Graphs,10.1007/978-3-030-04414-5_21,308-321,Felice De Luca; Md Iqbal Hossain; Stephen Kobourov; Anna Lubiw; Debajyoti Mondal
+GD18_322-335.pdf,GD18,On Contact Graphs of Paths on a Grid,10.1007/978-3-030-04414-5_22,322-335,Zakir Deniz; Esther Galby; Andrea Munaro; Bernard Ries
+GD18_337-350.pdf,GD18,On the Area-Universality of Triangulations,10.1007/978-3-030-04414-5_23,337-350,Linda Kleist
+GD18_351-357.pdf,GD18,k Monotone Drawings of -Inner Planar Graphs,10.1007/978-3-030-04414-5_24,351-357,Anargyros Oikonomou; Antonios Symvonis
+GD18_358-364.pdf,GD18,On L-Shaped Point Set Embeddings of Trees: First Non-embeddable Examples,10.1007/978-3-030-04414-5_25,358-364,Torsten Mütze; Manfred Scheucher
+GD18_365-371.pdf,GD18,How to Fit a Tree in a Box,10.1007/978-3-030-04414-5_26,365-371,Hugo A. Akitaya; Maarten Löffler; Irene Parada
+GD18_373-386.pdf,GD18,Pole Dancing: 3D Morphs for Tree Drawings,10.1007/978-3-030-04414-5_27,373-386,Elena Arseneva; Prosenjit Bose; Pilar Cano; Anthony D’Angelo; Vida Dujmović; Fabrizio Frati; Stefan Langerman; Alessandra Tappini
+GD18_388-402.pdf,GD18,The Complexity of Drawing a Graph in a Polygonal Region,10.1007/978-3-030-04414-5_28,388-402,Anna Lubiw; Tillmann Miltzow; Debajyoti Mondal
+GD18_403-416.pdf,GD18,Inserting an Edge into a Geometric Embedding,10.1007/978-3-030-04414-5_29,403-416,Marcel Radermacher; Ignaz Rutter
+GD18_417-430.pdf,GD18,β -Stars or On Extending a Drawing of a Connected Subgraph,10.1007/978-3-030-04414-5_30,417-430,Tamara Mchedlidze; Jérôme Urhausen
+GD18_432-445.pdf,GD18,Perception of Symmetries in Drawings of Graphs,10.1007/978-3-030-04414-5_31,432-445,Felice De Luca; Stephen Kobourov; Helen Purchase
+GD18_446-461.pdf,GD18,Network Alignment by Discrete Ollivier-Ricci Flow,10.1007/978-3-030-04414-5_32,446-461,Chien-Chun Ni; Yu-Yao Lin; Jie Gao; Xianfeng Gu
+GD18_462-476.pdf,GD18,"Same Stats, Diﬀerent Graphs",10.1007/978-3-030-04414-5_33,462-476,Hang Chen; Utkarsh Soni; Yafeng Lu; Ross Maciejewski; Stephen Kobourov
+GD18_478-491.pdf,GD18,Bend-Minimum Orthogonal Drawings in Quadratic Time,10.1007/978-3-030-04414-5_34,478-491,Walter Didimo; Giuseppe Liotta; Maurizio Patrignani
+GD18_492-505.pdf,GD18,Greedy Rectilinear Drawings,10.1007/978-3-030-04414-5_35,492-505,Patrizio Angelini; Michael A. Bekos; Walter Didimo; Luca Grilli; Philipp Kindermann; Tamara Mchedlidze; Roman Prutkin; Antonios Symvonis; Alessandra Tappini
+GD18_506-520.pdf,GD18,Orthogonal and Smooth Orthogonal Layouts of 1-Planar Graphs with Low Edge Complexity,10.1007/978-3-030-04414-5_36,506-520,Evmorfia Argyriou; Sabine Cornelsen; Henry Förster; Michael Kaufmann; Martin Nöllenburg; Yoshio Okamoto; Chrysanthi Raftopoulou; Alexander Wolff
+GD18_521-534.pdf,GD18,Ortho-Polygon Visibility Representations of 3-Connected 1-Plane Graphs,10.1007/978-3-030-04414-5_37,521-534,Giuseppe Liotta; Fabrizio Montecchiani; Alessandra Tappini
+GD18_536-549.pdf,GD18,Realization and Connectivity of the Graphs of Origami Flat Foldings,10.1007/978-3-030-04414-5_38,536-549,David Eppstein
+GD18_550-563.pdf,GD18,Arrangements of Pseudocircles: On Circularizability,10.1007/978-3-030-04414-5_39,550-563,Stefan Felsner; Manfred Scheucher
+GD18_564-570.pdf,GD18,The Weighted Barycenter Drawing Recognition Problem,10.1007/978-3-030-04414-5_40,564-570,Peter Eades; Patrick Healy; Nikola S. Nikolov
+GD18_572-585.pdf,GD18,Algorithms and Bounds for Drawing Directed Graphs,10.1007/978-3-030-04414-5_41,572-585,Giacomo Ortali; Ioannis G. Tollis
+GD18_586-598.pdf,GD18,Optimal Grid Drawings of Complete Multipartite Graphs and an Integer Variant of the Algebraic Connectivity,10.1007/978-3-030-04414-5_42,586-598,Ruy Fabila-Monroy; Carlos Hidalgo-Toscano; Clemens Huemer; Dolores Lara; Dieter Mitsche
+GD19_23-37.pdf,GD19,Stick Graphs with Length Constraints,10.1007/978-3-030-35802-0_1,23-37,Steven Chaplick; Philipp Kindermann; Andre Löffler; Florian Thiele; Alexander Wolff; Alexander Zaft; Johannes Zink
+GD19_38-52.pdf,GD19,Representing Graphs and Hypergraphs by Touching Polygons in 3D,10.1007/978-3-030-35802-0_2,38-52,William Evans; Paweł Rzążewski; Noushin Saeedi; Chan-Su Shin; Alexander Wolff
+GD19_53-65.pdf,GD19,Optimal Morphs of Planar Orthogonal Drawings II,10.1007/978-3-030-35802-0_3,53-65,Arthur van Goethem; Bettina Speckmann; Kevin Verbeek
+GD19_66-80.pdf,GD19,Computing Stable Demers Cartograms,10.1007/978-3-030-35802-0_4,66-80,Soeren Nickel; Max Sondag; Wouter Meulemans; Markus Chimani; Stephen Kobourov; Jaakko Peltonen; Martin Nöllenburg
+GD19_82-96.pdf,GD19,Bundled Crossings Revisited,10.1007/978-3-030-35802-0_5,82-96,Steven Chaplick; Thomas C. van Dijk; Myroslav Kryven; Ji-won Park; Alexander Ravsky; Alexander Wolff
+GD19_97-105.pdf,GD19,Crossing Numbers of Beyond-Planar Graphs,10.1007/978-3-030-35802-0_6,97-105,Markus Chimani; Philipp Kindermann; Fabrizio Montecchiani; Pavel Valtr
+GD19_106-119.pdf,GD19,On the 2-Colored Crossing Number,10.1007/978-3-030-35802-0_7,106-119,Oswin Aichholzer; Ruy Fabila-Monroy; Adrian Fuchs; Carlos Hidalgo-Toscano; Irene Parada; Birgit Vogtenhuber; Francisco Zaragoza
+GD19_120-132.pdf,GD19,Minimal Representations of Order Types by Geometric Graphs,10.1007/978-3-030-35802-0_8,120-132,Oswin Aichholzer; Martin Balko; Michael Hoffmann; Jan Kynčl; Wolfgang Mulzer; Irene Parada; Alexander Pilz; Manfred Scheucher; Pavel Valtr; Birgit Vogtenhuber; Emo Welzl
+GD19_133-140.pdf,GD19,Balanced Schnyder Woods for Planar Triangulations: An Experimental Study with Applications to Graph Drawing and Graph Separators,10.1007/978-3-030-35802-0_9,133-140,Luca Castelli Aleardi
+GD19_142-155.pdf,GD19,A Quality Metric for Visualization of Clusters in Graphs,10.1007/978-3-030-35802-0_10,142-155,Amyra Meidiana; Seok-Hee Hong; Peter Eades; Daniel Keim
+GD19_156-163.pdf,GD19,Multi-level Graph Drawing Using Infomap Clustering,10.1007/978-3-030-35802-0_11,156-163,Seok-Hee Hong; Peter Eades; Marnijati Torkel; Ziyang Wang; David Chae; Sungpack Hong; Daniel Langerenken; Hassan Chafi
+GD19_164-178.pdf,GD19,On Strict (Outer-)Conﬂuent Graphs,10.1007/978-3-030-35802-0_12,164-178,Henry Förster; Robert Ganian; Fabian Klute; Martin Nöllenburg
+GD19_179-179.pdf,GD19,Quality Metrics,10.1007/978-3-030-35802-0_13,179-179,Manuel Borrazzo; Fabrizio Frati
+GD19_194-207.pdf,GD19,Node Overlap Removal Algorithms: A Comparative Study,10.1007/978-3-030-35802-0_14,194-207,Fati Chen; Laurent Piccinini; Pascal Poncelet; Arnaud Sallaberry
+GD19_208-214.pdf,GD19,Graphs with Large Total Angular Resolution,10.1007/978-3-030-35802-0_15,208-214,Oswin Aichholzer; Matias Korman; Yoshio Okamoto; Irene Parada; Daniel Perz; André van Renssen; Birgit Vogtenhuber
+GD19_216-228.pdf,GD19,Computing Height-Optimal Tangles Faster,10.1007/978-3-030-35802-0_16,216-228,Oksana Firman; Philipp Kindermann; Alexander Ravsky; Alexander Wolff; Johannes Zink
+GD19_229-242.pdf,GD19,On Arrangements of Orthogonal Circles,10.1007/978-3-030-35802-0_17,229-242,Steven Chaplick; Henry Förster; Myroslav Kryven; Alexander Wolff
+GD19_243-256.pdf,GD19,Extending Simple Drawings,10.1007/978-3-030-35802-0_18,243-256,Alan Arroyo; Martin Derka; Irene Parada
+GD19_257-263.pdf,GD19,Coloring Hasse Diagrams and Disjointness Graphs of Curves,10.1007/978-3-030-35802-0_19,257-263,János Pach; István Tomon
+GD19_265-279.pdf,GD19,Eﬃcient Generation of Diﬀerent Topological Representations of Graphs Beyond-Planarity,10.1007/978-3-030-35802-0_20,265-279,Patrizio Angelini; Michael A. Bekos; Michael Kaufmann; Thomas Schneck
+GD19_280-287.pdf,GD19,The QuaSEFE Problem,10.1007/978-3-030-35802-0_21,280-287,Patrizio Angelini; Henry Förster; Michael Hoffmann; Michael Kaufmann; Stephen Kobourov; Giuseppe Liotta; Maurizio Patrignani
+GD19_288-302.pdf,GD19,ChordLink : A New Hybrid Visualization Model,10.1007/978-3-030-35802-0_22,288-302,Lorenzo Angori; Walter Didimo; Fabrizio Montecchiani; Daniele Pagliuca; Alessandra Tappini
+GD19_303-316.pdf,GD19,Stress-Plus-X (SPX) Graph Layout,10.1007/978-3-030-35802-0_23,303-316,Sabin Devkota; Reyan Ahmed; Felice De Luca; Katherine E. Isaacs; Stephen Kobourov
+GD19_318-330.pdf,GD19,Exact Crossing Number Parameterized by Vertex Cover,10.1007/978-3-030-35802-0_24,318-330,Petr Hliněný; Abhisekh Sankaran
+GD19_332-345.pdf,GD19,Maximizing Ink in Partial Edge Drawings k of -plane Graphs,10.1007/978-3-030-35802-0_25,332-345,Matthias Hummel; Fabian Klute; Soeren Nickel; Martin Nöllenburg
+GD19_346-358.pdf,GD19,Graph Drawing with Morphing Partial Edges,10.1007/978-3-030-35802-0_26,346-358,Kazuo Misue; Katsuya Akasaka
+GD19_359-371.pdf,GD19,A Note on Universal Point Sets for Planar Graphs,10.1007/978-3-030-35802-0_27,359-371,Manfred Scheucher; Hendrik Schrezenmaier; Raphael Steiner
+GD19_373-386.pdf,GD19,Parameterized Algorithms for Book Embedding Problems,10.1007/978-3-030-35802-0_28,373-386,Sujoy Bhore; Robert Ganian; Fabrizio Montecchiani; Martin Nöllenburg
+GD19_387-400.pdf,GD19,Sketched Representations and Orthogonal Planarity of Bounded Treewidth Graphs,10.1007/978-3-030-35802-0_29,387-400,Emilio Di Giacomo; Giuseppe Liotta; Fabrizio Montecchiani
+GD19_402-415.pdf,GD19,4-Connected Triangulations on Few Lines,10.1007/978-3-030-35802-0_30,402-415,Stefan Felsner
+GD19_416-422.pdf,GD19,Line and Plane Cover Numbers Revisited,10.1007/978-3-030-35802-0_31,416-422,Therese Biedl; Stefan Felsner; Henk Meijer; Alexander Wolff
+GD19_423-436.pdf,GD19,Drawing Planar Graphs with Few Segments on a Polynomial Grid,10.1007/978-3-030-35802-0_32,423-436,Philipp Kindermann; Tamara Mchedlidze; Thomas Schneck; Antonios Symvonis
+GD19_437-450.pdf,GD19,Variants of the Segment Number of a Graph,10.1007/978-3-030-35802-0_33,437-450,Yoshio Okamoto; Alexander Ravsky; Alexander Wolff
+GD19_452-464.pdf,GD19,Local and Union Page Numbers,10.1007/978-3-030-35802-0_34,452-464,Laura Merker; Torsten Ueckerdt
+GD19_465-472.pdf,GD19,"Mixed Linear Layouts: Complexity, Heuristics, and Experiments",10.1007/978-3-030-35802-0_35,465-472,Philipp de Col; Fabian Klute; Martin Nöllenburg
+GD19_473-486.pdf,GD19,"Homotopy Height, Grid-Major Height and Graph-Drawing Height",10.1007/978-3-030-35802-0_36,473-486,Therese Biedl; Erin Wolf Chambers; David Eppstein; Arnaud De Mesmay; Tim Ophelders
+GD19_487-500.pdf,GD19,On the Edge-Vertex Ratio of Maximal Thrackles,10.1007/978-3-030-35802-0_37,487-500,Oswin Aichholzer; Linda Kleist; Boris Klemz; Felix Schröder; Birgit Vogtenhuber
+GD19_502-516.pdf,GD19,Symmetry Detection and Classiﬁcation in Drawings of Graphs,10.1007/978-3-030-35802-0_38,502-516,Felice De Luca; Md. Iqbal Hossain; Stephen Kobourov
+GD19_518-532.pdf,GD19,An SPQR-Tree-Like Embedding Representation for Upward Planarity,10.1007/978-3-030-35802-0_39,518-532,Guido Brückner; Markus Himmel; Ignaz Rutter
+GD19_533-545.pdf,GD19,A Natural Quadratic Approach to the Generalized Graph Layering Problem,10.1007/978-3-030-35802-0_40,533-545,Sven Mallach
+GD19_546-559.pdf,GD19,Graph Stories in Small Area,10.1007/978-3-030-35802-0_41,546-559,Manuel Borrazzo; Giordano Da Lozzo; Fabrizio Frati; Maurizio Patrignani
+GD19_560-573.pdf,GD19,Level-Planar Drawings with Few Slopes,10.1007/978-3-030-35802-0_42,560-573,Guido Brückner; Nadine Davina Krisam; Tamara Mchedlidze
+GD20_19-33.pdf,GD20,"Graph Drawing via Gradient GD Descent, ( )",10.1007/978-3-030-68766-3_1,19-33,Reyan Ahmed; Felice De Luca; Sabin Devkota; Stephen Kobourov; Mingwei Li
+GD20_34-41.pdf,GD20,Stochastic Gradient Descent Works Really Well for Stress Minimization,10.1007/978-3-030-68766-3_2,34-41,Katharina Börsig; Ulrik Brandes; Barna Pasztor
+GD20_42-55.pdf,GD20,The Local Queue Number of Graphs with Bounded Treewidth,10.1007/978-3-030-68766-3_3,42-55,Laura Merker; Torsten Ueckerdt
+GD20_56-70.pdf,GD20,Parameterized Algorithms for Queue Layouts,10.1007/978-3-030-68766-3_4,56-70,Sujoy Bhore; Robert Ganian; Fabrizio Montecchiani; Martin Nöllenburg
+GD20_71-84.pdf,GD20,Lazy Queue Layouts of Posets,10.1007/978-3-030-68766-3_5,71-84,Jawaherul Md. Alam; Michael A. Bekos; Martin Gronemann; Michael Kaufmann; Sergey Pupyrev
+GD20_86-99.pdf,GD20,Improved Upper and Lower Bounds for LR Drawings of Binary Trees,10.1007/978-3-030-68766-3_6,86-99,Timothy M. Chan; Zhengcheng Huang
+GD20_100-113.pdf,GD20,On the Edge-Length Ratio of 2-Trees,10.1007/978-3-030-68766-3_7,100-113,Václav Blažej; Jiří Fiala; Giuseppe Liotta
+GD20_114-129.pdf,GD20,HOTVis: Higher-Order Time-Aware Visualisation of Dynamic Graphs,10.1007/978-3-030-68766-3_8,114-129,Vincenzo Perri; Ingo Scholtes
+GD20_130-138.pdf,GD20,VAIM: Visual Analytics for Inﬂuence Maximization,10.1007/978-3-030-68766-3_9,130-138,Alessio Arleo; Walter Didimo; Giuseppe Liotta; Silvia Miksch; Fabrizio Montecchiani
+GD20_139-149.pdf,GD20,Odd Wheels Are Not Odd-distance Graphs,10.1007/978-3-030-68766-3_10,139-149,Gábor Damásdi
+GD20_150-162.pdf,GD20,Polygons with Prescribed Angles in 2D and 3D,10.1007/978-3-030-68766-3_11,150-162,Alon Efrat; Radoslav Fulek; Stephen Kobourov; Csaba D. Tóth
+GD20_164-172.pdf,GD20,On Mixed Linear Layouts of Series-Parallel Graphs,10.1007/978-3-030-68766-3_12,164-172,Patrizio Angelini; Michael A. Bekos; Philipp Kindermann; Tamara Mchedlidze
+GD20_173-185.pdf,GD20,Schematic Representation of Biconnected Graphs,10.1007/978-3-030-68766-3_13,173-185,Giuseppe Di Battista; Fabrizio Frati; Maurizio Patrignani; Marco Tais
+GD20_186-193.pdf,GD20,Drawing Tree-Based Phylogenetic Networks with Minimum Number of Crossings,10.1007/978-3-030-68766-3_14,186-193,Jonathan Klawitter; Peter Stumpf
+GD20_194-201.pdf,GD20,A Tipping Point for the Planarity of Small and Medium Sized Graphs,10.1007/978-3-030-68766-3_15,194-201,Emanuele Balloni; Giuseppe Di Battista; Maurizio Patrignani
+GD20_203-216.pdf,GD20,Characterization and a 2D Visualization -VPG Cocomparability Graphs of B,10.1007/978-3-030-68766-3_16,203-216,Sreejith K. Pallathumadam; Deepak Rajendraprasad
+GD20_217-231.pdf,GD20,Planar L-Drawings of Bimodal Graphs,10.1007/978-3-030-68766-3_17,217-231,Patrizio Angelini; Steven Chaplick; Sabine Cornelsen; Giordano Da Lozzo
+GD20_232-246.pdf,GD20,Layered Drawing of Undirected Graphs with Generalized Port Constraints,10.1007/978-3-030-68766-3_18,232-246,Julian Walter; Johannes Zink; Joachim Baumeister; Alexander Wolff
+GD20_247-261.pdf,GD20,An Integer-Linear Program for Bend-Minimization in Ortho-Radial Drawings,10.1007/978-3-030-68766-3_19,247-261,Benjamin Niedermann; Ignaz Rutter
+GD20_262-276.pdf,GD20,On Turn-Regular Orthogonal Representations,10.1007/978-3-030-68766-3_20,262-276,Michael A. Bekos; Carla Binucci; Giuseppe Di Battista; Walter Didimo; Martin Gronemann; Karsten Klein; Maurizio Patrignani; Ignaz Rutter
+GD20_277-290.pdf,GD20,Extending Partial Orthogonal Drawings,10.1007/978-3-030-68766-3_21,277-290,Patrizio Angelini; Ignaz Rutter; T. P. Sandhya
+GD20_292-305.pdf,GD20,Topological Drawings Meet Classical Theorems from Convex Geometry,10.1007/978-3-030-68766-3_22,292-305,Helena Bergold; Stefan Felsner; Manfred Scheucher; Felix Schröder; Raphael Steiner
+GD20_306-318.pdf,GD20,Towards a Characterization of Stretchable Aligned Graphs,10.1007/978-3-030-68766-3_23,306-318,Marcel Radermacher; Ignaz Rutter; Peter Stumpf
+GD20_319-334.pdf,GD20,Exploring the Design Space of Aesthetics with the Repertory Grid Technique,10.1007/978-3-030-68766-3_24,319-334,David Baum
+GD20_335-343.pdf,GD20,Storyline Visualizations with Ubiquitous Actors,10.1007/978-3-030-68766-3_25,335-343,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Fabrizio Montecchiani; Alessandra Tappini
+GD20_344-351.pdf,GD20,Drawing Shortest Paths in Geodetic Graphs,10.1007/978-3-030-68766-3_26,344-351,Sabine Cornelsen; Maximilian Pfister; Henry Förster; Martin Gronemann; Michael Hoffmann; Stephen Kobourov; Thomas Schneck
+GD20_352-366.pdf,GD20,Limiting Crossing Numbers for Geodesic Drawings on the Sphere,10.1007/978-3-030-68766-3_27,352-366,Marthe Bonamy; Bojan Mohar; Alexandra Wesolek
+GD20_368-380.pdf,GD20,Crossings Between Non-homotopic Edges,10.1007/978-3-030-68766-3_28,368-380,János Pach; Gábor Tardos; Géza Tóth
+GD20_381-390.pdf,GD20,Improvement on the Crossing Number of Crossing-Critical Graphs,10.1007/978-3-030-68766-3_29,381-390,János Barát; Géza Tóth
+GD20_391-398.pdf,GD20,On the Maximum Number of Crossings K with No in Star-Simple Drawings of Empty Lens,10.1007/978-3-030-68766-3_30,391-398,Stefan Felsner; Michael Hoffmann; Kristin Knorr; Irene Parada
+GD20_399-411.pdf,GD20,k Simple Topological Drawings of -Planar Graphs,10.1007/978-3-030-68766-3_31,399-411,Michael Hoffmann; Chih-Hung Liu; Meghana M. Reddy; Csaba D. Tóth
+GD20_412-428.pdf,GD20,k 2-Layer -Planar Graphs,10.1007/978-3-030-68766-3_32,412-428,Patrizio Angelini; Giordano Da Lozzo; Henry Förster; Thomas Schneck
+GD20_430-442.pdf,GD20,Planar Rectilinear Drawings of Outerplanar Graphs in Linear Time,10.1007/978-3-030-68766-3_33,430-442,Fabrizio Frati
+GD20_443-456.pdf,GD20,Rectilinear Planarity Testing of Plane Series-Parallel Graphs in Linear Time,10.1007/978-3-030-68766-3_34,443-456,Walter Didimo; Michael Kaufmann; Giuseppe Liotta; Giacomo Ortali
+GD20_457-472.pdf,GD20,New Quality Metrics for Dynamic Graph Drawing,10.1007/978-3-030-68766-3_35,457-472,Amyra Meidiana; Seok-Hee Hong; Peter Eades
+GD20_473-488.pdf,GD20,The Turing Test for Graph Drawing Algorithms,10.1007/978-3-030-68766-3_36,473-488,Helen C. Purchase; Daniel Archambault; Stephen Kobourov; Martin Nöllenburg; Sergey Pupyrev; Hsiang-Yun Wu
+GD20_489-496.pdf,GD20,Plane Spanning Trees in Edge-Colored K Simple Drawings of,10.1007/978-3-030-68766-3_37,489-496,Oswin Aichholzer; Michael Hoffmann; Johannes Obenaus; Rosna Paul; Daniel Perz; Nadja Seiferth; Birgit Vogtenhuber; Alexandra Weinberger
+GD20_497-511.pdf,GD20,Augmenting Geometric Graphs with Matchings,10.1007/978-3-030-68766-3_38,497-511,Alexander Pilz; Jonathan Rollin; Lena Schlipf; André Schulz
+GD21_21-35.pdf,GD21,k Edge-Minimum Saturated -Planar Drawings,10.1007/978-3-030-92931-2_1,21-35,Steven Chaplick; Fabian Klute; Irene Parada; Jonathan Rollin; Torsten Ueckerdt
+GD21_37-54.pdf,GD21,A User Study on Hybrid Graph Visualizations,10.1007/978-3-030-92931-2_2,37-54,Emilio Di Giacomo; Walter Didimo; Fabrizio Montecchiani; Alessandra Tappini
+GD21_56-71.pdf,GD21,Star-Struck by Fixed Embeddings: Modern Crossing Number Heuristics,10.1007/978-3-030-92931-2_3,56-71,Markus Chimani; Max Ilsen; Tilo Wiedera
+GD21_72-86.pdf,GD21,Simplifying Non-simple Fan-Planar Drawings,10.1007/978-3-030-92931-2_4,72-86,Boris Klemz; Kristin Knorr; Meghana M. Reddy; Felix Schröder
+GD21_87-101.pdf,GD21,∃ R RAC-Drawability is -Complete,10.1007/978-3-030-92931-2_5,87-101,Marcus Schaefer
+GD21_102-115.pdf,GD21,Recognizing and Embedding Simple Optimal 2-Planar Graphs,10.1007/978-3-030-92931-2_6,102-115,Henry Förster; Michael Kaufmann; Chrysanthi N. Raftopoulou
+GD21_116-121.pdf,GD21,A Short Proof of the Non-biplanarity K of,10.1007/978-3-030-92931-2_7,116-121,Ahmad Biniaz
+GD21_123-136.pdf,GD21,From Tutte to Floater and Gotsman: On the Resolution of Planar Straight-Line Drawings and Morphs,10.1007/978-3-030-92931-2_8,123-136,Giuseppe Di Battista; Fabrizio Frati
+GD21_137-151.pdf,GD21,Planar and Toroidal Morphs Made Easier,10.1007/978-3-030-92931-2_9,137-151,Jeff Erickson; Patrick Lin
+GD21_152-160.pdf,GD21,Visualizing JIT Compiler Graphs,10.1007/978-3-030-92931-2_10,152-160,HeuiChan Lim; Stephen Kobourov
+GD21_162-178.pdf,GD21,Upward Planar Drawings with Three and More Slopes,10.1007/978-3-030-92931-2_11,162-178,Jonathan Klawitter; Johannes Zink
+GD21_179-196.pdf,GD21,Planar Straight-Line Realizations of 2-Trees with Prescribed Edge Lengths,10.1007/978-3-030-92931-2_12,179-196,Carlos Alegría; Manuel Borrazzo; Giordano Da Lozzo; Giuseppe Di Battista; Fabrizio Frati; Maurizio Patrignani
+GD21_197-205.pdf,GD21,One-Bend Drawings of Outerplanar Graphs Inside Simple Polygons,10.1007/978-3-030-92931-2_13,197-205,Patrizio Angelini; Philipp Kindermann; Andre Löffler; Lena Schlipf; Antonios Symvonis
+GD21_207-221.pdf,GD21,Quasi-upward Planar Drawings with Minimum Curve Complexity,10.1007/978-3-030-92931-2_14,207-221,Carla Binucci; Emilio Di Giacomo; Giuseppe Liotta; Alessandra Tappini
+GD21_222-234.pdf,GD21,Non-homotopic Loops with a Bounded Number of Pairwise Intersections,10.1007/978-3-030-92931-2_15,222-234,Václav Blažej; Michal Opler; Matas Šileikis; Pavel Valtr
+GD21_235-239.pdf,GD21,On the Number of Edges of Separated Multigraphs,10.1007/978-3-030-92931-2_16,235-239,Jacob Fox; János Pach; Andrew Suk
+GD21_241-251.pdf,GD21,On the Queue-Number of Partial Orders,10.1007/978-3-030-92931-2_17,241-251,Stefan Felsner; Torsten Ueckerdt; Kaja Wille
+GD21_252-266.pdf,GD21,On the Upward Book Thickness Problem: Combinatorial and Complexity Results,10.1007/978-3-030-92931-2_18,252-266,Sujoy Bhore; Giordano Da Lozzo; Fabrizio Montecchiani; Martin Nöllenburg
+GD21_267-280.pdf,GD21,Linear Layouts of Complete Graphs,10.1007/978-3-030-92931-2_19,267-280,Stefan Felsner; Laura Merker; Torsten Ueckerdt; Pavel Valtr
+GD21_281-294.pdf,GD21,On the Queue Number of Planar Graphs,10.1007/978-3-030-92931-2_20,281-294,Michael A. Bekos; Martin Gronemann; Chrysanthi N. Raftopoulou
+GD21_296-312.pdf,GD21,Optimal-Area Visibility Representations of Outer-1-Plane Graphs,10.1007/978-3-030-92931-2_21,296-312,Therese Biedl; Giuseppe Liotta; Jayson Lynch; Fabrizio Montecchiani
+GD21_313-326.pdf,GD21,"Unit Disk Representations of Embedded Trees, Outerplanar and Multi-legged Graphs",10.1007/978-3-030-92931-2_22,313-326,Sujoy Bhore; Maarten Löffler; Soeren Nickel; Martin Nöllenburg
+GD21_327-335.pdf,GD21,Layered Area-Proportional Rectangle Contact Representations,10.1007/978-3-030-92931-2_23,327-335,Martin Nöllenburg; Anaïs Villedieu; Jules Wulms
+GD21_337-350.pdf,GD21,Arrangements of Orthogonal Circles with Many Intersections,10.1007/978-3-030-92931-2_24,337-350,Sarah Carmesin; André Schulz
+GD21_351-365.pdf,GD21,Limitations on Realistic Hyperbolic Graph Drawing,10.1007/978-3-030-92931-2_25,351-365,David Eppstein
+GD21_366-379.pdf,GD21,Embedding Ray Intersection Graphs and Global Curve Simpliﬁcation,10.1007/978-3-030-92931-2_26,366-379,Mees van de Kerkhof; Irina Kostitsyna; Maarten Löffler
+GD21_381-396.pdf,GD21,"Deep Neural Network for DrawiNg DNN Networks, ( )",10.1007/978-3-030-92931-2_27,381-396,Loann Giovannangeli; Frederic Lalanne; David Auber; Romain Giot; Romain Bourqui
+GD21_397-411.pdf,GD21,Implementation of Sprouts: A Graph Drawing Game,10.1007/978-3-030-92931-2_28,397-411,Tomáš Čížek; Martin Balko
+GD22_23-35.pdf,GD22,Unavoidable Patterns in Complete Simple Topological Graphs,10.1007/978-3-031-22203-0_1,23-35,Andrew Suk; Ji Zeng
+GD22_36-44.pdf,GD22,Compatible Spanning Trees in Simple K Drawings of,10.1007/978-3-031-22203-0_2,36-44,Oswin Aichholzer; Kristin Knorr; Wolfgang Mulzer; Nicolas El Maalouly; Johannes Obenaus; Rosna Paul; Meghana M. Reddy; Birgit Vogtenhuber; Alexandra Weinberger
+GD22_45-59.pdf,GD22,Mutual Witness Gabriel Drawings of Complete Bipartite Graphs,10.1007/978-3-031-22203-0_3,45-59,William J. Lenhart; Giuseppe Liotta
+GD22_60-68.pdf,GD22,Empty Triangles in Generalized Twisted K Drawings of,10.1007/978-3-031-22203-0_4,60-68,Alfredo García; Javier Tejel; Birgit Vogtenhuber; Alexandra Weinberger
+GD22_69-77.pdf,GD22,Shooting Stars in Simple Drawings K of,10.1007/978-3-031-22203-0_5,69-77,Oswin Aichholzer; Alfredo García; Irene Parada; Birgit Vogtenhuber; Alexandra Weinberger
+GD22_79-94.pdf,GD22,FORBID: Fast Overlap Removal by Stochastic GradIent Descent for Graph Drawing,10.1007/978-3-031-22203-0_6,79-94,Loann Giovannangeli; Frederic Lalanne; Romain Giot; Romain Bourqui
+GD22_95-110.pdf,GD22,Spherical Graph Drawing by Multi-dimensional Scaling,10.1007/978-3-031-22203-0_7,95-110,Jacob Miller; Vahan Huroyan; Stephen Kobourov
+GD22_111-126.pdf,GD22,Shape-Faithful Graph Drawings,10.1007/978-3-031-22203-0_8,111-126,Amyra Meidiana; Seok-Hee Hong; Peter Eades
+GD22_128-143.pdf,GD22,Planar Conﬂuent Orthogonal Drawings of 4-Modal Digraphs,10.1007/978-3-031-22203-0_9,128-143,Sabine Cornelsen; Gregor Diatzko
+GD22_144-160.pdf,GD22,Unit-length Rectangular Drawings of Graphs,10.1007/978-3-031-22203-0_10,144-160,Carlos Alegría; Giordano Da Lozzo; Giuseppe Di Battista; Fabrizio Frati; Fabrizio Grosso; Maurizio Patrignani
+GD22_161-173.pdf,GD22,Strictly-Convex Drawings of 3-Connected Planar Graphs,10.1007/978-3-031-22203-0_11,161-173,Michael A. Bekos; Martin Gronemann; Fabrizio Montecchiani; Antonios Symvonis
+GD22_174-189.pdf,GD22,Rectilinear Planarity of Partial 2-Trees,10.1007/978-3-031-22203-0_12,174-189,Walter Didimo; Michael Kaufmann; Giuseppe Liotta; Giacomo Ortali
+GD22_191-203.pdf,GD22,Testing Upward Planarity of Partial 2-Trees,10.1007/978-3-031-22203-0_13,191-203,Steven Chaplick; Emilio Di Giacomo; Fabrizio Frati; Robert Ganian; Chrysanthi N. Raftopoulou; Kirill Simonov
+GD22_204-216.pdf,GD22,Computing a Feedback Arc Set Using PageRank,10.1007/978-3-031-22203-0_14,204-216,Vasileios Geladaris; Panagiotis Lionakis; Ioannis G. Tollis
+GD22_217-232.pdf,GD22,st -Orientations with Few Transitive Edges,10.1007/978-3-031-22203-0_15,217-232,Carla Binucci; Walter Didimo; Maurizio Patrignani
+GD22_234-246.pdf,GD22,"Quasiplanar Graphs, String Graphs, and the Erd˝os-Gallai Problem",10.1007/978-3-031-22203-0_16,234-246,Jacob Fox; János Pach; Andrew Suk
+GD22_247-261.pdf,GD22,Planarizing Graphs and Their Drawings by Vertex Splitting,10.1007/978-3-031-22203-0_17,247-261,Martin Nöllenburg; Manuel Sorge; Soeren Terziadis; Anaïs Villedieu; Hsiang-Yun Wu; Jules Wulms
+GD22_262-275.pdf,GD22,The Thickness of Fan-Planar Graphs is At Most Three,10.1007/978-3-031-22203-0_18,262-275,Otfried Cheong; Maximilian Pfister; Lena Schlipf
+GD22_276-283.pdf,GD22,An FPT Algorithm for Bipartite Vertex Splitting,10.1007/978-3-031-22203-0_19,276-283,Reyan Ahmed; Stephen Kobourov; Myroslav Kryven
+GD22_285-302.pdf,GD22,On Time and Space: An Experimental Study on Graph Structural and Temporal Encodings,10.1007/978-3-031-22203-0_20,285-302,Velitchko Filipov; Alessio Arleo; Markus Bögl; Silvia Miksch
+GD22_303-317.pdf,GD22,Small Point-Sets Supporting Graph Stories,10.1007/978-3-031-22203-0_21,303-317,Giuseppe Di Battista; Walter Didimo; Luca Grilli; Fabrizio Grosso; Giacomo Ortali; Maurizio Patrignani; Alessandra Tappini
+GD22_318-332.pdf,GD22,On the Complexity of the Storyplan Problem,10.1007/978-3-031-22203-0_22,318-332,Carla Binucci; Emilio Di Giacomo; William J. Lenhart; Giuseppe Liotta; Fabrizio Montecchiani; Martin Nöllenburg; Antonios Symvonis
+GD22_333-349.pdf,GD22,Visualizing Evolving Trees,10.1007/978-3-031-22203-0_23,333-349,Kathryn Gray; Mingwei Li; Reyan Ahmed; Stephen Kobourov
+GD22_350-363.pdf,GD22,Improved Scheduling of Morphing Edge Drawing,10.1007/978-3-031-22203-0_24,350-363,Kazuo Misue
+GD22_365-372.pdf,GD22,Queue Layouts of Two-Dimensional Posets,10.1007/978-3-031-22203-0_25,365-372,Sergey Pupyrev
+GD22_373-382.pdf,GD22,Recognizing DAGs with Page-Number 2 Is NP-complete,10.1007/978-3-031-22203-0_26,373-382,Michael A. Bekos; Giordano Da Lozzo; Fabrizio Frati; Martin Gronemann; Tamara Mchedlidze; Chrysanthi N. Raftopoulou
+GD22_383-398.pdf,GD22,The Rique-Number of Graphs,10.1007/978-3-031-22203-0_27,383-398,Michael A. Bekos; Stefan Felsner; Philipp Kindermann; Stephen Kobourov; Jan Kratochvíl; Ignaz Rutter
+GD22_400-414.pdf,GD22,Morphing Rectangular Duals,10.1007/978-3-031-22203-0_28,400-414,Steven Chaplick; Philipp Kindermann; Jonathan Klawitter; Ignaz Rutter; Alexander Wolff
+GD22_415-428.pdf,GD22,Visibility Representations of Toroidal and Klein-bottle Graphs,10.1007/978-3-031-22203-0_29,415-428,Therese Biedl
+GD22_429-442.pdf,GD22,Coloring Mixed and Directional Interval Graphs,10.1007/978-3-031-22203-0_30,429-442,Grzegorz Gutowski; Florian Mittelstädt; Ignaz Rutter; Joachim Spoerhase; Alexander Wolff; Johannes Zink
+GD22_443-451.pdf,GD22,Outside-Obstacle Representations with All Vertices on the Outer Face,10.1007/978-3-031-22203-0_31,443-451,Oksana Firman; Philipp Kindermann; Jonathan Klawitter; Boris Klemz; Felix Klesen; Alexander Wolff
+GD22_452-466.pdf,GD22,Arrangements of Pseudocircles: On Digons and Triangles,10.1007/978-3-031-22203-0_32,452-466,Stefan Felsner; Sandro Roch; Manfred Scheucher
+GD23I_22-36.pdf,GD23I,On the Biplanarity of Blowups,10.1007/978-3-031-49272-3_1,22-36,David Eppstein
+GD23I_37-54.pdf,GD23I,CelticGraph: Drawing Graphs as Celtic Knots and Links,10.1007/978-3-031-49272-3_2,37-54,Peter Eades; Niklas Gröne; Karsten Klein; Patrick Eades; Leo Schreiber; Ulf Hailer; Falk Schreiber
+GD23I_56-69.pdf,GD23I,Min-k-planar Drawings of Graphs,10.1007/978-3-031-49272-3_3,56-69,Carla Binucci; Aaron Büngener; Giuseppe Di Battista; Walter Didimo; Vida Dujmovic; Seok-Hee Hong; Michael Kaufmann; Giuseppe Liotta; Pat Morin; Alessandra Tappini
+GD23I_70-85.pdf,GD23I,Weakly and Strongly Fan-Planar Graphs,10.1007/978-3-031-49272-3_4,70-85,Otfried Cheong; Henry Förster; Julia Katheder; Maximilian Pfister; Lena Schlipf
+GD23I_86-94.pdf,GD23I,On RAC Drawings of Graphs with Two Bends per Edge,10.1007/978-3-031-49272-3_5,86-94,Csaba D. Tóth
+GD23I_95-109.pdf,GD23I,String Graphs with Precise Number of Intersections,10.1007/978-3-031-49272-3_6,95-109,Petr Chmel; Vít Jelínek
+GD23I_111-125.pdf,GD23I,Degenerate Crossing Number and Signed Reversal Distance,10.1007/978-3-031-49272-3_7,111-125,Niloufar Fuladi; Alfredo Hubard; Arnaud de Mesmay
+GD23I_126-139.pdf,GD23I,Minimizing an Uncrossed Collection of Drawings,10.1007/978-3-031-49272-3_8,126-139,Petr Hlinený; Tomás Masarík
+GD23I_140-148.pdf,GD23I,Bichromatic Perfect Matchings with Crossings,10.1007/978-3-031-49272-3_9,140-148,Oswin Aichholzer; Stefan Felsner; Rosna Paul; Manfred Scheucher; Birgit Vogtenhuber
+GD23I_150-166.pdf,GD23I,On Families of Planar DAGs with Constant Stack Number,10.1007/978-3-031-49272-3_10,150-166,Martin Nöllenburg; Sergey Pupyrev
+GD23I_167-175.pdf,GD23I,On 3-Coloring Circle Graphs,10.1007/978-3-031-49272-3_11,167-175,Patricia Bachmann; Ignaz Rutter; Peter Stumpf
+GD23I_177-193.pdf,GD23I,The Complexity of Recognizing Geometric Hypergraphs,10.1007/978-3-031-49272-3_12,177-193,Daniel Bertschinger; Nicolas El Maalouly; Linda Kleist; Tillmann Miltzow; Simon Weber
+GD23I_194-208.pdf,GD23I,On the Complexity of Lombardi Graph Drawing,10.1007/978-3-031-49272-3_13,194-208,Paul Jungeblut
+GD23I_209-224.pdf,GD23I,Tree Drawings with Columns,10.1007/978-3-031-49272-3_14,209-224,Jonathan Klawitter; Johannes Zink
+GD23I_226-243.pdf,GD23I,On the Perception of Small Sub-graphs,10.1007/978-3-031-49272-3_15,226-143,Jacob Miller; Mohammad Ghoniem; Hsiang-Yun Wu; Helen C. Purchase
+GD23I_244-258.pdf,GD23I,TimeLighting: Guidance-Enhanced Exploration of 2D Projections of Temporal Graphs,10.1007/978-3-031-49272-3_16,244-258,Velitchko Andreev Filipov; Davide Ceneda; Daniel Archambault; Alessio Arleo
+GD23I_259-275.pdf,GD23I,Evaluating Animation Parameters for Morphing Edge Drawings,10.1007/978-3-031-49272-3_17,259-275,Carla Binucci; Henry Förster; Julia Katheder; Alessandra Tappini
+GD23I_276-292.pdf,GD23I,Balancing Between the Local and Global Structures (LGS) in Graph Embedding,10.1007/978-3-031-49272-3_18,276-292,Jacob Miller; Vahan Huroyan; Stephen G. Kobourov
+GD23I_294-306.pdf,GD23I,Boxicity and Interval-Orders: Petersen and the Complements of Line Graphs,10.1007/978-3-031-49272-3_19,294-306,Marco Caoduro; András Sebö
+GD23I_307-314.pdf,GD23I,Side-Contact Representations with Convex Polygons in 3D: New Results for Complete Bipartite Graphs,10.1007/978-3-031-49272-3_20,307-314,André Schulz
+GD23I_315-330.pdf,GD23I,Mutual Witness Proximity Drawings of Isomorphic Trees,10.1007/978-3-031-49272-3_21,315-330,Carolina Haase; Philipp Kindermann; William J. Lenhart; Giuseppe Liotta
+GD23I_332-347.pdf,GD23I,Three Edge-Disjoint Plane Spanning Paths in a Point Set,10.1007/978-3-031-49272-3_22,332-347,Philipp Kindermann; Jan Kratochvíl; Giuseppe Liotta; Pavel Valtr
+GD23I_348-355.pdf,GD23I,Decomposition of Geometric Graphs into Star-Forests,10.1007/978-3-031-49272-3_23,348-355,János Pach; Morteza Saghafian; Patrick Schnider
+GD23II_22-36.pdf,GD23II,Cops and Robbers on 1-Planar Graphs,10.1007/978-3-031-49275-4_1,22-36,Stephane Durocher; Shahin Kamali; Myroslav Kryven; Fengyi Liu; Amirhossein Mashghdoust; Avery Miller; Pouria Zamani Nezhad; Ikaro Penha Costa; Timothy Zapp
+GD23II_37-52.pdf,GD23II,Removing Popular Faces in Curve Arrangements,10.1007/978-3-031-49275-4_2,37-52,Phoebe de Nooijer; Soeren Terziadis; Alexandra Weinberger; Zuzana Masárová; Tamara Mchedlidze; Maarten Löffler; Günter Rote
+GD23II_53-69.pdf,GD23II,Diﬀerent Types of Isomorphisms of Drawings of Complete Multipartite Graphs,10.1007/978-3-031-49275-4_3,53-69,Oswin Aichholzer; Birgit Vogtenhuber; Alexandra Weinberger
+GD23II_71-83.pdf,GD23II,On the Parameterized Complexity of Bend-Minimum Orthogonal Planarity,10.1007/978-3-031-49275-4_4,71-83,Emilio Di Giacomo; Walter Didimo; Giuseppe Liotta; Fabrizio Montecchiani; Giacomo Ortali
+GD23II_84-99.pdf,GD23II,Fixed-Parameter Algorithms for Computing RAC Drawings of Graphs,10.1007/978-3-031-49275-4_5,84-99,Cornelius Brand; Robert Ganian; Sebastian Röder; Florian Schager
+GD23II_100-114.pdf,GD23II,Parameterized Complexity of Simultaneous Planarity,10.1007/978-3-031-49275-4_6,100-114,Simon D. Fink; Matthias Pfretzschner; Ignaz Rutter
+GD23II_115-131.pdf,GD23II,The Parametrized Complexity of the Segment Number,10.1007/978-3-031-49275-4_7,115-131,Sabine Cornelsen; Giordano Da Lozzo; Luca Grilli; Siddharth Gupta; Jan Kratochvíl; Alexander Wolff
+GD23II_133-148.pdf,GD23II,A Schnyder-Type Drawing Algorithm for 5-Connected Triangulations,10.1007/978-3-031-49275-4_8,133-148,Olivier Bernardi; Éric Fusy; Shizhe Liang
+GD23II_149-156.pdf,GD23II,A Logarithmic Bound for Simultaneous Embeddings of Planar Graphs,10.1007/978-3-031-49275-4_9,149-156,Raphael Steiner
+GD23II_157-165.pdf,GD23II,Manipulating Weights to Improve Stress-Graph Drawings of 3-Connected Planar Graphs,10.1007/978-3-031-49275-4_10,157-165,Alvin Chiu; David Eppstein; Michael T. Goodrich
+GD23II_167-183.pdf,GD23II,Computing Hive Plots: A Combinatorial Framework,10.1007/978-3-031-49275-4_11,167-183,Martin Nöllenburg; Markus Wallinger
+GD23II_184-201.pdf,GD23II,A Simple Pipeline for Orthogonal Graph Drawing,10.1007/978-3-031-49275-4_12,184-201,Tim Hegemann; Alexander Wolff
+GD23II_202-215.pdf,GD23II,Parameterized and Approximation Algorithms for the Maximum Bimodal Subgraph Problem,10.1007/978-3-031-49275-4_13,202-215,Walter Didimo; Fedor V. Fomin; Petr A. Golovach; Tanmay Inamdar; Stephen Kobourov; Marie Diana Sieper
+GD23II_216-230.pdf,GD23II,Upward and Orthogonal Planarity are W[1]-Hard Parameterized by Treewidth,10.1007/978-3-031-49275-4_14,216-230,Bart M. P. Jansen; Liana Khazaliya; Philipp Kindermann; Giuseppe Liotta; Fabrizio Montecchiani; Kirill Simonov
+GD23II_231-244.pdf,GD23II,On Minimizing the Energy of a Spherical Graph Representation,10.1007/978-3-031-49275-4_15,231-244,Matt DeVos; Danielle Rogers; Alexandra Wesolek
+GD24_19-42.pdf,GD24,The Euclidean MST-Ratio for Bi-Colored Lattices,10.4230/LIPIcs.GD.2024.3,19-42,Sebastiano Cultrera di Montesano; Ondrej Draganov; Herbert Edelsbrunner; Morteza Saghafian
+GD24_43-54.pdf,GD24,Enumeration of Intersection Graphs of x -Monotone Curves,10.4230/LIPIcs.GD.2024.4,43-54,Jacob Fox; János Pach; Andrew Suk
+GD24_55-64.pdf,GD24,Holes in Convex and Simple Drawings,10.4230/LIPIcs.GD.2024.5,55-64,Helena Bergold; Joachim Orthaber; Manfred Scheucher; Felix Schröder
+GD24_65-74.pdf,GD24,1-Planar Unit Distance Graphs,10.4230/LIPIcs.GD.2024.6,65-74,Panna Gehér; Géza Tóth 0001
+GD24_75-92.pdf,GD24,The Density Formula: One Lemma to Bound Them All,10.4230/LIPIcs.GD.2024.7,75-92,Michael Kaufmann 0001; Boris Klemz; Kristin Knorr; Meghana M. Reddy; Felix Schröder; Torsten Ueckerdt
+GD24_93-102.pdf,GD24,Note on Min- k -Planar Drawings of Graphs,10.4230/LIPIcs.GD.2024.8,93-102,Petr Hlinený; Csenge Lili Ködmön
+GD24_103-112.pdf,GD24,Point Sets into Plane Subgraphs,10.4230/LIPIcs.GD.2024.9,103-112,Adrian Dumitrescu; János Pach
+GD24_113-130.pdf,GD24,Constrained Outer-String Representations,10.4230/LIPIcs.GD.2024.10,113-130,Therese Biedl; Sabine Cornelsen; Jan Kratochvíl; Ignaz Rutter
+GD24_131-146.pdf,GD24,Monotone Arc Diagrams with Few Biarcs,10.4230/LIPIcs.GD.2024.11,131-146,Steven Chaplick; Henry Förster; Michael Hoffmann 0001; Michael Kaufmann 0001
+GD24_147-164.pdf,GD24,The Parameterized Complexity Of Extending Stack Layouts,10.4230/LIPIcs.GD.2024.12,147-164,Thomas Depian; Simon D. Fink; Robert Ganian; Martin Nöllenburg
+GD24_165-184.pdf,GD24,The Price of Upwardness,10.4230/LIPIcs.GD.2024.13,165-184,Patrizio Angelini; Therese Biedl; Markus Chimani; Sabine Cornelsen; Giordano Da Lozzo; Seok-Hee Hong 0001; Giuseppe Liotta; Maurizio Patrignani; Sergey Pupyrev; Ignaz Rutter; Alexander Wolff 0001
+GD24_185-202.pdf,GD24,k via Triangulations,10.4230/LIPIcs.GD.2024.14,185-202,Oksana Firman; Grzegorz Gutowski; Myroslav Kryven; Yuto Okada; Alexander Wolff 0001
+GD24_203-222.pdf,GD24,Bundling-Aware Graph Drawing,10.4230/LIPIcs.GD.2024.15,203-222,Daniel Archambault; Giuseppe Liotta; Martin Nöllenburg; Tommaso Piselli; Alessandra Tappini; Markus Wallinger
+GD24_223-240.pdf,GD24,GraphTrials: Visual Proofs of Graph Properties,10.4230/LIPIcs.GD.2024.16,223-240,Henry Förster; Felix Klesen; Tim Dwyer; Peter Eades; Seok-Hee Hong 0001; Stephen G. Kobourov; Giuseppe Liotta; Kazuo Misue; Fabrizio Montecchiani; Alexander Pastukhov; Falk Schreiber
+GD24_241-258.pdf,GD24,Connectivity-Faithful Graph Drawing,10.4230/LIPIcs.GD.2024.17,241-258,Amyra Meidiana; Seok-Hee Hong 0001; Yongcheng Jing
+GD24_259-272.pdf,GD24,On the Uncrossed Number of Graphs,10.4230/LIPIcs.GD.2024.18,259-272,Martin Balko; Petr Hlinený; Tomás Masarík; Joachim Orthaber; Birgit Vogtenhuber; Mirko H. Wagner
+GD24_273-292.pdf,GD24,Weakly Leveled Planarity with Bounded Span,10.4230/LIPIcs.GD.2024.19,273-292,Michael A. Bekos; Giordano Da Lozzo; Fabrizio Frati; Siddharth Gupta 0002; Philipp Kindermann; Giuseppe Liotta; Ignaz Rutter; Ioannis G. Tollis
+GD24_293-302.pdf,GD24,Quantum Algorithms for One-Sided Crossing Minimization,10.4230/LIPIcs.GD.2024.20,293-302,Susanna Caroppo; Giordano Da Lozzo; Giuseppe Di Battista
+GD24_303-320.pdf,GD24,The Perception of Stress in Graph Drawings,10.4230/LIPIcs.GD.2024.21,303-320,Gavin J. Mooney; Helen C. Purchase; Michael Wybrow; Stephen G. Kobourov; Jacob Miller 0001
+GD24_321-338.pdf,GD24,Boundary Labeling in a Circular Orbit,10.4230/LIPIcs.GD.2024.22,321-338,Annika Bonerath; Martin Nöllenburg; Soeren Terziadis; Markus Wallinger; Jules Wulms
+GD24_339-358.pdf,GD24,Intersection Graphs with and Without Product Structure,10.4230/LIPIcs.GD.2024.23,339-358,Laura Merker; Lena Scherzer; Samuel Schneider; Torsten Ueckerdt
+GD24_359-376.pdf,GD24,Upward Pointset Embeddings of Planar st -Graphs,10.4230/LIPIcs.GD.2024.24,359-376,Carlos Alegría; Susanna Caroppo; Giordano Da Lozzo; Marco D&apos;Elia; Giuseppe Di Battista; Fabrizio Frati; Fabrizio Grosso; Maurizio Patrignani
+GD24_377-392.pdf,GD24,Parameterized Algorithms for Beyond-Planar Crossing Numbers,10.4230/LIPIcs.GD.2024.25,377-392,Miriam Münch; Ignaz Rutter
+GD24_393-414.pdf,GD24,Storylines with a Protagonist,10.4230/LIPIcs.GD.2024.26,393-414,Tim Hegemann; Alexander Wolff 0001
+GD24_415-432.pdf,GD24,On k -Planar Graphs Without Short Cycles,10.4230/LIPIcs.GD.2024.27,415-432,Michael A. Bekos; Prosenjit Bose; Aaron Büngener; Vida Dujmovic; Michael Hoffmann 0001; Michael Kaufmann 0001; Pat Morin; Saeed Odak; Alexandra Weinberger
+GD24_433-454.pdf,GD24,On the Edge Density of Bipartite 3-Planar and Bipartite Gap-Planar Graphs,10.4230/LIPIcs.GD.2024.28,433-454,Aaron Büngener; Maximilian Pfister 0002
+GD24_455-476.pdf,GD24,Improving the Crossing Lemma by Characterizing Dense 2-Planar and 3-Planar Graphs,10.4230/LIPIcs.GD.2024.29,455-476,Aaron Büngener; Michael Kaufmann 0001
+GD24_477-496.pdf,GD24,Flips in Colorful Triangulations,10.4230/LIPIcs.GD.2024.30,477-496,Rohan Acharya; Torsten Mütze; Francesco Verciani
+GD24_497-516.pdf,GD24,Revisiting ILP Models for Exact Crossing Minimization in Storyline Drawings,10.4230/LIPIcs.GD.2024.31,497-516,Alexander Dobler; Michael Jünger; Paul J. Jünger; Julian Meffert; Petra Mutzel; Martin Nöllenburg
+GD24_517-538.pdf,GD24,On the Complexity of Recognizing k -Real Face Graphs,10.4230/LIPIcs.GD.2024.32,517-538,Michael A. Bekos; Giuseppe Di Battista; Emilio Di Giacomo; Walter Didimo; Michael Kaufmann 0001; Fabrizio Montecchiani
+GD24_539-556.pdf,GD24,Crossing Numbers of Beyond Planar Graphs Re-Revisited: A Framework Approach,10.4230/LIPIcs.GD.2024.33,539-556,Markus Chimani; Torben Donzelmann; Nick Kloster; Melissa Koch; Jan-Jakob Völlering; Mirko H. Wagner
+GD24_557-574.pdf,GD24,Separable Drawings: Extendability and Crossing-Free Hamiltonian Cycles,10.4230/LIPIcs.GD.2024.34,557-574,Oswin Aichholzer; Joachim Orthaber; Birgit Vogtenhuber
+GD24_575-586.pdf,GD24,On k -Plane Insertion into Plane Drawings,10.4230/LIPIcs.GD.2024.35,575-586,Julia Katheder; Philipp Kindermann; Fabian Klute; Irene Parada; Ignaz Rutter
+GD24_587-604.pdf,GD24,Noncrossing Longest Paths and Cycles,10.4230/LIPIcs.GD.2024.36,587-604,Greg Aloupis; Ahmad Biniaz; Prosenjit Bose; Jean-Lou De Carufel; David Eppstein; Anil Maheshwari; Saeed Odak; Michiel Smid; Csaba D. Tóth; Pavel Valtr 0001
+GD24_605-622.pdf,GD24,Single-Crossing Graph as a Minor,10.4230/LIPIcs.GD.2024.37,605-622,Vida Dujmovic; Camille La Rose
+GD24_623-632.pdf,GD24,Harborth’s Conjecture for 4-Regular Planar Graphs,10.4230/LIPIcs.GD.2024.38,623-632,Daniel J. Chang; Timothy Sun
+GD24_633-650.pdf,GD24,Cubic Bézier Curves with Bounded Curvature,10.4230/LIPIcs.GD.2024.39,633-650,David Eppstein; Michael T. Goodrich; Abraham M. Illickan
+GD24_651-666.pdf,GD24,Morphing Planar Graph Drawings via Orthogonal Box Drawings,10.4230/LIPIcs.GD.2024.40,651-666,Therese Biedl; Anna Lubiw; Jack Spalding-Jamieson
+GD98_14-27.pdf,GD98,Drawing of Two-Dimensional Irregular Meshes,10.1007/3-540-37623-2_1,14-27,Alok Aggarwal; S. Rao Kosaraju; Mihai Pop
+GD98_28-42.pdf,GD98,Quasi-Upward Planarity,10.1007/3-540-37623-2_2,28-42,Paola Bertolazzi; Giuseppe Di Battista; Walter Didimo
+GD98_43-56.pdf,GD98,Three Approaches to 3D-Orthogonal Box-Drawings,10.1007/3-540-37623-2_3,43-56,Therese C. Biedl
+GD98_57-69.pdf,GD98,Using Graph Layout to Visualize Train Interconnection Data,10.1007/3-540-37623-2_4,57-69,Ulrik Brandes; Dorothea Wagner
+GD98_70-84.pdf,GD98,Diﬀerence Metrics for Interactive Orthogonal Graph Drawing Algorithms 1 Introduction,10.1007/3-540-37623-2_5,70-84,Stina Bridgeman; Roberto Tamassia
+GD98_85-99.pdf,GD98,Upward Planarity Checking: “Faces Are More than Polygons”,10.1007/3-540-37623-2_6,85-99,Giuseppe Di Battista; Giuseppe Liotta
+GD98_100-114.pdf,GD98,A Split&Push Approach to 3D Orthogonal Drawing,10.1007/3-540-37623-2_7,100-114,Giuseppe Di Battista; Maurizio Patrignani; Francesco Vargiu
+GD98_115-123.pdf,GD98,Geometric Thickness of Complete Graphs,10.1007/3-540-37623-2_8,115-123,Michael B. Dillencourt; David Eppstein; DanielS. Hirschberg
+GD98_124-137.pdf,GD98,Balanced Aspect Ratio Trees and Their Use for Drawing Very Large Graphs,10.1007/3-540-37623-2_9,124-137,Christian A. Duncan; Michael T. Goodrich; Stephen G. Kobourov
+GD98_138-150.pdf,GD98,On Improving Orthogonal Drawings: The 4M-Algorithm,10.1007/3-540-37623-2_10,138-150,Ulrich Fößmeier; Carsten Heß; Michael Kaufmann
+GD98_151-165.pdf,GD98,Algorithmic Patterns for Orthogonal Graph Drawing,10.1007/3-540-37623-2_11,151-165,Natasha Gelfand; Roberto Tamassia
+GD98_166-179.pdf,GD98,A Framework for Drawing Planar Graphs with Curves and Polylines,10.1007/3-540-37623-2_12,166-179,Michael T. Goodrich; Christopher G. Wagner
+GD98_180-195.pdf,GD98,Planar Polyline Drawings with Good Angular Resolution,10.1007/3-540-37623-2_13,180-195,Carsten Gutwenger; Petra Mutzel
+GD98_196-210.pdf,GD98,A Layout Adjustment Problem for Disjoint Rectangles Preserving Orthogonal Order,10.1007/3-540-37623-2_14,196-210,Kunihiko Hayashi; Michiko Inoue; Toshimitsu Masuzawa; Hideo Fujiwara
+GD98_211-222.pdf,GD98,Drawing Algorithms for Series-Parallel Digraphs in Two and Three Dimensions,10.1007/3-540-37623-2_15,211-222,Seok-Hee Hong; Peter Eades; Aaron Quigley; Sang-Ho Lee
+GD98_223-236.pdf,GD98,Approximation Algorithms for Finding Best Viewpoints,10.1007/3-540-37623-2_16,223-236,Michael E. Houle; Richard Webber
+GD98_237-250.pdf,GD98,Level Planarity Testing in Linear Time,10.1007/3-540-37623-2_17,237-250,Michael Jünger; Sebastian Leipert; Petra Mutzel
+GD98_251-258.pdf,GD98,Crossing Number of Abstract Topological Graphs,10.1007/3-540-37623-2_18,251-258,Jan Kratochvíl
+GD98_259-275.pdf,GD98,Self-Organizing Graphs – A Neural Network Perspective of Graph Layout,10.1007/3-540-37623-2_19,259-275,Bernd Meyer
+GD98_276-287.pdf,GD98,Embedding Planar Graphs at Fixed Vertex Locations,10.1007/3-540-37623-2_20,276-287,János Pach; Rephael Wenger
+GD98_288-300.pdf,GD98,Proximity Drawings: Three Dimensions Are Better than Two,10.1007/3-540-37623-2_21,288-300,Paolo Penna; Paola Vocca
+GD98_301-314.pdf,GD98,NP-Completeness of Some Tree-Clustering Problems,10.1007/3-540-37623-2_22,301-314,Falk Schreiber; Konstantinos Skodinis
+GD98_315-328.pdf,GD98,Reﬁnement of Orthogonal Graph Drawings,10.1007/3-540-37623-2_23,315-328,Janet M. Six; Konstantinos G. Kakoulis; Ioannis G. Tollis
+GD98_329-344.pdf,GD98,A Combinatorial Framework for Map Labeling,10.1007/3-540-37623-2_24,329-344,Frank Wagner; Alexander Wolff
+GD98_345-359.pdf,GD98,An Algorithm for Three-Dimensional Orthogonal Graph Drawing,10.1007/3-540-37623-2_25,345-359,David R. Wood
+GD98_360-368.pdf,GD98,Graph Multidrawing: Finding Nice Drawings Without Deﬁning Nice,10.1007/3-540-37623-2_26,360-368,Therese Biedl; Joe Marks; Kathy Ryall; Sue Whitesides
+GD98_369-376.pdf,GD98,Edge Labeling in the Graph Layout Toolkit,10.1007/3-540-37623-2_27,369-376,Uğur Doğrusöz; Konstantinos G. Kakoulis; Brendan Madden; Ioannis G. Tollis
+GD98_377-386.pdf,GD98,Improved Force-Directed Layouts,10.1007/3-540-37623-2_28,377-386,Emden R. Gansner; Stephen C. North
+GD98_387-396.pdf,GD98,A Fully Animated Interactive System for Clustering and Navigating Huge Graphs,10.1007/3-540-37623-2_29,387-396,Mao Lin Huang; Peter Eades
+GD98_397-406.pdf,GD98,Drawing Large Graphs with H3Viewer and Site Manager,10.1007/3-540-37623-2_30,397-406,Tamara Munzner
+GD98_407-415.pdf,GD98,Cooperation between Interactive Actions and Automatic Drawing in a Schematic Editor,10.1007/3-540-37623-2_31,407-415,Gilles Paris
+GD98_416-425.pdf,GD98,Visualization of Parallel Execution Graphs,10.1007/3-540-37623-2_32,416-425,Björn Steckelbach; Till Bubeck; Ulrich Fößmeier; Michael Kaufmann; Marcus Ritt; Wolfgang Rosenstiel
+GD98_426-435.pdf,GD98,JIGGLE: Java Interactive Graph Layout Environment,10.1007/3-540-37623-2_33,426-435,Daniel Tunkelang
+GD99_22-40.pdf,GD99,Turn-Regularity and Planar Orthogonal Drawings,10.1007/3-540-46648-7_2,22-40,Stina S. Bridgeman; Giuseppe Di Battista; Walter Didimo; Giuseppe Liotta; Roberto Tamassia; Luca Vismara
+GD99_41-51.pdf,GD99,Combining Graph Labeling and Compaction,10.1007/3-540-46648-7_3,41-51,Gunnar W. Klau; Petra Mutzel
+GD99_52-62.pdf,GD99,Almost Bend-Optimal Planar Orthogonal Drawings of Biconnected Degree-3 Planar Graphs in Quadratic Time,10.1007/3-540-46648-7_4,52-62,Ashim Garg; Giuseppe Liotta
+GD99_63-72.pdf,GD99,Fully Dynamic 3-Dimensional Orthogonal Graph Drawing,10.1007/3-540-46648-7_5,63-72,M. Closson; S. Gartshore; J. Johansen; S. K. Wismath
+GD99_73-85.pdf,GD99,An E log E Line Crossing Algorithm for Levelled Graphs,10.1007/3-540-46648-7_6,73-85,Vance Waddle; Ashok Malhotra
+GD99_86-95.pdf,GD99,Level Planar Embedding in Linear Time,10.1007/3-540-46648-7_7,86-95,Michael Jünger; Sebastian Leipert
+GD99_96-103.pdf,GD99,Higres – Visualization System for Clustered Graphs and Graph Algorithms,10.1007/3-540-46648-7_8,96-103,Ivan A. Lisitsyn; Victor N. Kasyanov
+GD99_104-111.pdf,GD99,Partitioning Approach to Visualization of Large Graphs,10.1007/3-540-46648-7_9,104-111,Vladimir Batagelj; Andrej Mrvar; Matjaž Zaveršnik
+GD99_112-120.pdf,GD99,Graph Clustering Using Distance-k Cliques,10.1007/3-540-46648-7_10,112-120,Jubin Edachery; Arunabha Sen; Franz J. Brandenburg
+GD99_121-130.pdf,GD99,A Framework for Circular Drawings of Networks,10.1007/3-540-46648-7_11,121-130,Janet M. Six; Ioannis G. Tollis
+GD99_131-140.pdf,GD99,Drawing Planar Graphs with Circular Arcs,10.1007/3-540-46648-7_12,131-140,C. C. Cheng; C. A. Duncan; M. T. Goodrich; S. G. Kobourov
+GD99_141-150.pdf,GD99,Drawing Graphs in the Hyperbolic Plane,10.1007/3-540-46648-7_13,141-150,Bojan Mohar
+GD99_159-168.pdf,GD99,Grid Drawings of Four-Connected Plane Graphs,10.1007/3-540-46648-7_15,159-168,Kazuyuki Miura; Shin-ichi Nakano; Takao Nishizeki
+GD99_169-178.pdf,GD99,Graph Embedding with Topological Cycle-Constraints,10.1007/3-540-46648-7_16,169-178,Christoph Dornheim
+GD99_179-188.pdf,GD99,Embedding Vertices at Points: Few Bends Suffice for Planar Graphs,10.1007/3-540-46648-7_17,179-188,Michael Kaufmann; Roland Wiese
+GD99_189-199.pdf,GD99,The Constrained Crossing Minimization Problem,10.1007/3-540-46648-7_18,189-199,Petra Mutzel; Thomas Ziegler
+GD99_200-210.pdf,GD99,Planarity-Preserving Clustering and Embedding for Large Planar Graphs,10.1007/3-540-46648-7_19,200-210,Christian A. Duncan; Michael T. Goodrich; Stephen G. Kobourov
+GD99_211-218.pdf,GD99,An Algorithm for Drawing Compound Graphs,10.1007/3-540-46648-7_20,211-218,François Bertault; Mirka Miller
+GD99_219-230.pdf,GD99,The Vertex-Exchange Graph: A New Concept for Multi-level Crossing Minimisation,10.1007/3-540-46648-7_21,219-230,Patrick Healy; Ago Kuusik
+GD99_231-238.pdf,GD99,Using Sifting for k-Layer Straightline Crossing Minimization,10.1007/3-540-46648-7_22,231-238,Christian Matuszewski; Robby Schönfeld; Paul Molitor
+GD99_239-245.pdf,GD99,On 3-Layer Crossings and Pseudo Arrangements,10.1007/3-540-46648-7_23,239-245,Farhad Shahrokhi; Imrich Vrt’o
+GD99_246-255.pdf,GD99,Visualizing Algorithms for the Design and Analysis of Survivable Networks,10.1007/3-540-46648-7_24,246-255,Ala Eddine Barouni; Ali Jaoua; Nejib Zaguia
+GD99_256-263.pdf,GD99,LayoutShow: A Signed Applet/Application for Graph Drawing and Experimentation,10.1007/3-540-46648-7_25,256-263,Lila Behzadi
+GD99_264-272.pdf,GD99,Centrality in Policy Network Drawings,10.1007/3-540-46648-7_26,264-272,Ulrik Brandes; Patrick Kenis; Dorothea Wagner
+GD99_273-280.pdf,GD99,Straight-Line Drawings of Protein Interactions,10.1007/3-540-46648-7_27,273-280,Wojciech Basalaj; Karen Eilbeck
+GD99_290-299.pdf,GD99,An Heuristic for Graph Symmetry Detection,10.1007/3-540-46648-7_29,290-299,Hubert de Fraysseix
+GD99_300-310.pdf,GD99,Isomorphic Subgraphs,10.1007/3-540-46648-7_30,300-310,Sabine Bachl
+GD99_311-324.pdf,GD99,Orthogonal and Quasi-upward Drawings with Vertices of Prescribed Size,10.1007/3-540-46648-7_31,311-324,Giuseppe Di Battista; Walter Didimo; Maurizio Patrignani; Maurizio Pizzonia
+GD99_325-336.pdf,GD99,Multi-dimensional Orthogonal Graph Drawing with Small Boxes,10.1007/3-540-46648-7_32,325-336,David R. Wood
+GD99_337-346.pdf,GD99,Geometric Realization of Simplicial Complexes,10.1007/3-540-46648-7_33,337-346,Patrice Ossona de Mendez
+GD99_347-354.pdf,GD99,Visibility Representations of Complete Graphs,10.1007/3-540-46648-7_34,347-354,Robert Babilon; Helena Nyklová; Ondřej Pangrác; Jan Vondrák
+GD99_355-364.pdf,GD99,Triangle-Free Planar Graphs as Segments Intersection Graphs,10.1007/3-540-46648-7_35,355-364,N. de Castro; F. J. Cobos; J. C. Dana; A. Márquez; M. Noy
+GD99_365-372.pdf,GD99,A Force-Directed Algorithm that Preserves Edge Crossing Properties,10.1007/3-540-46648-7_36,365-372,François Bertault
+GD99_373-382.pdf,GD99,Rectangle of Influence Drawings of Graphs without Filled 3-Cycles,10.1007/3-540-46648-7_37,373-382,Therese Biedl; Anna Bretscher; Henk Meijer
+GD99_383-392.pdf,GD99,Voronoi Drawings of Trees,10.1007/3-540-46648-7_38,383-392,Giuseppe Liotta; Henk Meijer
+GD99_393-405.pdf,GD99,Infinite Trees and the Future,10.1007/3-540-46648-7_39,393-405,Camil Demetrescu; Giuseppe Di Battista; Irene Finocchi; Giuseppe Liotta; Maurizio Patrignani; Maurizio Pizzonia
+GD99_406-413.pdf,GD99,Latour – A Tree Visualisation System,10.1007/3-540-46648-7_40,406-413,Ivan Herman; Guy Melançon; Maurice M. de Ruiter; Maylis Delest
