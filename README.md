@@ -1,7 +1,7 @@
 GD Collection v1
 ================
 
-The GD Collection v1 is a set of 4,890 graph drawings that we have extracted from 27
+The *GD Collection v1* is a set of 4,890 graph drawings that we have extracted from 27
 editions of the proceedings of the Symposium of Graph Drawing (and Network Visualization)
 1998–2024.
 
