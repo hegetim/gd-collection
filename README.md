@@ -10,7 +10,7 @@ Graph Storage Formats
 ---------------------
 
 The collection contains graphs in [GEG]() (GEG Encodes Graphs) and GraphViz dot file formats.
-Note that while widely used, the dot format extensions for edge geometries (as defined in Appendix F
+Note that while widely used, the dot format extension for edge geometries (as defined in Appendix F
 of their [User's Manual](https://graphviz.org/pdf/dotguide.pdf)) is rather niche and may not be
 supported by most software.  We recommend using the GEG versions.
 
